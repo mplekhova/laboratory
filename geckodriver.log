@@ -1,0 +1,868 @@
+1584183922973	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilePy28Wk"
+1584183923606	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584183924090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584183924090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584183924090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584183924090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584183926686	Marionette	INFO	Listening on port 54105
+1584183926715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584183930090	Marionette	INFO	Stopped listening on port 54105
+1584183975479	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilefA4F19"
+1584183976004	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584183976442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584183976442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584183976442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584183976442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584183979049	Marionette	INFO	Listening on port 54183
+1584183979085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584183982647	Marionette	INFO	Stopped listening on port 54183
+1584184031273	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileNjWUxo"
+1584184031924	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584184032423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584184032423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584184032423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584184032423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584184035012	Marionette	INFO	Listening on port 54262
+1584184035099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584184538543	Marionette	INFO	Stopped listening on port 54262
+1584271348990	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilemH32Lr"
+1584271350135	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584271350607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584271350608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584271350608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584271350608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584271353692	Marionette	INFO	Listening on port 55993
+1584271353718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/init.js, line 1: ReferenceError: jQuery is not defined
+1584271389323	Marionette	INFO	Stopped listening on port 55993
+1584271413574	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileDjVmrB"
+1584271414077	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584271414550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584271414550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584271414550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584271414550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584271416838	Marionette	INFO	Listening on port 56121
+1584271416858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584271423118	Marionette	INFO	Stopped listening on port 56121
+1584272035640	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileFiA7nZ"
+1584272036134	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584272036586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584272036586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584272036586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584272036586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584272038756	Marionette	INFO	Listening on port 56260
+1584272038817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 833: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1584273273670	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilek00Ins"
+1584273274435	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584273274900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584273274900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584273274900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584273274900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584273277115	Marionette	INFO	Listening on port 56590
+1584273277183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584273453931	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofiledBQ6j1"
+1584273454535	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584273455054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584273455055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584273455055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584273455055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584273457942	Marionette	INFO	Listening on port 56718
+1584273457982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584273459476	Marionette	INFO	Stopped listening on port 56590
+1584273462331	Marionette	INFO	Stopped listening on port 56260
+1584273614779	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileEU6p6i"
+1584273615330	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584273615829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584273615829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584273615829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584273615829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584273618804	Marionette	INFO	Listening on port 56883
+1584273618887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584273619500	Marionette	INFO	Stopped listening on port 56718
+1584273645203	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileG9RLqW"
+1584273645762	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584273646307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584273646308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584273646308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584273646308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584273648841	Marionette	INFO	Listening on port 57015
+1584273648871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584273652475	Marionette	INFO	Stopped listening on port 56883
+1584273844669	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileKYI3uS"
+1584273845251	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584273845706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584273845706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584273845706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584273845706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584273847981	Marionette	INFO	Listening on port 57115
+1584273848039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584273862357	Marionette	INFO	Stopped listening on port 57015
+1584273866152	Marionette	INFO	Stopped listening on port 57115
+1584274800877	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileTd4gER"
+1584274801565	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584274802016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584274802016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584274802016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584274802016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584274804324	Marionette	INFO	Listening on port 57410
+1584274804439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584275362891	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileJrpCzK"
+1584275363504	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584275363951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584275363951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584275363951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584275363951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584275366228	Marionette	INFO	Listening on port 58566
+1584275366282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584275389650	Marionette	INFO	Stopped listening on port 57410
+1584275394810	Marionette	INFO	Stopped listening on port 58566
+1584275648874	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileuEsvXi"
+1584275649593	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584275650181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584275650181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584275650181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584275650181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584275652608	Marionette	INFO	Listening on port 59845
+1584275652684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584275668420	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile8RT9ov"
+1584275669144	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584275669708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584275669708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584275669708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584275669708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584275672312	Marionette	INFO	Listening on port 60005
+1584275672417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/init.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.8.5, line 716: ReferenceError: jQuery is not defined
+1584275677488	Marionette	INFO	Stopped listening on port 60005
+1584275689874	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilefmh0cC"
+1584275690405	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584275690866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584275690866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584275690866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584275690866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584275693155	Marionette	INFO	Listening on port 60177
+1584275693194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 833: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 833: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1584278186703	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileKXZWsu"
+1584278187368	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584278187829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584278187829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584278187829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584278187829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584278190627	Marionette	INFO	Listening on port 49457
+1584278190672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584278214775	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilecFxUBj"
+1584278215637	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584278216340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584278216340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584278216340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584278216341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584278219678	Marionette	INFO	Listening on port 49703
+1584278219715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584278231565	Marionette	INFO	Stopped listening on port 60177
+1584278234349	Marionette	INFO	Stopped listening on port 49457
+1584278238976	Marionette	INFO	Stopped listening on port 49703
+1584278554616	Marionette	INFO	Stopped listening on port 59845
+1584278557885	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilevyLL1W"
+1584278558457	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584278558905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584278558905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584278558905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584278558905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584278561061	Marionette	INFO	Listening on port 51262
+1584278561119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584278585753	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile6E4hnN"
+1584278586349	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584278586850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584278586850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584278586850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584278586850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584278589100	Marionette	INFO	Listening on port 51492
+1584278589155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584278934275	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilesIEeR9"
+1584278934847	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584278935392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584278935392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584278935393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584278935393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584278937742	Marionette	INFO	Listening on port 53022
+1584278937791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 833: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1584278965413	Marionette	INFO	Stopped listening on port 51262
+1584278968006	Marionette	INFO	Stopped listening on port 51492
+1584278975002	Marionette	INFO	Stopped listening on port 53022
+1584279155410	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileikGvsB"
+1584279155981	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584279156438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584279156438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584279156438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584279156438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584279158620	Marionette	INFO	Listening on port 54054
+1584279158722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584279162193	Marionette	INFO	Stopped listening on port 54054
+1584279267163	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilejfOLvl"
+1584279267714	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584279268183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584279268183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584279268183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584279268183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584279270834	Marionette	INFO	Listening on port 54604
+1584279270939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584279338662	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileN6e9Cz"
+1584279339162	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584279339664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584279339664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584279339664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584279339664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584279341934	Marionette	INFO	Listening on port 55025
+1584279341957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 833: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1584279669483	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilePwyOkl"
+1584279670036	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584279670481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584279670481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584279670481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584279670481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584279673439	Marionette	INFO	Listening on port 56547
+1584279673521	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584279674499	Marionette	INFO	Stopped listening on port 54604
+1584279677157	Marionette	INFO	Stopped listening on port 56547
+1584279699226	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilenTpyrB"
+1584279699819	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584279700308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584279700308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584279700308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584279700308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584279703073	Marionette	INFO	Listening on port 56757
+1584279703155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584279703672	Marionette	INFO	Stopped listening on port 55025
+1584279706729	Marionette	INFO	Stopped listening on port 56757
+1584280207109	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile27JrAt"
+1584280207618	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584280208074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584280208075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584280208075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584280208075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584280210387	Marionette	INFO	Listening on port 58905
+1584280210435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584280214043	Marionette	INFO	Stopped listening on port 58905
+1584280271149	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileHdFSp0"
+1584280271637	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584280272086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584280272086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584280272086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584280272086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584280274230	Marionette	INFO	Listening on port 59251
+1584280274254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584280279246	Marionette	INFO	Stopped listening on port 59251
+1584280364122	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileuGwMk1"
+1584280364878	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584280365369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584280365370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584280365370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584280365370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584280369058	Marionette	INFO	Listening on port 59727
+1584280369081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584280482591	Marionette	INFO	Stopped listening on port 59727
+1584280486906	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile70nVKQ"
+1584280487480	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584280488063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584280488063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584280488064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584280488064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584280490430	Marionette	INFO	Listening on port 60373
+1584280490529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+1584280495328	Marionette	INFO	Stopped listening on port 60373
+1584280573016	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofiledsXUuI"
+1584280573619	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584280574182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584280574182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584280574182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584280574182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584280576818	Marionette	INFO	Listening on port 60804
+1584280576848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584280618286	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileqCBaiV"
+1584280619160	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584280619687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584280619687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584280619687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584280619687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584280622291	Marionette	INFO	Listening on port 61108
+1584280622309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584280661864	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileQPMezX"
+1584280662660	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584280663270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584280663270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584280663271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584280663271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584280666566	Marionette	INFO	Listening on port 61418
+1584280666669	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584280668807	Marionette	INFO	Stopped listening on port 60804
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/init.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.8.5, line 716: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/js/slidemenu.js?ver=5.3.2, line 15: ReferenceError: jQuery is not defined
+JavaScript error: https://www.enterpriseai.news/ line 1 > scriptElement, line 4: ReferenceError: jQuery is not defined
+JavaScript error: https://www.enterpriseai.news/ line 1 > scriptElement, line 7: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.2.5, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/plugins/monarch/js/custom.js?ver=1.2.5, line 701: ReferenceError: jQuery is not defined
+1584280672030	Marionette	INFO	Stopped listening on port 61108
+1584280674541	Marionette	INFO	Stopped listening on port 61418
+1584280701486	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileETR9M0"
+1584280702015	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584280702480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584280702480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584280702480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584280702480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584280704649	Marionette	INFO	Listening on port 61683
+1584280704728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+1584280709290	Marionette	INFO	Stopped listening on port 61683
+1584280742355	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileGoOiUz"
+1584280743058	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584280743561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584280743561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584280743561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584280743561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584280745785	Marionette	INFO	Listening on port 61933
+1584280745871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+1584280750246	Marionette	INFO	Stopped listening on port 61933
+1584280787196	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilesJWE6K"
+1584280787715	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584280788177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584280788178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584280788178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584280788178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584280790573	Marionette	INFO	Listening on port 62201
+1584280790627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+1584280860510	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileE6GwV7"
+1584280861044	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584280861512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584280861512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584280861512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584280861512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584280863836	Marionette	INFO	Listening on port 62630
+1584280863914	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x8000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1584280866136	Marionette	INFO	Stopped listening on port 62201
+1584280868799	Marionette	INFO	Stopped listening on port 62630
+1584280897447	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileoGlycl"
+1584280898297	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584280898773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584280898773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584280898773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584280898773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584280901014	Marionette	INFO	Listening on port 62868
+1584280901038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584281239398	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileRvYPKi"
+1584281239923	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584281240418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584281240418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584281240418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584281240418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584281242739	Marionette	INFO	Listening on port 64388
+1584281242825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584281245277	Marionette	INFO	Stopped listening on port 62868
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1584281248170	Marionette	INFO	Stopped listening on port 64388
+1584281369802	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileYiTUsA"
+1584281370544	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584281371078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584281371078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584281371078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584281371078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584281373615	Marionette	INFO	Listening on port 65002
+1584281373704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+1584281379279	Marionette	INFO	Stopped listening on port 65002
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1584281965998	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilezAOydB"
+1584281966675	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584281967254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584281967254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584281967254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584281967255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584281969657	Marionette	INFO	Listening on port 51117
+1584281969708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/init.js, line 1: ReferenceError: jQuery is not defined
+1584281975673	Marionette	INFO	Stopped listening on port 51117
+1584282000844	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileXt9i3B"
+1584282001419	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282001876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282001876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282001876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282001876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282004824	Marionette	INFO	Listening on port 51355
+1584282004860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+1584282019656	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile6N7hlN"
+1584282020341	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282020840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282020841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282020841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282020841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282023238	Marionette	INFO	Listening on port 51556
+1584282023261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584282027600	Marionette	INFO	Stopped listening on port 51556
+1584282052689	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilebAn2QP"
+1584282053454	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282054002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282054002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282054002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282054002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282056347	Marionette	INFO	Listening on port 51774
+1584282056385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584282066952	Marionette	INFO	Stopped listening on port 51355
+1584282072928	Marionette	INFO	Stopped listening on port 51774
+1584282147350	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileXBTak3"
+1584282147975	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282148370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282148370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282148370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282148370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282150700	Marionette	INFO	Listening on port 52287
+1584282150730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584282155056	Marionette	INFO	Stopped listening on port 52287
+1584282236447	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilewsYt4t"
+1584282236968	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282237459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282237459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282237459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282237459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282239867	Marionette	INFO	Listening on port 52738
+1584282239898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584282253840	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile9GPM9s"
+1584282254619	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282255151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282255151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282255151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282255151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282257998	Marionette	INFO	Listening on port 52930
+1584282258077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584282278180	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileePsfzF"
+1584282279061	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282279627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282279628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282279628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282279628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282282298	Marionette	INFO	Listening on port 53150
+1584282282344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584282338534	Marionette	INFO	Stopped listening on port 52738
+1584282342880	Marionette	INFO	Stopped listening on port 52930
+1584282346507	Marionette	INFO	Stopped listening on port 53150
+1584282466813	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilefqdLKK"
+1584282467874	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282468448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282468448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282468449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282468449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282470857	Marionette	INFO	Listening on port 54062
+1584282470971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584282485641	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileQSpnAI"
+1584282486154	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282486600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282486600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282486600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282486601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282489477	Marionette	INFO	Listening on port 54270
+1584282489520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584282494619	Marionette	INFO	Stopped listening on port 54062
+1584282513875	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileMEigdb"
+1584282514384	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282514857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282514857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282514857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282514858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282517108	Marionette	INFO	Listening on port 54507
+1584282517232	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584282520814	Marionette	INFO	Stopped listening on port 54270
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+1584282521866	Marionette	INFO	Stopped listening on port 54507
+1584282730667	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile5zbRIM"
+1584282731355	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282731970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282731970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282731971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282731971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282734331	Marionette	INFO	Listening on port 55497
+1584282734415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584282738903	Marionette	INFO	Stopped listening on port 55497
+1584282792631	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilejCemuo"
+1584282793338	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282793842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282793842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282793842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282793843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282796532	Marionette	INFO	Listening on port 55832
+1584282796556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584282800660	Marionette	INFO	Stopped listening on port 55832
+1584282829917	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileksmksD"
+1584282830570	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282831129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282831129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282831129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282831129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282833504	Marionette	INFO	Listening on port 56065
+1584282833603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+1584282838035	Marionette	INFO	Stopped listening on port 56065
+1584282889578	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile0Nps2B"
+1584282890261	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282890725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282890725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282890725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282890725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282893008	Marionette	INFO	Listening on port 56391
+1584282893107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584282913254	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile5b9DNO"
+1584282913833	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584282914310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584282914310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584282914310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584282914310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584282916631	Marionette	INFO	Listening on port 56611
+1584282916697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584282921647	Marionette	INFO	Stopped listening on port 56611
+1584282929312	Marionette	INFO	Stopped listening on port 56391
+1584283289727	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile8TOM16"
+1584283290552	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283291079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283291079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283291079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283291079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283293599	Marionette	INFO	Listening on port 58258
+1584283293638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584283299124	Marionette	INFO	Stopped listening on port 58258
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1584283372695	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile7Hcn9E"
+1584283373329	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283373796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283373797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283373797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283373797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283376568	Marionette	INFO	Listening on port 58685
+1584283376606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584283380939	Marionette	INFO	Stopped listening on port 58685
+1584283462498	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileMrynNd"
+1584283463103	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283463555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283463555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283463556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283463556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283465737	Marionette	INFO	Listening on port 59142
+1584283465824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584283471428	Marionette	INFO	Stopped listening on port 59142
+1584283497799	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile1QiYAf"
+1584283498431	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283498907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283498907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283498907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283498907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283501064	Marionette	INFO	Listening on port 59365
+1584283501092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/init.js, line 1: ReferenceError: jQuery is not defined
+1584283505599	Marionette	INFO	Stopped listening on port 59365
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1584283569617	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileI3gajE"
+1584283570193	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283570651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283570651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283570651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283570651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283573211	Marionette	INFO	Listening on port 59740
+1584283573237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584283577498	Marionette	INFO	Stopped listening on port 59740
+1584283623034	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileE5rv1V"
+1584283623681	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283624158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283624158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283624158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283624158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283627066	Marionette	INFO	Listening on port 60039
+1584283627165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+1584283631246	Marionette	INFO	Stopped listening on port 60039
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1584283655732	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilegyyJLf"
+1584283656650	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283657237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283657237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283657237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283657237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283659577	Marionette	INFO	Listening on port 60259
+1584283659653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+1584283663963	Marionette	INFO	Stopped listening on port 60259
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1584283692870	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileEAqIAC"
+1584283693412	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283693891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283693891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283693891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283693891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283696038	Marionette	INFO	Listening on port 60495
+1584283696062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584283700283	Marionette	INFO	Stopped listening on port 60495
+1584283739366	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileOT3ap8"
+1584283739960	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283740450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283740450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283740451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283740451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283742994	Marionette	INFO	Listening on port 60766
+1584283743083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+1584283747383	Marionette	INFO	Stopped listening on port 60766
+1584283832499	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileuwSL83"
+1584283833140	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283833585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283833585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283833585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283833585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283836543	Marionette	INFO	Listening on port 61227
+1584283836623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+1584283841150	Marionette	INFO	Stopped listening on port 61227
+1584283872775	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileRBAwQt"
+1584283873392	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283873839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283873839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283873839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283873839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283876408	Marionette	INFO	Listening on port 61482
+1584283876499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584283880718	Marionette	INFO	Stopped listening on port 61482
+1584283905061	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilehA3EcZ"
+1584283905728	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283906211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283906211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283906211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283906212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283908929	Marionette	INFO	Listening on port 61697
+1584283908996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584283913195	Marionette	INFO	Stopped listening on port 61697
+1584283930777	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileFbasee"
+1584283931376	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283931839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283931839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283931839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283931839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283934676	Marionette	INFO	Listening on port 61884
+1584283934733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584283939200	Marionette	INFO	Stopped listening on port 61884
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x8000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1584283964610	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileX0sqVJ"
+1584283965427	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584283966013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584283966013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584283966013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584283966013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584283968225	Marionette	INFO	Listening on port 62107
+1584283968246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584283972416	Marionette	INFO	Stopped listening on port 62107
+1584284003406	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileT0aBLR"
+1584284004037	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584284004679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584284004680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584284004680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584284004680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584284006874	Marionette	INFO	Listening on port 62341
+1584284006932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584284011006	Marionette	INFO	Stopped listening on port 62341
+1584284292747	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileFiuvab"
+1584284293684	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584284294181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584284294181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584284294181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584284294181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584284296382	Marionette	INFO	Listening on port 63606
+1584284296491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+1584284301384	Marionette	INFO	Stopped listening on port 63606
+1584284415255	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofiletKl8CA"
+1584284416373	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584284416809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584284416810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584284416810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584284416810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584284419148	Marionette	INFO	Listening on port 64194
+1584284419187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584284482096	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileItxoRY"
+1584284483065	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584284483638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584284483638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584284483638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584284483638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584284486156	Marionette	INFO	Listening on port 64600
+1584284486228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+1584284491224	Marionette	INFO	Stopped listening on port 64600
+1584284513599	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofiletZ93ei"
+1584284514207	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584284514946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584284514946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584284514947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584284514947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584284517569	Marionette	INFO	Listening on port 64822
+1584284517625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584284520718	Marionette	INFO	Stopped listening on port 64194
+1584284522270	Marionette	INFO	Stopped listening on port 64822
+1584284696398	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofilevgStxe"
+1584284697347	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584284697856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584284697856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584284697856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584284697856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584284700033	Marionette	INFO	Listening on port 49278
+1584284700101	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584284711705	Marionette	INFO	Stopped listening on port 49278
+1584284751498	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofile6T9ZQB"
+1584284752398	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584284752907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584284752907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584284752907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584284752908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584284755252	Marionette	INFO	Listening on port 49610
+1584284755350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+1584284816014	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/44b4fv3x6vn83l8nhkmylfkc0000gn/T/rust_mozprofileIJko7w"
+1584284817078	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584284817589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584284817590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584284817590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584284817590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584284820820	Marionette	INFO	Stopped listening on port 49610
+1584284821434	Marionette	INFO	Listening on port 50003
+1584284821509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/nivoslider.js, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/jcarousel.js, line 16: ReferenceError: jQuery is not defined
+JavaScript error: https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/themes/localnews/functions/shortcodes-ultimate/js/init.js, line 1: ReferenceError: jQuery is not defined
+1584284832871	Marionette	INFO	Stopped listening on port 50003
