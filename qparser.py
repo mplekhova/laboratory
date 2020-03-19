@@ -2,45 +2,48 @@ from selenium import webdriver
 from lxml.html import fromstring
 import json
 import time
+import datetime
+import requests
 
-def main(agent):
-    def first_page():
-        # объект Селениум, через который мы взаимодействуем с веббраузером
-        agent.get('https://www.enterpriseai.news/')
+def get_source_code(agent, url):
+  agent.get(url)
+  source_code = fromstring(agent.page_source)
+  # print(source_code)
+  return source_code
 
-        source_code = fromstring(agent.page_source)
-        title_list = source_code.xpath("//div[@class='news-listing-title']//a")
-        href = title_list[0].get('href')
-        return href
-        # a = driver.find_element_by_xpath("//div[@class='news-listing-title']//a")
-        # a.click()
-
-    def urls():
-        url = first_page()
-        agent.get(url)
-        source_code = fromstring(agent.page_source)
-        time.sleep(1)
-        title = source_code.xpath("//h1[@class='entry-title-single']")[0].text_content()
-        author = source_code.xpath("//a[@href='https://www.enterpriseai.news/author/george/']")[0].text_content()
-        date = source_code.xpath("//span[@class='entry-date']")[0].text_content()
-        time.sleep(3)
-        text = source_code.xpath("//div[@id='post-41849']")[0].text_content()[95:2771]
-        time.sleep(3)
-
-        dict_to_json = {'title' : title, 
-        'author': author,
-        'date' : date,
-        'text' : text}
-
-        with open('data.json', 'w', encoding='UTF-8') as outfile:
-            json.dump(dict_to_json, outfile)
-        print('ok')
-    
-    urls()
-  
+def get_articles_urls(agent, source_code, links, i):
+  temp_list_of_links = (source_code.xpath("//h2[@class='entry-title']/a/@href"))
+  for elem in temp_list_of_links:
+    links.append(elem)
+  if i != 39:
+    next_page = source_code.xpath("//*[@id='content']/div[12]/div/a[@class='nextpostslink']/@href")
+    return (links, next_page[0])
+  return links
 
 if __name__ == '__main__':
     driver = webdriver.Firefox(executable_path='geckodriver',  
                     firefox_binary='/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin')
-    main(driver)
+    url = 'https://www.enterpriseai.news/category/storage/'
+    source_code =  get_source_code(driver, url)
+    links = []
+
+    for i in range(40):
+      if i != 39:
+        links, next_page = get_articles_urls(driver, source_code, links, i)
+        source_code = get_source_code(driver, next_page)
+      else:
+        links = get_articles_urls(driver, source_code, links, i)
     driver.quit()
+
+    article_link_data = {}
+    for i in range(394):
+      article_link_data[str(i)] = links[i]
+    print(len(article_link_data))
+
+    with open('articles.json', 'w', encoding='utf-8') as f:
+      json.dump(article_link_data, f, indent=4)
+
+    # for elem in links:
+    #   r = requests.get(elem)
+    #   print(r.status_code)
+    
