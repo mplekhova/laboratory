@@ -1,0 +1,10 @@
+{
+    "title": "Latest NVM Express Spec Stresses Data",
+    "author": "George Leopold",
+    "date": "2017-06-22 00:00:00",
+    "text": "The latest release of a non-volatile memory interface and storage protocol emphasizes the enterprise shift to analytics, virtualization and other data-intensive workloads while riding the coat tails of the robust solid-state storage sector.NVM Express 1.3 unveiled this week adds new virtualization and \"streams\" features along with a \"native\" capability for erasing data from a solid-state drive, creating options for reuse or decommissioning. \"The NVM Express working group is laser-focused on the specification\u2019s continued evolution to address the dynamic workloads and scenarios that NVMe serves,\" Amber Huffman, president of NVM Express, noted in a statement releasing the new spec this week.Along with enterprise and cloud applications, mobile platforms increasingly used to access distributed applications also are supported by the latest interface spec. The group said version 1.3 enables \"bootstrapping\" of an SSD \"in a low resource environment\" while maintaining low latency and expected performance.Read the full story at sister web site Datanami.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "pic_urls": [
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-22-at-6.20.32-PM-370x290.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
+    ]
+}
