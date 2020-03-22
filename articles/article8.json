@@ -1,0 +1,10 @@
+{
+    "title": "Container Storage Link Adds Persistence in a Flash",
+    "author": "George Leopold",
+    "date": "2020-01-16 00:00:00",
+    "text": "As application containers took off in the mid-2010s, persistent storage emerged as a key barrier to adoption. With containers now entering the mainstream for handling machine and deep learning applications, more vendors are focusing on storage interfaces that can link huge data volumes along with flash memory to container orchestration platforms.Among them is VAST Data, which this week announced general availability of a container storage interface designed to deploy and manage storage services across a range of standard container platforms. Along with making the shift to flash memory more affordable, the company said Thursday (Jan. 16) its storage interface enables \u201cprogrammatic provisioning\u201d of persistent storage volumes on container orchestration platforms like Kubernetes and Red Hat OpenShift.VAST Data\u2019s interface builds on the New York-based storage vendor\u2019s \u201cuniversal storage architecture\u201d released in February 2019. The framework incorporates 3D Xpoint and quad-level cell flash memories along with NVMe-over-fabric.The company said its storage algorithms are designed to reduce the cost of transferring data to those flash technologies, thereby enabling all-flash applications running in containers.Read the full story here at sister web site Datanami.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "pic_urls": [
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-07-at-12.25.11-PM.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
+    ]
+}
