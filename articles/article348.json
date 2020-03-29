@@ -1,10 +1,41 @@
 {
-    "title": "Accelerating Virtual Storage With RAM And Flash",
-    "author": "George Leopold",
-    "date": "2014-04-23 00:00:00",
-    "text": "Virtual storage shifted to a higher gear this week with new software from PernixData aimed at accelerating virtual applications running on servers equipped with VMware's virtualization wares.PernixData announced an upgrade to its FVP platform that speeds virtual applications using main memory or flash memory in servers. Hence, the company claims FVP 2.0 is suited to deployment in most server environments.PernixData added that the souped-up version of FVP, which runs as kernel module inside of VMware's ESXi server virtualization hypervisor, also could be deployed in conjunction with file, block, or direct-attached storage, thereby easing integration with existing or future storage devices.The company claimed the new acceleration features make \"server side software a fundamental part of any virtual infrastructure by cost effectively scaling storage performance independent of capacity.\"The goal was to make software-based storage acceleration easier to deploy and scale in virtual datacenters, analysts said. Hence, server-side storage acceleration is increasingly seen as a key investment for companies operating datacenters.\u201cStorage is at an amazing inflection point where performance is being extricated from capacity to optimize application behavior and cost effectively scale IOPS (input/output operations per second), without disrupting years of investment in shared storage infrastructure,\u201d Satyam Vaghani, CTO and co-founder of PernixData, said in a statement.The company maintains it has made \"decoupled storage architectures the de facto standard in virtual data centers.\u201d\u00a0The decoupling of storage performance from storage capacity results in a ten-fold speed increase for virtualized applications, what it called unlimited I/O operations per second (which obviously is not the case and which refers to the ability to scale up I/O by scaling out storage on the ESXi clusters), and a 90 percent reduction in storage costs, the company claimed.The FVP software works by virtualizing RAM and flash memory across servers to create a \"clustered pool of high-speed resources that accelerate reads and writes to shared storage,\" the company said.Other features of FVP 2.0 include:\u00a0PernixData said its new FVP features are available in a limited release. A request form for access to a beta version of the FVP software is here.It will be interesting to see how FVP stacks up against VMware's own Virtual SAN (vSAN) software, which similarly creates a storage pool across disk and flash devices in an ESXi cluster to accelerate the performance of that storage and obviate the need for an actual storage area network.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "DataCore SANsymphony Boosts Flash, Ends \u2018Storage Islands\u2019",
+    "text": "Software-defined storage vendor DataCore Software rolled out the latest version of its SANsymphony virtual storage area network, which seeks to boost utilization of pricey flash storage technology while pulling together virtual and physical storage services.DataCore said that version 10 of its virtual SAN software addresses the need to boost utilization of flash storage by directly attaching flash and disk storage to application hosts and clustered servers in a virtual SAN.In an interview, DataCore CEO and co-founder George Teixeira said the latest version of its virtual SAN software reflects a trend toward moving workloads closer to applications and storage closer to workloads. The added value resides in DataCore's software stack, which also optimizes flash utilization while preventing virtual and physical services from becoming \"isolated storage islands.\"\"The software should be able to move across all these environments,\" Teixeira added. That's particularly important as enterprise customers adopt a spectrum of storage options that include flash, storage networks along with private and public clouds.With that in mind, DataCore said the latest version of its SAN software incorporates an automation feature called \"auto-tiering\" that allows different flash memory and storage devices to operate across different vendor platforms. The feature can handle up to 15 tiers and is designed to automate the process of identifying the appropriate storage platform within an enterprise, the company claimed.The automation software also selects the appropriate level of storage depending on the use case. For example, the storage of medical records would require greater security while less sensitive data could be stored at various physical locations using I/O mirroring over metro-area distances.Teixeira added that flexibility is the key factor driving the shift to software-defined networks. Unlike hardware, which tends to be replaced every several years, \"software lives on,\" the DataCore CEO noted, and must be able to run on a variety of environments.The company said version 10 of its virtual SAN software scales performance up to 50 million IOPS and 32 petabytes of capacity across a 32-server cluster.DataCore said typical multi-node licenses for version 10 of its SANsymphony software range between $10,000 and $25,000. New virtual SAN pricing starts at $4,000 per server. The virtual SAN price includes the auto-tiering feature along with adaptive read/write caching form DRAM, storage pooling, metro-wide synchronous mirroring and thin provisioning, among other features.The company added that the new virtual SAN software supports operating systems hosted on VMware ESX and Microsoft Hyper-V virtual environments. SANsymphony Version 10 can also be deployed in a virtual machine or running in native mode on Windows Server 2012 using physical X86 servers.The company said general availability of version 10 is scheduled for May 30, 2014.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2014-04-30 00:00:00",
+    "cats": [
+        "Editor's Picks: Front Page",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/editors-pick/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "DataCore",
+        "ESX",
+        "Flash",
+        "Hyper-V",
+        "microsoft",
+        "SAN",
+        "VMware"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/datacore/",
+        "https://www.enterpriseai.news/tag/esx/",
+        "https://www.enterpriseai.news/tag/flash/",
+        "https://www.enterpriseai.news/tag/hyper-v/",
+        "https://www.enterpriseai.news/tag/microsoft/",
+        "https://www.enterpriseai.news/tag/san/",
+        "https://www.enterpriseai.news/tag/vmware/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2013/12/hp-storage-logo-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2014/03/sap-hana-logo-2-370x290.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }
