@@ -1,11 +1,37 @@
 {
-    "title": "Pure Storage Launches IPO as Flash Eyes Mainstream",
-    "author": "George Leopold",
-    "date": "2015-10-07 00:00:00",
-    "text": "All-flash storage array specialist Pure Storage launched a $400 million initial public offering this week, one of the largest technology IPOs of the year, prompting other all-flash vendors to assert that the emerging storage architecture is entering the mainstream.Pure Storage (PSTG) announced on Tuesday (Oct. 6) it was setting its share price at $17 for its IPO of 25 million shares of common stock. The shares began trading Wednesday on the New York Stock Exchange, making it one of the largest technology IPOs this year. The Pure Storage shares opened lower in early trading.The storage specialist based in Mountain View, Calif., has been gaining traction and investment over the past year, raking in nearly $500 million in venture capital through 2014. The storage startup's market valuation exceeds $3 billion, the company said.Pure Storage has made steady headway with customers like LinkedIn in areas like database acceleration, virtualized server clouds and virtual desktop infrastructure. The startup hopes to capitalize on the shift for all-flash non-volatile memory as customers look for ways to accelerate databases without having to move from relational databases to in-memory or NoSQL data stores.\"The products we are crafting will ultimately compete with commodity server hardware and help change the way systems software like databases and file systems are architected,\" Pure Storage CEO Scott Dietzen noted last fall. Those comments signaled Pure Storage's strategy of taking on hyper-convergedstorage vendors as its offers its all-flash architecture as an alternative storage platform for critical enterprise workloads.Other all-flash vendors also sense an opening. Commenting on the Pure Storage IPO, Kevin DeNuccio, CEO of Violin Memory (VMEM), asserted, \"There is a strong appetite by enterprises to leverage flash storage in the datacenter. The industry is also further confirming that next-generation vendors are a key part of the massive disruption occurring in storage.\"Demanding enterprise storage requirements \"will further accelerate the pace of flash migration,\" DeNuccio added.Violin Memory, Santa Clara, Calif., launched its own largely unsuccessful IPO in late 2013 valued at $146 million. The failed IPO resulted in an investor class-action lawsuit. Violin Memory's stock price hovered at around $1.65 per share at midday Wednesday.Violin Memory unveiled a pair of all-flash arrays earlier this year along with a new operating system and management control system.Despite lackluster IPO performances so far, all-flash storage arrays are increasingly being used to replace all-disk and hybrid flash-disk arrays for the tier one storage that underpins applications and databases in datacenters. Major vendors like EMC, IBM and Pure Storage all report steady uptake.\u00a0Market researcher Gartner recently ranked Pure Storage as its market leader for solid-state storage arrays, followed by EMC, IBM and Hewlett-Packard (HPQ). Gartner ranked Violin Memory among \"niche players\" in the all-flash market.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Sinclair Oil Taps Qumulo Storage",
+    "text": "The oil and gas sector is slumping, cutting back on exploration and drilling as energy prices continue to slump. Perhaps based on the strategy that it's best to invest during a downturn, Sinclair Oil announced this week it is deploying new scale-out network-attached storage from intelligent storage startup Qumulo Inc.Seattle-based Qumulo announced earlier this year that Sinclair was among the roster of new customers for its \"data-aware\" NAS offering dubbed Qumulo Core. The storage startup said Monday (Oct. 19) that Sinclair, the $7 billion energy company based in Salt Lake City, Utah, is replacing an outmoded storage system with its Core platform as it imports millions of files to the new data repository. The deal was announced during this week's Society of Exploration Geophysicists conference in New Orleans.The core of Core storage the Qumulo Scalable File System, which the startup says it build from scratch using a \u201cflash-first\u201d hybrid approach that incorporates flash and \u201cdense\u201d spinning disk storage. As a software application running as a user application on a Linux operating system, Qumulo Core will be sold using a software-as-a-service delivery model, the startup said.A hybrid storage appliance provides 24 TB of raw hard-disk capacity and 1.6 TB of raw solid-state disk capacity. Qumulo Core can be scaled from four to more than 1,000 nodes in a single cluster and single namespace, Qumulo said.The integration of data analytics with network attached storage is intended to allow the scalable file system to storage, manage and curate data, making critical data accessible when needed.Qumulo touts its approach to intelligent storage as giving users the ability to manage and store billions of files as a way to improve storage efficiency and workflows.Along with upgrading and scaling its storage capabilities, Sinclair said it is leveraging the Qumulo Core's real-time visibility and analytics designed to to assess system usage. The real-time analytics capability is integrated into the Core file system, the foundation of the startup's \"data-aware\" strategy.Qumulo announced a second funding round earlier this year that included Silicon Valley heavyweight Kleiner Perkins Caulfield & Byers. The storage specialist has so far raised $67 million and recently added Sujal Patel, founder of Isilon Systems, to its board.The enterprise storage specialist was founded in 2012 by a group of Isilon veterans. It has also attracted storage experts from Amazon Web Services, Google and Microsoft, the company said.Co-founder Peter Godman, a former director of software engineering at Isilon, is Qumulo\u2019s CEO.Along with Sinclair Oil, Qumulo's other early customers include the University of Washington\u2019s Institute for Health Metrics and Evaluation, the University of Utah\u2019s Scientific Computing and Imaging Institute and SportVision, the media company known for its \"first down\" line on football broadcasts.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2015-10-19 00:00:00",
+    "cats": [
+        "Editor's Picks: Front Page",
+        "Editor's Picks: Storage",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/editors-pick/",
+        "https://www.enterpriseai.news/category/editors-picks-storage/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "NAS",
+        "Qumulo",
+        "Qumulo Core",
+        "Sinclair Oil"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/nas/",
+        "https://www.enterpriseai.news/tag/qumulo/",
+        "https://www.enterpriseai.news/tag/qumulo-core/",
+        "https://www.enterpriseai.news/tag/sinclair-oil/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/storage-370x290.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-07-at-12.28.14-PM.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2013/12/oilpump-e1386788727696-370x290.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

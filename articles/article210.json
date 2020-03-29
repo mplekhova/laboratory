@@ -1,10 +1,35 @@
 {
-    "title": "OpenIO Takes on x86-based Object Storage TCO",
-    "author": "Doug Black",
-    "date": "2016-12-15 00:00:00",
-    "text": "OpenIO has announced a new object storage appliance that combines its open source storage software with an ARM-based Marvell chassis that OpenIO said is priced at a fraction of x86-based storage technologies.Aimed at cloud and telco service providers, media companies and large government organizations, the SLS-4U96 costs $0.008/Gb/month for a 96X8TB box, well below average pricing of around $0.02/Gb/month.SLS-4U96 appliances can host up to 96 nano-nodes, each with a dedicated 3.5-inch HDD or SSD and dual 2.5Gb/s SGMII ports, dual 6-port 40Gb/sec Ethernet backend Marvell Prestera family switches for external connectivity and N+1 power supplies. OpenIO said the SLS (ServerLess Storage) platform brings together power-efficient ARM CPUs, high capacity drives and a 40Gb/s Ethernet backend for a petabyte scale-out storage system in a 4U chassis.\u201cWe believe this architecture is better suited for scale-out object storage,\u201d Marie Ponseel, co-founder and COO of ObjectIO, told EnterpriseTech. \u201cThe economics and capabilities (including power consumption) make this more attractive than most x86-based object storage solutions.\u201dOfficially launched as a company last year, OpenIO has been in the object storage arena since the early days of the technology back in 2006. The company said its software-defined hyperscale storage platforms are used by 60 million end-users in massive production environments.OpenIO said the SLS-4U96 will compete Ceph, Scality, SwiftStack and other object storage providers.\u201cSLS has all the features of our next generation object storage platform and it is easier to manage, and more power efficient,\u201d said Laurent Denel, CEO of OpenIO. \u201cWith a cost that can be as low as $0.008/GB/month over 36 months for a fully populated configuration, and the ease of use of our software, a single SysAdmin can easily manage a large multi-petabytes environment at the lowest TCO\u201d.This new product is based on the Marvell Armada-3700 Dual core ARM v8 @1.2Ghz based nano-node architecture. Hardware features of the SLS-4U96 include from three to 96 hot swappable nano-nodes per appliances for a maximum of 960TB with 10TB HDDs or 1152TB with 12TB HDDs; and two six-port 40Gb/s port switches backend for both client connectivity and direct chassis interconnect, which can scale up to more than 10PB per rack. Software features include: automatic nano-node discovery, setup and load balancing, local and geo-distributed object replica or erasure coding and S3, Swift and Native object APIs. The appliance is compatible with existing x86 based SDS installations.ObjectIO said its nano-node architecture is a new approach to the management and maintenance of scale-out storage infrastructures. The failure domain is limited to a single nano-node, equivalent to a disk, that can be replaced as needed when failure occurs. New or replaced nano-nodes join the SLS resource pool without needing a rebalancing operation a process the company said takes less than 60 seconds.",
+    "title": "Pure Storage Makes Splash With \u2018Big Data Flash\u2019",
+    "text": "As data intensive storage workloads proliferate across a range of industries, storage vendors are attempting to upgrade and scale their platforms to speed the analysis of a torrent of unstructured data.The latest attempt comes from all-flash storage array specialist Pure Storage (NYSE: PSTG), which last week released an updated version of its FlashBlade solid-state array. The company said an 8.8 Tb and 52 Tb blade capacities are generally available along with accompanying software.The upgrade comes 10 months after the Pure Storage, Mountain View, Calif., unveiled its FlashBlade platform. Since its official release last July, the storage leader claims it has made significant inroads in areas such as real-time and big data analytics, financial analysis and energy exploration. All of those segments are looking for new approaches for handling the proliferation of unstructured data while attempting to connect the dots to make sense of it all.Those use cases are driving a new set of storage and other workloads requirements that industry watchers assert have made traditional storage architectures obsolete. The result has been the emergence of \"big data flash\" platforms that began generating revenues for the first time in 2016.\"Big data flash platforms are optimized to handle very large unstructured data sets with high degrees of concurrency while delivering flash performance and reliability,\" said Eric Burgener, IDC's research director for storage. The market analyst estimates the emerging all-flash storage market will reach more than $1 billion in revenues by 2020.Pure Storage, which launched an initial stock offering in October 2015, has since been positioning itself to leverage the transition from analyzing historical data in batch mode to real-time analytics driven by emerging tools such as Apache Spark.Along with all-flash arrays, the real-time approach requires scalable file and object storage. Hence, Pure Storage CEO Scott Dietzen stressed in a statement that the company has expanded the FlashBlade platform to handle the \"rapidly expanding world of unstructured data.\"The company also cited a batch of emerging use cases for its all-flash storage architecture, including a big data genomics project at the University of California at Berkeley along with banking applications based on cloud and software-as-a-service approaches.The UC-Berkeley project includes complex analysis and running data-intensive visualizations in three dimensions, the company noted, asserting the Spark queries that previously took 12 hours have been reduce to about 30 minutes.Those use cases are based on early deployments of the FlashBlade platform designed to \"harden\" the platform across varied workloads, the company noted. Pure Storage also said it gained experience in running large-scale Apache Spark clusters for tasks such as machine learning and SQL query processing.The storage vendor also said it has identified similarities among different workloads. \"We\u2019ve observed that analyzing genomes for clinical diagnostics is, from a workload perspective, very similar to the way geophysicists use clusters of computers to perform geophysical mapping in oil and gas,\" the company noted in a blog post.\"Simultaneously, we realized how similar this flow is to the way a data scientist uses Apache Spark for business analytics or to create scenarios for machine learning.\"George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-01-30 00:00:00",
+    "cats": [
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "all-flash",
+        "Apache Spark",
+        "data analytics",
+        "Pure Storage",
+        "storage"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/all-flash/",
+        "https://www.enterpriseai.news/tag/apache-spark/",
+        "https://www.enterpriseai.news/tag/data-analytics/",
+        "https://www.enterpriseai.news/tag/pure-storage/",
+        "https://www.enterpriseai.news/tag/storage-2/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/OpenIO_logo-370x228.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/Marie-Ponseel.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/shutterstock_cloud_storage-370x228.jpg",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

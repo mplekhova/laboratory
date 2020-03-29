@@ -1,10 +1,41 @@
 {
-    "title": "Yahoo! Japan: 50TB/Day Data Transfer in Trans-Pacific Search for Lower Energy Costs",
-    "author": "Doug Black",
-    "date": "2016-12-06 00:00:00",
-    "text": "Transferring data from one data center to another in search of lower regional energy costs isn\u2019t a new concept, but Yahoo! Japan is putting the idea into transcontinental effect with a system that transfers 50TB of data a day from Japan to the U.S., where electricity costs a quarter of the rates in Japan.DataDirect Networks and IBM Japan have worked for about a year on a new active archive solution that allows Yahoo! JAPAN to cache dozens of petabytes of data from its OpenStack Swift object storage system at a data center in Japan and then transfer and store it in a U.S.-based data center owned by YJ America, Inc., its American subsidiary.According to Yahoo! Japan, subsidiary of the American internet giant, the company moved to an active archive system configured on both sides of the Pacific Ocean because of rising data volumes, multi-petabyte data backup requirements, and disaster recovery measures it implemented after the Great East Japan Earthquake of 2011 \u2013 along with a desire to avoid Japanese energy costs, which are 74 percent higher than in the U.S.The active archive is built on DDN\u2019s SFA7700X hybrid flash storage appliance and IBM Spectrum Scale Active File Management caching functionality for higher speed I/O and metadata handling, and it is able to handle dozens of petabytes of data within a single file system configuration, according to DDN. The system allows the data center in Japan to cache data from the operating object storage private cloud at a rate of 11TB/ hour and back up the data in a data center archive in the United States, transferring data at what DDN called \u201ca breakthrough transfer rate\u201d of 50TB per day while allowing users in Japan to access data and conduct services.Laura Shepard, DDN senior director of marketing, told EnterpriseTech said data transfers on this scale are seen at HPC research sites but that it is not common in business environments. \u201cIt\u2019s the performance of the underlying storage system, to be able to actually service the requests at the rates required means very high bandwidths for a multi-region data transfer\u2026 There was quite a bit of work done to tune the infrastructure to achieve this level of performance for international data transfer.\u201dDaisuke Masaki, cloud innovations, site operations division, systems management group, Yahoo Japan, said the company was \u201cgrappling with a number of challenges related to our large, fast-paced data growth and vital disaster recovery needs; however, installing a massive storage system in a data center in Japan raises additional issues, such as power consumption. We therefore opted for a bold technical solution in which our data center in Japan caches data from the existing object storage (OpenStack Swift) and saves the data to a data center archive in the United States, which can be operated with 26 percent of the electricity cost of a data center in Japan and at about one-third of the cost of competitive solutions. Moving forward, we plan to expand and save data from multiple websites in Japan to the active archive system in the United States.\u201d",
+    "title": "Investors Back Storage Startups",
+    "text": "The storage sector continues to attract investment as more vendors emerge to help enterprises cope with the demands of storage and quickly accessing more data.Earlier this month, a pair of storage startups announced significant late-round funding: all-flash storage vendor Kaminario said it raised $75 million while hybrid cloud storage specialist Panzura announced a $32 million funding round.Panzura, Campbell, Calif., said it would use the funds to expand its hybrid cloud strategy that focuses on leading the transition from on-premise to cloud storage for advanced database and virtualized workloads, big data analytics and emerging Internet of Things (IoT) applications.The company claims to have installed more than 26 petabytes of new enterprise storage in 2016 via alliances with public cloud vendors such as Amazon Web Services (NASDAQ: AMZN), Google (NASDAQ: GOOGL), IBM (NYSE: IBM) and Microsoft Azure (NASDAQ: MSFT). Customers for its hybrid cloud network-attached storage platform include companies and government agencies in more than 30 countries.Panzura said the funding round was led by Matrix Partners and joined by Meritech Capital Partners, Opus Capital, Chevron and an undisclosed strategic investor. Also joining was storage and disk drive leader Western Digital Corp. (NASDAQ: WDC).Kaminario, the all-flash storage vendor founded in Israel and based in Needham, Mass., said its latest funding round pushes its total financing to $218 million. The company competes against market leaders such as Dell EMC and Pure Storage.Kaminario CEO Dani Golan noted that \"on-demand applications,\" the IoT and the shift to cloud storage are transforming the datacenter, creating greater demand for agile, all-flash architectures. The vendor specializes in a software-defined all-flash storage platform that is able to scale for emerging enterprise workloads. The funding would be used to integrated emerging storage and networking technologies such as Non-volatile Memory Express and NVMe Fabric.Waterwood, a private equity firm, led Kaminario's latest funding round. Also participating were new and existing investors, including Sequoia, Pitango, Lazarus, Silicon Valley Bank and Globespan Capital Partners. The company said it would use the funds to expand its global presence along with funding research and development.The funding underscores the gradual shift in the datacenter to all-flash arrays as prices decline and new platforms hit the market. For example, IBM unveiled a family of all-flash options earlier this month for mainframe environments, including a high-end \"analytics-class\" storage option.These and other introductions are expected to propel the all-flash array market forecast to grow at a 21.4-percent annual clip over the next five years, according to market analyst International Data Corp. That would make flash storage one of the fastest growing segments of the estimated $40 billion global enterprise storage market.Another market tracker, Wikibon, predicted a 19 percent increase in enterprise spending on all-flash storage during 2016, and projects that flash spending will overtake disk storage spending by 2019.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-01-17 00:00:00",
+    "cats": [
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "All-flash storage",
+        "cloud",
+        "funding",
+        "hybrid cloud storage",
+        "Kaminario",
+        "NVMe",
+        "Panzura",
+        "VC"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/all-flash-storage/",
+        "https://www.enterpriseai.news/tag/cloud-2/",
+        "https://www.enterpriseai.news/tag/funding/",
+        "https://www.enterpriseai.news/tag/hybrid-cloud-storage/",
+        "https://www.enterpriseai.news/tag/kaminario/",
+        "https://www.enterpriseai.news/tag/nvme/",
+        "https://www.enterpriseai.news/tag/panzura/",
+        "https://www.enterpriseai.news/tag/vc/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/yahoo_japan-370x228.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/thumbnail_Yahoo-System-Diagram-300x193.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/shutterstock_cloud_storage-370x228.jpg",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

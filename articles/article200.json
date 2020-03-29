@@ -1,10 +1,39 @@
 {
-    "title": "Lenovo Debuts Server-Based Storage Appliance",
-    "author": "George Leopold",
-    "date": "2017-03-14 00:00:00",
-    "text": "Seeking to stimulate flagging server sales, a software-defined storage appliance from Lenovo leverages its server platform combined with a storage virtualization software and storage area networking from partner DataCore Software.Lenovo (HKSE: 992) said this week its storage appliance designated DX8200D leverages storage virtualization to wring optimum capacity from existing SAN arrays. The pre-integrated storage appliance is intended to simplify deployment and reduce management costs associated with software-defined storage.The storage appliance is based on Lenovo's System x3650 M5 server. Data security, replication, de-duplication, compression and other enterprise storage requirements are provided through a central interface.A growing list of datacenter and cloud players have introduced storage appliances over the last several years as they seek to help customers manage data growth while breaking the seemingly endless cycle of expanding heterogeneous storage infrastructure. Cloud vendors such as Microsoft (NASDAQ: MSFT) have introduced Azure storage appliances for expanding storage capacity and protecting data while meeting growing requirements for automation and storage scaling.Others such as storage leader EMC (which merged with Dell in 2016) also were early entrants in the storage appliance market. EMC launched an elastic cloud storage appliance in 2014 targeting the hyper-scale cloud storage infrastructure market. The appliance emerged from a research project known as \"Project Nile.\"More recently, the object storage startup OpenIO rolled out an object storage appliance based on its open source software and an ARM-based chassis.Lenovo touts its server-based approach as isolating storage devices sometimes spread over different locations and then combining them into a \"common set of enterprise-wide [storage] services,\" the company said Wednesday (March 14). As with other storage appliances, the DX8200D pools storage resources and manages incompatibilities among manufacturers, models and generations of equipment.Storage appliance vendors claim significant savings from various approaches. Lenovo is no different, claiming its scheme cuts storage costs by as much as 75 percent while slashing storage-related downtime in datacenters.\"Traditional storage offerings [from legacy vendors] often-times require compromises in performance, availability, reliability and functionality,\" asserted Radhika Krishnan, general manager for software-defined datacenters and networking in Lenovo's Data Center Group. The company argues that approach limits the ability to scale while increasing costs for power and cooling.DataCore Software, Fort Lauderdale, Fla., is the latest Lenovo storage partner. About this time last year, Lenovo announced a \"global strategic partnership\" with Juniper Networks designed to leverage each other's x86-based servers and network switches to augment their converged infrastructure and software-defined offerings. Lenovo said last March its customers would now be able to purchase Juniper (NYSE: JNPR) switches through the server vendor's sales channel.These and related efforts seek to take advantage of the \"disaggregation\" of hardware and software in datacenters, observers note, then provide greater automation to reduce hand-holding required for diverse storage technologies.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Avere Systems Adds Google as Investor",
+    "text": "Avere Systems, the hybrid cloud data storage and management vendor, announced its latest funding round this week that included new investor Google Inc.The $14 million Series E round included existing investors Lightspeed Venture Partners, Menlo Ventures, Norwest Venture Partners, Tenaya Capital and Western Digital Capital. Avere has so far raised $97 million, and said Tuesday (March 21) it would used the latest cash infusion to expand its hybrid cloud offerings as more enterprises shift to public clouds.The Pittsburgh-based vendor's scalable cloud storage platform dubbed FXT Edge Filers targets enterprises trying to integrate applications requiring file systems into the cloud. Along with data storage access, the platform helps scale computing and storage depending on application requirements.The company claimed cloud customers accounted for nearly half its bookings in 2016, helping to nearly double the growth of its cloud business on an annual basis. That has expanded Avere System's customer base to include financial services customers along with media and entertainment as well as healthcare and manufacturers.The addition of Google (NASDAQ: GOOGL) as an investor comes as the public cloud vendor is seeking to differentiate its offerings in the cutthroat public cloud market. Recent moves have included expanded support for Windows Server on the Google Compute Engine as well as the introduction of custom Intel Xeon chips to boost cloud performance.Meanwhile, Avere Systems has also announced partnerships with private cloud storage vendors. In February, the company announced support for Dell EMC's (NYSE: DVMT) Elastic Cloud Storage platform. The partners said the software-defined object storage approach would allow private cloud customers to consolidate content archives and file storage systems in a central repository.The combination lets Dell EMC customers use the Avere Systems file storage platform and accompanying operating system to move stored data between network-attached and object storage resources, including \"bi-directional translation of object APIs to NAS protocols,\" they noted.The partners are betting that the influx of unstructured data will continue to drive requirements for object storage while eliminating the need to rewrite existing enterprise applications to support new interfaces.Among the industry sectors struggling to cope with the rise of unstructured data is financial services. Those requirements are driving hybrid cloud offerings from Avere Systems and other vendors.\"Inevitably, you\u2019ll get faster servers over time, but it seems to me the demand profile will only increase, and the sophistication of the [financial] models is only going to increase, and certainly the data available to process from diverse sources is only going to increase,\" Scott Jeschonek, Avere System's director of cloud products, noted during a recent company webinar.\"Not only that but if you\u2019re a large enough firm you probably have multiple sites [based in] Europe, Asia/Pacific, looking to consume all that.\"George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-03-22 00:00:00",
+    "cats": [
+        "Cloud",
+        "Slider: Cloud",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "Avery Systems",
+        "cloud storage",
+        "file storage",
+        "Google",
+        "Hybrid Cloud"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/avery-systems/",
+        "https://www.enterpriseai.news/tag/cloud-storage/",
+        "https://www.enterpriseai.news/tag/file-storage/",
+        "https://www.enterpriseai.news/tag/google/",
+        "https://www.enterpriseai.news/tag/hybrid-cloud/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/shutterstock_cloud_storage-370x228.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_cloud_storage-370x228.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

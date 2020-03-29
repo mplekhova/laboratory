@@ -1,9 +1,39 @@
 {
-    "title": "Flash Startup to Support VMware Storage Push",
-    "author": "no author",
-    "date": "2015-02-04 00:00:00",
-    "text": "In the wake of VMware's launch this week of a new generation of enterprise products aimed at promoting adoption of software-defined storage, third-party storage vendors are lining up to support the VMware vSphere components.Flash array startup NexGen Storage Inc. announced storage support on Tuesday (February 3) for VMware vSphere Virtual Volumes based on its hybrid flash arrays unveiled last month.NexGen, Louisville, Colo., said its N5 line of hybrid flash arrays would support vSphere Virtual Volumes, a storage solution designed to enable native virtual machine awareness across a range of third-party storage systems. VMware launched Virtual Volumes earlier this week along with the latest version of its software-defined storage offering, Virtual SAN 6.In launching the products, VMware said Virtual SAN 6 would be based on an all-flash architecture in which flash storage devices are used for caching and \"data persistence.\" Virtual Volumes is being positioned as VMware's attempt to set an industry standard for software-defined storage that enables storage arrays to be virtual machine-aware.As a member of VMware's Virtual Volumes Developers Program, NexGen said it would leverage its ioControl quality of service policies and service levels in VMware vCenter. That capability is designed to give administrators greater control of storage levels for individual virtual machines.The partners said their goal is extending application-centric, policy-driven automation to external storage architectures using vSphere Virtual Volumes.NexGen said its hybrid flash array support for Virtual Volumes includes consolidation of storage silos via multiple storage tiers on a single flash array. Support also includes the ability to map a single virtual machine or a group of VMs to NexGen's storage QoS policies along with data management services based on hybrid flash arrays provisioned on a \"per VM basis.\"NexGen said support for vSphere Virtual Volumes on its N5 hybrid flash arrays would be available in the second quarter of 2015.Meanwhile, VMware said this week its software-defined storage strategy leverages the hypervisor to advance cloud storage while seeking to harness the operational efficiency that server virtualization brings to computing.The software-defined storage strategy also seeks to reduce operating costs through what VMware calls a \"hypervisor-converged storage tier\" along with integration of virtual machines with third-party storage arrays from partners such as NexGen.The flash startup, spun out last month from SanDisk Corp., said improvements in performance, density and flash capacity could yield as much as a four-fold reduction in storage costs as measured in dollars per virtual machine when compared to hybrid approaches.NexGen further claims that claims its \u201cPrioritized Active Cache\u201d software that targets caching algorithms can help justify the investment in flash storage arrays by improving utilization by as much as 150 percent.For its part, VMware said the all-flash storage architecture of its Virtual SAN 6 would deliver a four-fold increase in I/O performance per node compared to the previous generation.",
+    "title": "HGST Acquires Object Storage Specialist Amplidata",
+    "text": "In a bid to boost its software-defined storage portfolio as its pushes deeper into enterprise storage, Western Digital's HGST unit announced a deal to acquire Amplidata, a developer of object storage software for cloud datacenters.Financial terms of the transaction were not disclosed, but HGST did say on Tuesday (March 3) it expects the acquisition to close by the end of March.HGST, which focuses primarily on enterprise-class, solid state drives, including the first helium drive, said the Amplidata deal supports its expansion into high-end data storage platforms and systems.Amplidata, Milpitas, Calif., has staked out markets like big data storage as key markets for its object storage software as public and private cloud datacenters transition to software-defined infrastructures with greater emphasis on intelligent storage.The deal gives HGST a foothold in the object storage market with the acquisition of Amplidata's Himalaya product designed to scale software-defined storage systems.HGST and Amplidata have previously worked together to develop the former's \"active archive\" platform designed to boost storage efficiency and cost. The software approach is intended to provide greater control and management of storage building blocks like hard drives, solid-state drives and software while tightening storage system integration.Along with the joint development of active archive, parent company Western Digital also invested in the privately held Amplidata. Western Digital CEO Steve Mulligan also cited Amplidata's object storage technology and intellectual property as reasons for the deal.\"The acquisition will support our strategic growth initiatives and broaden the scope of opportunity for HGST in cloud datacenter storage infrastructure,\" Mulligan added in a statement announcing the deal.Western Digital and HGST are betting that the unrelenting shift to big data will create cloud datacenter applications requiring peta-scale storage requirements. Hence, Amplidata's object storage software is seen as enabling the scaling of datacenter tiered storage and archiving along with data management and security.HGST noted that Amplidata's AmpliStor XT storage array technology was recently selected by scale-out storage and archiving specialist Quantum for integration into its family of data management and tiered storage products. Quantum along with Intel Capital and others were early investors in Amplidata.As HGST looks to expand into high-end storage platforms, the disk drive and NAND flash storage device maker is also focusing on next-generation non-volatile memory technologies like phase change memory. It showed off a prototype PCI Express card based on phase change technology last summer and is upgrading its FlashMAX flash cards while updating its ServerCache software.Last fall, it rolled out a batch of datacenter offerings that included server-side clustering and volume management software that is billed as clustering up to 128 servers and 16 PCI Express storage devices. The combination is intended to provide shared volumes of flash storage up to 38 TB.It also rolled out its active archiving approach, which is based on the premise that disk-based storage can meet performance requirements but falls short of meeting cost requirements imposed by petabyte scale storage requirements in cloud datacenters.Hence, HGST is betting it can leverage Amplidata's object storage software technology as a way to bridge the scale-out storage gap.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2015-03-03 00:00:00",
+    "cats": [
+        "Editor's Picks: Storage",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/editors-picks-storage/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "acquisition",
+        "Amplidata",
+        "cloud",
+        "datacenter",
+        "HGST",
+        "object storage"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/acquisition/",
+        "https://www.enterpriseai.news/tag/amplidata/",
+        "https://www.enterpriseai.news/tag/cloud-2/",
+        "https://www.enterpriseai.news/tag/datacenter-2/",
+        "https://www.enterpriseai.news/tag/hgst/",
+        "https://www.enterpriseai.news/tag/object-storage/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-03-at-8.12.41-PM-370x290.png"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-03-at-2.14.24-PM.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

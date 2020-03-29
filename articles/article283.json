@@ -1,10 +1,43 @@
 {
-    "title": "Google Splits Difference with Nearline Storage",
-    "author": "George Leopold",
-    "date": "2015-03-23 00:00:00",
-    "text": "Google Cloud Platform's new archival storage offering called Nearline appears to target the same \"cold storage\" market eyed when Amazon Web Services (AWS) launched a similar service called Glacier in 2012.Nearline is described as Google Cloud Storage \"suitable for workloads traditionally filled by offline storage, such as cold storage and disaster recovery, but without the access penalties typically associated with offline storage solutions.\"The primary difference between the Google and AWS services, observers say, is that Nearline provides access times for old data comparable to online storage but at about the same cost as offline storage: about a penny or so per gigabyte per month.Google said its approach is optimized for high availability and low latency so it can deliver old data in about three seconds. By contrast, offline access to stored data can take several hours.Nearline storage \"provides the convenience of online storage at the price of offline storage,\" Google claimed in a recent white paper.\"Within the growing cloud computing market, cold storage services such as Nearline and Glacier will narrow the cost gap between pricier public (online) cloud services and cheaper private (offline) storage solutions,\" industry watcher Leo Sun of Motley Fool predicted in a recent assessment of the Google-AWS storage competition.Cold storage refers to simply archiving data that may be needed someday, or data that companies are legally obligated to retain.Google touts its Nearline approach as providing the convenience and availability of online storage with the affordability of offline storage. At least part of its secret sauce is that the APIs and tools currently used by businesses to manage online storage would not change using Nearline.\"No engineering effort needs to be spent learning new tools and processes,\" Google noted in the white paper. \"No code needs to be rewritten to use different APIs.\"As part of its Nearline storage service, Google also has created \"continental\" and \"regional\" storage bucket options that would allow users to control where data is stored. Continental storage options include the U.S., Europe and Asia. More granular regional storage allows customers to store data in a particular Google Compute Engine region.However, regional storage buckets won't be available until Nearline emerges from its \"beta\" phase, Google said. So far, Google hasn't said when it expects Nearline to become generally available with regional storage. In the meantime, it has released storage pricing information.These emerging storage options are expected to grow along with the enterprise shift toward hybrid cloud infrastructure in which older data can be placed in \"cold storage\" as a way of freeing up other enterprise storage resources.Moreover, Google is betting there's a market among cloud-based developers for fast online storage that costs about as much as offline. Hence, it touts Nearline as \"suitable for data that won\u2019t be accessed frequently, but where there is value in having that data immediately available.\"George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Dell Releases Newest FluidFS Scale-Out NAS",
+    "text": "Dell today (April 7) released the latest edition of Dell Fluid File System (FluidFS), its scale out network attached storage (NAS) solution.Version 4 \u2013 available now on the FS8600 with the Compellent platform and sometime later this year on EqualLogic \u2013 was designed to help customers manage the number and size of user files; support file-based workflows, and enable tighter integration with VMware. Customers can increase performance by expanding the cluster from one FS8600 appliance to up to four appliances with up to 494,000 max SPECsfs file OPS and 11.9 GB per second throughput, according to Dell. In addition, organizations can manage files of up to 16TB, increasing file storage capacity up to 4PB in one namespace; that's twice the capacity of the earlier iteration of FluidFS, the developer said.\"For Dell to be a full portfolio provider to the enterprise it's important to have a strong file offering. FluidFS represents the core of our file offering,\" Mike Davis, senior product manager for Storage Solutions at Dell, told Enterprise Technology.FluidFS Version 4's enhancements allow organizations to expand their NAS to increase performance simply by adding controllers or enhance storage capabilities by adding that capability, he said.\"We have a lot of customers whose performance requirements grow as their business grows,\" said Davis. \"If you have, all of a sudden, lots of demand pick up for the system and performance demands increase but they're all retrieving the same file, all you need to do is add controllers to the system you already have. If it turns out demand for your website is the same but you're storing more files \u2013 for a backup service like a Dropbox \u2013 then you don't need to grow performance; you just need to add storage on the backend. You only add what you need at the time. It's pay as you grow.\"The FS8600 with Fluid V4 uses Compellent Storage Center's features, such as automated tiering; thin provisioning; optimization for solid state disks; dense 84-disk SC280 enclosure, and Copilot support. Now available with 48GB of memory per controller \u2013 double the original offering \u2013 the FS8600 with Fluid V4 includes support for protocols like SMB 3, NFS 4/NFS 4.1, and IPv6 networking; tighter integration with VMware; directory level quotas; SACL-based auditing; file filtering, and data protection enhancements in replication and NDMP. With support for IPv6, for example, Dell can now more aggressively position this solution for the federal market, Davis said.Dell is targeting the FS8600 with Fluid V4 at both general businesses and vertical markets such as healthcare and life sciences, media and entertainment, and video surveillance. These markets, as well as big-data and the Internet of Things, use a lot of unstructured data and files, making them optimal users of NAS, said Davis.\"Any time you have more than a couple terabytes of data stored, you can assume it's file based and NAS is the applicable solution,\" he added.Organizations running VMware environments have the choice of storage area networks or NAS for their environments, said Davis.\"For a significant portion of the marketplace, they've decided NAS is an easier, more efficient way to deploy and manage,\" he said. \"There are some advantages in terms of disaster protection and so forth. We see 30 percent to 40 percent of the VMware market is deployed on a NAS product and it's an area Dell hasn't previously played in. VMware and Microsoft are our greatest partners and we've collaborated with them on a number of things.\"\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Managing editor of Enterprise Technology. I've been covering tech and business for many years, for publications such as InformationWeek, Baseline Magazine, and Florida Today. A native Brit and longtime Yankees fan, I live with my husband, daughter, and two cats on the Space Coast in Florida.",
+    "author": [
+        "Alison Diana",
+        "https://www.enterpriseai.news/author/alison/"
+    ],
+    "date": "2015-04-07 00:00:00",
+    "cats": [
+        "Editor's Picks: Front Page",
+        "Editor's Picks: Storage",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/editors-pick/",
+        "https://www.enterpriseai.news/category/editors-picks-storage/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "compellent",
+        "Dell",
+        "FluidFS",
+        "NAS",
+        "network attached storage",
+        "storage",
+        "VMware"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/compellent/",
+        "https://www.enterpriseai.news/tag/dell/",
+        "https://www.enterpriseai.news/tag/fluidfs/",
+        "https://www.enterpriseai.news/tag/nas/",
+        "https://www.enterpriseai.news/tag/network-attached-storage/",
+        "https://www.enterpriseai.news/tag/storage-2/",
+        "https://www.enterpriseai.news/tag/vmware/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-23-at-6.04.29-PM.png",
-        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/04/Compellent-FS8600-370x290.png",
+        "https://secure.gravatar.com/avatar/c9a7c1bfbf00a21541cc0388b22c36c4?s=80&r=g"
     ]
 }

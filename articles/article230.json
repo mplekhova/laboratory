@@ -1,10 +1,35 @@
 {
-    "title": "Storage Study Warns of Growing \u2018Databergs\u2019",
-    "author": "George Leopold",
-    "date": "2016-03-15 00:00:00",
-    "text": "The ability to sweep up, store and organize vast amounts of data, then turn the connections among data points into insights and strategies is creating new revenue streams for enterprises. But what happens when stored data reaches its freshness \"expiration date\"?As more enterprises look to get a handle on storage and other costs via virtualization and a shift to hybrid cloud architectures, many are finding that much of the data they are storing is \"dark,\" or lacking in known value. Worse, a study released this week by information management vendor Veritas Technologies found that one-third of stored data was considered \"redundant, obsolete and trivial,\" or ROT.The result, the company argues, are \"databergs\" characterized by a relatively small amount of data deemed \"business critical\" while the remainder is \"dark\" or ROT data below the metaphorical surface. Moreover, the study found that U.S. companies tend to have the highest rates of dark data.Veritas, Mountain View, Calif., said it surveyed more than 2,500 IT executives. The study found that more than half of the data stored and processed by companies in 22 countries has no known value. It estimated that 30 percent of the information stored in the U.S. is ROT data.Along with \"a fear of the 'delete' key,\" the inexorable shift to the cloud may be accelerating the data ROT problem. The reason, Veritas argued, is that \" pushing data to the cloud can just move the problem further away, adding to the unclassified dark data.\"Adding to the data mishmash on enterprise IT platforms is the growing amount of personal data on corporate networks as more workers store more private data on work devices. That data exposes companies to new data privacy rules that can differ from one region to the next.While vendors like Veritas offer storage management and data governance tools designed to get a handle on the \"databerg,\" other storage and virtualization vendors highlight the need for an IT roadmap as they shift to hybrid cloud platforms. That includes a big push toward virtualized data storage, according to an IT transformation study released this week by EMC Corp. (NYSE: EMC) and VMware (NYSE: VMW).Ultimately, the Veritas study warns, the inability to reverse the databerg phenomenon could end up costing companies trillions of dollars in wasted storage resources by 2020. One solution is implementing IT policies that schedule when ROT data must be deleted. According to the Veritas survey, 35 percent of companies with such policies in place require data to be deleted on a quarterly basis. The study found a direct correlation between freeing up storage and other IT resources and improved cash flow.\"The direct costs consumed by databergs in IT resources and management time do not account for the current and future investment cash which they tie up and which could be better spent elsewhere,\" the survey notes. \"By classifying more of their data, organizations would have a better view on how much money could be re-invested.\"\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "HPE\u2019s \u2018Memory-Driven Computing\u2019 Vision Emerges in New Server Options",
+    "text": "HPE launched new ProLiant9 server options this week that include built-in support for persistent memory, a new HPE product category that the company regards as the inception point for \u201cmemory-driven computing,\u201d combining the performance of high-speed memory with the persistence of storage that retains data during power shut downs.While NVDIMMs (Non-volatile Dual In-line Memory Modules) are not new, HPE (NYSE: HPE) said ProLiant9 is the first server product line with the persistent memory technology fully integrated and optimized.\u201cIt\u2019s the first step on the road to a new programming paradigm,\u201d said Bret Gibbs, HPE persistent memory product manager, \u201cone where data is always persistent and we can throw away millions of lines of code that do nothing but move data between volatile working data structures and permanent storage.\"HPE\u2019s venture into persistent memory has important implications for server-based storage, Gibbs said, because HPE\u2019s NVDIMMs combines the low latency / high performance of DRAM (8GB) with resilience, reliability and low cost of NAND flash (8GB) and magnetic media. In ProLiant9 servers persistent memory resides at the point where NAND flash meets DRAM on the same DIMM form factor. The objective, he explained, is to provide the speed and endurance of memory, but if the power supply fails the server relies on battery power to back up DRAM data to the flash.\u201cOur primary focus is around database and analytics workloads,\u201d Gibbs told EnterpriseTech, \u201cbut certainly anywhere you see storage hardware bottlenecks today, such as databases specifically around the transaction model where most of the write commands are coming from the applications, are a good candidate for NVDIMMs. This is a technology that resides on the memory bus, you\u2019re running at memory speed because you\u2019re running on DRAMs and the NAND Flash is deployed as a persistent store.\u201dHPE said internal tests show 2x to 4x performance improvements. Using an HPE ProLiant DL360 Gen9 server with 400GB SSDs, a Microsoft SQL server transaction log showed 970,000 transactions per second with log write latency of 372 microseconds; the same server with 8GB NVDIMMs showed 1.08 million transactions per second with latency reduced to 181 microseconds.HPE\u2019s persistent memory strategy includes commitment to an ecosystem of companies working to optimize adoption of the technology. Gibbs said that in storage, hardware customarily is the bottleneck because software often sends commands faster than the hardware can process. But with persistent memory, unmodified software could become a bottleneck, so HPE is working with application and OS providers, including Microsoft, Linux, Red Hat and Hortonworks, to ensure that persistent memory technology \u201creally flies,\u201d he said.The new HPE servers incorporate Intel\u2019s new Xeon E5-2600 v4 processor, (see related story), boosting ProLiant Gen9 performance by up to 25 percent. They also offer high--speed DRAM in multiple configurations. For highest performance environments, HPE 128GB LRDIMMs offer extra density that deliver up to 23 percent better performance. HPE NVMe SSDs offer up to 2TB of storage for high-end workloads.",
+    "author": [
+        "Doug Black",
+        "https://www.enterpriseai.news/author/doug/"
+    ],
+    "date": "2016-04-01 00:00:00",
+    "cats": [
+        "Slider: Datacenter",
+        "Slider: Front Page",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "HPE",
+        "storage"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/hpe/",
+        "https://www.enterpriseai.news/tag/storage-2/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-15-at-11.51.17-AM.png",
-        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/HPE-ProLiant-4-16-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/HPE-NVDIMM-1-300x158.png"
     ]
 }

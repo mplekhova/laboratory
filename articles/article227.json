@@ -1,10 +1,37 @@
 {
-    "title": "HPE\u2019s \u2018Memory-Driven Computing\u2019 Vision Emerges in New Server Options",
-    "author": "Doug Black",
-    "date": "2016-04-01 00:00:00",
-    "text": "HPE launched new ProLiant9 server options this week that include built-in support for persistent memory, a new HPE product category that the company regards as the inception point for \u201cmemory-driven computing,\u201d combining the performance of high-speed memory with the persistence of storage that retains data during power shut downs.While NVDIMMs (Non-volatile Dual In-line Memory Modules) are not new, HPE (NYSE: HPE) said ProLiant9 is the first server product line with the persistent memory technology fully integrated and optimized.\u201cIt\u2019s the first step on the road to a new programming paradigm,\u201d said Bret Gibbs, HPE persistent memory product manager, \u201cone where data is always persistent and we can throw away millions of lines of code that do nothing but move data between volatile working data structures and permanent storage.\"HPE\u2019s venture into persistent memory has important implications for server-based storage, Gibbs said, because HPE\u2019s NVDIMMs combines the low latency / high performance of DRAM (8GB) with resilience, reliability and low cost of NAND flash (8GB) and magnetic media. In ProLiant9 servers persistent memory resides at the point where NAND flash meets DRAM on the same DIMM form factor. The objective, he explained, is to provide the speed and endurance of memory, but if the power supply fails the server relies on battery power to back up DRAM data to the flash.\u201cOur primary focus is around database and analytics workloads,\u201d Gibbs told EnterpriseTech, \u201cbut certainly anywhere you see storage hardware bottlenecks today, such as databases specifically around the transaction model where most of the write commands are coming from the applications, are a good candidate for NVDIMMs. This is a technology that resides on the memory bus, you\u2019re running at memory speed because you\u2019re running on DRAMs and the NAND Flash is deployed as a persistent store.\u201dHPE said internal tests show 2x to 4x performance improvements. Using an HPE ProLiant DL360 Gen9 server with 400GB SSDs, a Microsoft SQL server transaction log showed 970,000 transactions per second with log write latency of 372 microseconds; the same server with 8GB NVDIMMs showed 1.08 million transactions per second with latency reduced to 181 microseconds.HPE\u2019s persistent memory strategy includes commitment to an ecosystem of companies working to optimize adoption of the technology. Gibbs said that in storage, hardware customarily is the bottleneck because software often sends commands faster than the hardware can process. But with persistent memory, unmodified software could become a bottleneck, so HPE is working with application and OS providers, including Microsoft, Linux, Red Hat and Hortonworks, to ensure that persistent memory technology \u201creally flies,\u201d he said.The new HPE servers incorporate Intel\u2019s new Xeon E5-2600 v4 processor, (see related story), boosting ProLiant Gen9 performance by up to 25 percent. They also offer high--speed DRAM in multiple configurations. For highest performance environments, HPE 128GB LRDIMMs offer extra density that deliver up to 23 percent better performance. HPE NVMe SSDs offer up to 2TB of storage for high-end workloads.",
+    "title": "EMC Targets Mid-Market With All-Flash Arrays",
+    "text": "EMC Corp.'s all-flash storage family unveiled this week at a company event targets mid-sized enterprise IT deployments while bringing cloud-based flash storage performance to the datacenter.Meanwhile, networking partners announced support for EMC's (NYSE: EMC) new Unity all-flash storage family.EMC's Unity all-flash family offers file and block storage at a price point\u2014under $18,000\u2014that eyes datacenters operated by small- and medium-sized enterprises. The storage leader is promising a three-fold performance increase over its previous generation VNX arrays, along with the ability to deliver 300,000 IOPS and scale up to 3 petabytes of storage.Along with an all-flash configuration, Unity storage is available in a hybrid array format along with software-defined and converged configurations, the company said this week. The \"purpose-built\" all-flash array configuration targets datacenters while the hybrid configuration is intended for specific business requirements.The software-defined version incorporates file and block storage along with data management features so Unity can be deployed as a virtual appliance in the datacenter. Finally, a converged version combines EMC's block storage configurations that are available now.EMC said Unity is available immediately, with an all-flash configuration starting at less than $18,000. Hybrid array configurations start at under $10,000. \"Unity is squarely focused at the external storage use cases that start small\u2014into the less than $10K bands, and with all-flash configurations that start at $18K\u2014and go up to 500 SSDs/HDDs,\" the company noted in a blog post.EMC also announced partners for its Unity launch, including networking specialist Brocade (NASDAQ: BRCD) and managed IT services specialist Presidio Inc.In conjunction with the Unity launch, Brocade announced Tuesday (May 3) that EMC will incorporate its Gen 6 Fibre Channel and IP networking storage technologies. Both could be used to as a network foundation between datacenter servers and Unity all-flash and hybrid storage arrays. The partners stressed that the combination could help eliminate bottlenecks associated with mixed workloads running on flash-based arrays.The Brocade storage-networking portfolio for Unity arrays also is available now via EMC's channel partners.EMC's move in the all-flash market illustrates the storage technology's migration into the datacenter and the growing demand for flash performance. Still, storage rivals argue that, according to one, EMC \"missed the mark\" by not providing critical storage features such as data deduplication and compression. \"Dedup\" is a data compression technique used to eliminate duplicate copies of repeating data. It is also referred to as \"single-instance storage.\"\"Flash alone does not solve the majority of the root causes responsible for performance issues in the datacenter,\" countered Dan Leary, vice president of San Jose-based predictive flash storage vendor Nimble Storage. \"When performance wavers, the common assumption is that storage is the culprit,\" Leary continued, citing industry studies arguing that the majority of applications performance issues have little to do with storage.\"Identifying and proactively resolving these performance issues before they occur requires deep data analytics and machine learning,\" Leary argued.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2016-05-04 00:00:00",
+    "cats": [
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "all-flash arrays",
+        "All-flash storage",
+        "block storage",
+        "EMC",
+        "enterprise datacenters",
+        "Unity"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/all-flash-arrays/",
+        "https://www.enterpriseai.news/tag/all-flash-storage/",
+        "https://www.enterpriseai.news/tag/block-storage/",
+        "https://www.enterpriseai.news/tag/emc/",
+        "https://www.enterpriseai.news/tag/enterprise-datacenters/",
+        "https://www.enterpriseai.news/tag/unity/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/HPE-ProLiant-4-16-370x290.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/HPE-NVDIMM-1-300x158.png"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Screen-Shot-2016-05-04-at-11.38.37-AM.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

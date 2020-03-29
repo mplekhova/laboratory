@@ -1,10 +1,32 @@
 {
-    "title": "Pure Storage Upgrades Flash Arrays, Expands With Cisco",
-    "author": "George Leopold",
-    "date": "2016-10-13 00:00:00",
-    "text": "All-flash storage leader Pure Storage rolled out a petabyte-scale storage array this week while also expanding its collaboration with Cisco Systems on a converged infrastructure initiative.Pure Storage (NYSE: PSTG), Mountain View, Calif., announced availability on Wednesday (Oct. 12) of the latest version of its all-flash storage array. The fifth generation of the flagship FlashArray//m is billed as scaling to up to 512 terabytes of raw flash storage, which according to the company translates to an estimated 1.5 petabytes of effective storage capacity.The resulting scaling and density would allow cloud IT operators to consolidate multiple racks of legacy disk storage down to 7U of rack space.The vendor is aiming its \"smart\" storage platform at public and private clouds, software-as-a-service users, or a mix of all three. It also touted the higher availability of its all-flash array via its resilient architecture and a cloud-based predictive analytics platform incorporated last year to resolve availability issues. The company claims only 31.5 seconds of storage downtime on average per year.Pure Storage said the new all-flash array also addresses a quality-of-service issue known as \"noisy neighbors.\" That's a reference to applications running in a storage array that starve the performance of other applications on the same array. The feature detects and \"throttle[s] the problem application down\" to ensure that each application gets its share of array performance.The company added that the QoS feature works for most use cases and lays the groundwork for future policy-driven QoS extensions.Pure Storage said new versions of its FlashArray//m in several configurations are shipping now. Its \"always-on\" QoS feature will be available for production workloads during the fourth quarter.Meanwhile, the storage vendor said Thursday (Oct. 13) it is expanding its collaboration with partner Cisco Systems (NASDAQ: CSCO) on their FlashStack converged infrastructure push in datacenters.FlashStack incorporates Pure Storage flash arrays with Cisco's Unified Computing System as the partners seek to offer a converged platform for a growing array of IT workloads. The latest version bundles the low-end FlashArray//m with the Cisco computing platform's fabric interconnect hardware along with virtualization software from either Microsoft (NASDAQ: MSFT) or VMware (NYSE: VMW), the partners said.Along with Cisco's datacenter design running on FlashStack for Oracle's (NYSE: ORCL) Database 12c, Pure Storage also said the FlashStack collaboration also targets datacenter workloads including Microsoft SQL Server and Exchange, SAP HANA, VMware vSphere and Nvidia vGPU.Prior to launching a\u00a0$400 million initial public offering this time last year, Pure Storage was making steady headway in areas such as database acceleration, virtualized server clouds and virtual desktop infrastructure. The goal has been to capitalize on the shift for all-flash non-volatile memory as customers look for ways to accelerate databases without having to move from relational databases to in-memory or NoSQL data stores.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "SUSE Deal Includes Ceph Storage Project",
+    "text": "Weeks after forging a Linux partnership with Hewlett-Packard Enterprise (HPE), OpenStack and Linux specialist SUSE said it is acquiring the software-defined storage management framework of German technology firm IT-Novum that includes an open-source Ceph storage project.SUSE, Nuremberg, Germany, said this week the deal is its first acquisition since the enterprise software company was founded in 1992. Terms were not disclosed.The deal to buy IT-Novum, Fulda, Germany, transfers the OpenATTIC project to SUSE, the Ceph-based storage management framework. SUSE said the latest release of its enterprise storage platform includes an interface based on OpenATTIC. \"The license of the [OpenATTIC] software or openness of the development process won't change\" after the acquisition is completed, stressed project administrator Lenz Grimmer.The IT-Novum deal is the latest in a series of partnerships and moves aimed at expanding software-defined infrastructure offerings at SUSE. These include OpenStack infrastructure-as-a-service and distributed storage based on Ceph object, block and file system storage. The Linux specialist also is a player in the development of Docker application container and Kubernetes orchestration infrastructure.Michael Miller, president of strategy, alliances and marketing at SUSE, said the company expects to make additional technology acquisitions \"where it makes sense for our growth strategy and our open source development and business model.\"As part of a spinoff and merger of its \"non-core' software asserts in September to SUSE parent company Micro Focus (LSE: MCRO.L), HPE (NYSE: HPE) designated SUSE as its preferred Linux partner. The move combines HPE\u2019s Helion OpenStack and Stackato platforms with SUSE\u2019s OpenStack distribution.Those moves are designed to expand SUSE's portfolio spanning the enterprise Linux operating system, OpenStack cloud infrastructure and Ceph storage, the company said. They also contribute to widening efforts aimed at leveraging different distributions of Ceph storage in software-defined datacenters.\"What we need now is a totally different kind of [storage] technology and an approach because the workloads are demanding that,\u201d asserted Avinash Lakshman, the former Amazon and Facebook engineer who now heads storage startup Hedvig.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2016-11-10 00:00:00",
+    "cats": [
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "Ceph",
+        "HPE",
+        "OpenATTIC",
+        "SUSE"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/ceph/",
+        "https://www.enterpriseai.news/tag/hpe/",
+        "https://www.enterpriseai.news/tag/openattic/",
+        "https://www.enterpriseai.news/tag/suse/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-11.29.51-AM-370x282.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

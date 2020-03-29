@@ -1,10 +1,46 @@
 {
-    "title": "Sinclair Oil Taps Qumulo Storage",
-    "author": "George Leopold",
-    "date": "2015-10-19 00:00:00",
-    "text": "The oil and gas sector is slumping, cutting back on exploration and drilling as energy prices continue to slump. Perhaps based on the strategy that it's best to invest during a downturn, Sinclair Oil announced this week it is deploying new scale-out network-attached storage from intelligent storage startup Qumulo Inc.Seattle-based Qumulo announced earlier this year that Sinclair was among the roster of new customers for its \"data-aware\" NAS offering dubbed Qumulo Core. The storage startup said Monday (Oct. 19) that Sinclair, the $7 billion energy company based in Salt Lake City, Utah, is replacing an outmoded storage system with its Core platform as it imports millions of files to the new data repository. The deal was announced during this week's Society of Exploration Geophysicists conference in New Orleans.The core of Core storage the Qumulo Scalable File System, which the startup says it build from scratch using a \u201cflash-first\u201d hybrid approach that incorporates flash and \u201cdense\u201d spinning disk storage. As a software application running as a user application on a Linux operating system, Qumulo Core will be sold using a software-as-a-service delivery model, the startup said.A hybrid storage appliance provides 24 TB of raw hard-disk capacity and 1.6 TB of raw solid-state disk capacity. Qumulo Core can be scaled from four to more than 1,000 nodes in a single cluster and single namespace, Qumulo said.The integration of data analytics with network attached storage is intended to allow the scalable file system to storage, manage and curate data, making critical data accessible when needed.Qumulo touts its approach to intelligent storage as giving users the ability to manage and store billions of files as a way to improve storage efficiency and workflows.Along with upgrading and scaling its storage capabilities, Sinclair said it is leveraging the Qumulo Core's real-time visibility and analytics designed to to assess system usage. The real-time analytics capability is integrated into the Core file system, the foundation of the startup's \"data-aware\" strategy.Qumulo announced a second funding round earlier this year that included Silicon Valley heavyweight Kleiner Perkins Caulfield & Byers. The storage specialist has so far raised $67 million and recently added Sujal Patel, founder of Isilon Systems, to its board.The enterprise storage specialist was founded in 2012 by a group of Isilon veterans. It has also attracted storage experts from Amazon Web Services, Google and Microsoft, the company said.Co-founder Peter Godman, a former director of software engineering at Isilon, is Qumulo\u2019s CEO.Along with Sinclair Oil, Qumulo's other early customers include the University of Washington\u2019s Institute for Health Metrics and Evaluation, the University of Utah\u2019s Scientific Computing and Imaging Institute and SportVision, the media company known for its \"first down\" line on football broadcasts.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Survey: HPC Storage Sector is Booming",
+    "text": "Nearly one-third of storage systems spanning storage area networks to cloud platforms reached 1 petabyte or greater capacity in 2015, according to a user census that also projects more than half of installed storage systems will top the 1-PB level by 2020.The storage user survey released by market watcher Intersect360 Research also said surging storage demand driven by big data projects and emerging storage technologies has resulted in \"unfettered growth of total storage\" over the least five years. By contrast, only 9.6 percent of users surveyed in 2010 reported storage capacity of 1 GB or greater.\"Growth in both new data sources and existing databases is significantly exceeding the ability of organizations to manage and leverage data for advancing R&D efforts and to make organizational decisions,\" the user survey concluded. The push for big data analytics \"is creating a new set of HPC demands and opportunities, in which storage, by definition, is a major component.\"The user survey also ranked leading HPC storage suppliers based on the number of installed systems. DataDirectNetworks leads with a 13.9 percent share of the storage market followed by IBM (NYSE: IBM) with 11.8 percent and NetApp (NASDAQ: NTAP) at 8.3 percent. Despite dominance by DDN and IBM, the market researcher said there remains \"much opportunity for growth for [emerging] vendors as well as other storage suppliers.\"Indeed, a crop of storage startups is targeting both enterprises and the HPC market with technologies like scale-out network-attached storage. Among them is Seattle-based Qumulo, which announced during this week SC15 conference this week that the University of Utah's Scientific Computing and Imaging Institute would use its Core intelligent storage platform to manage data used in visualization, scientific computing and imaging analysis projects.Intersect360 Research reckons there are more than 50 companies are currently vying for a share of the HPC storage market. The sector also is seeing the beginnings of consolidation, particularly with the blockbuster merger announced last month between Dell and EMC. That deal was driven in part by Dell's desire to sharpen its focus on large enterprises and the HPC.While the $67 billion merger reportedly still faces major hurdles such as a potential a $9 billion tax on the deal, the market researcher said a successful merger would have a significant impact of the HPC storage market in 2016.EMC's (NYSE: EMC) rivals would gain if the deal unravels, the analyst said: \"EMC has a revenue position that is greater than its share of survey responses would indicate, and Dell is one of the leaders in servers for HPC. If there is any confusion, lack of communication, or strategic uncertainly in the acquisition, other storage vendors could gain share from EMC in the near term.\"Meanwhile, cloud storage platforms have made slight gains in the overall storage market, accounting for an estimated 4.7 percent of total storage capacity in 2015. Amazon Web Services (NASDAQ:AMZN) remains the primary supplier, and the market watcher expects \"cloud usage to be one of our fastest growing segments, while also being the smallest.\"George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2015-11-16 00:00:00",
+    "cats": [
+        "Editor's Picks: Front Page",
+        "Editor's Picks: Storage",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/editors-pick/",
+        "https://www.enterpriseai.news/category/editors-picks-storage/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "AWS",
+        "cloud storage",
+        "Dell",
+        "EMC",
+        "HPC storage",
+        "Intersect360 Research",
+        "NAS",
+        "Qumulo"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/aws/",
+        "https://www.enterpriseai.news/tag/cloud-storage/",
+        "https://www.enterpriseai.news/tag/dell/",
+        "https://www.enterpriseai.news/tag/emc/",
+        "https://www.enterpriseai.news/tag/hpc-storage/",
+        "https://www.enterpriseai.news/tag/intersect360-research/",
+        "https://www.enterpriseai.news/tag/nas/",
+        "https://www.enterpriseai.news/tag/qumulo/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2013/12/oilpump-e1386788727696-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/storage-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-3.07.31-PM.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

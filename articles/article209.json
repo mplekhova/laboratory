@@ -1,10 +1,42 @@
 {
-    "title": "FPGA-Based Genome Processor Bundles Storage",
-    "author": "George Leopold",
-    "date": "2017-01-05 00:00:00",
-    "text": "Bio-processor developer Edico Genome is collaborating with storage specialist Dell EMC to bundle computing and storage platform for analyzing gene-sequencing data.The partners said this week the platform will be based on Edico Genome's DRAGEN processor that uses an FPGA for hardware acceleration. That processor will be integrated with a Dell 4130 server for souped up genome analysis along with Dell EMC's (NYSE: DVMT) Isilon network attached storage for genomic data storage.The bundle is touted as enabling analysis of an entire genome in as little as 22 minutes. Standard software currently requires as much as a day to complete a full genomic analysis. The partners said applications for rapid genomic analysis include faster diagnoses for cancer patients and critically ill newborns along with faster results for drug developers and researchers.Along with the Dell server and Isilon storage, the FPGA-based platform is coupled with the storage giant's Virtustream storage cloud. The genomics platform also supports third-party cloud providers.The DRAGEN processor leverages an FPGA to provide hardware-accelerated implementations of genome pipeline algorithms. Hardware-based algorithms are used for mapping, alignment and sorting of genomic data, San Diego-based Edico Genome said.DRAGEN, which stands for Dynamic Read Analysis for Genomics, is based on a configurable \"bio-IT\" processor architecture. The flexible platform enables development of custom algorithms as well as refining existing algorithm pipelines.The partners noted that the DRAGEN engine addresses unmet computing and storage needs for big data genomics. The result is a scalable platform for secondary analysis used in genomics applications along with cheaper storage of soaring genomic data sets.The FPGA-based platform also addresses the reanalysis of raw sequencing data as updated algorithms and applications are released. That approach has resulted in huge computational loads and associated costs.The other problem addressed by the engine is big data storage, the partners stressed. Raw data files are typically maintained and duplicate copies of files are retained as backups, generating huge data storage requirements for each initial sample.The partners said the bundle is available in three tiers ranging from up to 100 terabytes for applications such as neonatal intensive care units implementing genome-sequencing capabilities to 1 petabyte of data throughput for \"major sequencing centers.\"The DRAGEN engine also is being offered in on-premise, cloud and hybrid cloud versions. The hybrid version allows genomic big data to be processed, stored and moved to the cloud.Dell-EMC said its bundled Isilon storage platform consolidates large, semi-structured file-based workloads into a single system that supports Edico's multiple DRAGEN pipeline workflows. The single volume storage system supports the DRAGEN input formats as well as industry standard output formats.The partners further asserted that the bundled approach reduces the need for clusters of larger servers, thereby reducing costs related to storage space and IT infrastructure.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "MapR Targets Persistent Storage For Containers",
+    "text": "Application containers get a lot of attention, but remain ephemeral. Converged data platform specialist MapR Technologies is looking to fill that gap in the application container ecosystem with the roll out of a persistent storage capability designed to move stateless containers to a full state status to access database tables and files.The availability of the storage capability addresses a pressing need for production deployment of containers: persistent storage has emerged as a barrier to wider adoption of containers in production.MapR, San Jose, Calif., announced general availability on Tuesday (Feb. 7) of its converged data platform for Docker containers. The company noted that the struggle to move container applications to production has so far yielded stateless web applications. Lacking data persistence, MapR and others assert, container applications cannot scale. They also lack the resilience to survive routine infrastructure failures.Until now, file and block storage were among the few options for deploying stateful but less secure container applications.The company also argues analytics apps and other micro-services must be stateful, that is, aware of historical information and context as well as current status.The MapR persistent storage capability is itself a container dubbed the Persistent Application Client Container. PACC includes a pre-built Docker container providing application access to files, database tables and message streams. Meanwhile, secure authentication also is provided at the container level. PACC is available now on Docker Hub as a Dockerfile.Company executives stressed in an interview that PACC would support both legacy and emerging micro-services. \"It's all part of the same general trend: better use of data in the enterprise,\" said Jack Norris, MapR's senior vice president for data and applications.Norris also noted that the persistent storage architecture remains the same on-premise or in the cloud, allowing users to run existing applications in containers. It also means stateful containers can be restarted or moved across datacenter nodes, for example, to access data. Multiple applications and analytics can share the platform's data repository while computing and storage resources are scaled for each workload.MapR also was quick to note that its persistent storage approach is not a container orchestration tool. \"We are a standard Dockerfile,\" Norris noted. Instead, the storage platform works with leading container orchestrators such as Docker Swarm, Kubernetes and Mesos. The combination is intended to provide reliable persistent storage, the company claims, addressing a key requirement for production workloads.Among the other challenges, according to Dale Kim, MapR's senior director of industry solutions, are creating stateful capabilities for running existing applications like databases. Stateful applications are becoming increasingly critical to \"event-driven micro-services,\" Kim added, and emerging container platforms are making it easier to deploy micro-services.\"This product emerged really from customer demand,\" Norris added. \"It's already been pressure-tested among existing customers.\"Other approaches exist for providing persistent storage for application containers, but MapR argues they are narrower and \"don't lend themselves to supporting [both] existing and new applications,\" Norris said.The MapR storage platform along with other recent advances such as standard \"plumbing,\" or runtimes, and other container management tools are filling out the evolving application container ecosystem as prototypes move to production to deliver data-driven distributed applications. Norris said that container management remains a \"huge gap\" in the Docker infrastructure, a gap the company claims to plug.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-02-07 00:00:00",
+    "cats": [
+        "Slider: Front Page",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "Application containers",
+        "MapR",
+        "microservices",
+        "persistent storage",
+        "stageful applications"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/application-containers/",
+        "https://www.enterpriseai.news/tag/mapr/",
+        "https://www.enterpriseai.news/tag/microservices/",
+        "https://www.enterpriseai.news/tag/persistent-storage/",
+        "https://www.enterpriseai.news/tag/stageful-applications/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/shutterstock_genomics-370x228.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/shutterstock_cloud-370x228.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/MapR_graphic.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

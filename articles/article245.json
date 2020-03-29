@@ -1,11 +1,39 @@
 {
-    "title": "Dell and EMC in Merger Talks, Report Says",
-    "author": "Alison Diana",
-    "date": "2015-10-07 00:00:00",
-    "text": "Dell is reportedly in talks to merge with EMC, according to published reports.Rumors and uncertainty have swirled around $50-billion storage behemoth EMC. Facing the unscheduled but certainly upcoming retirement of longtime chairman and CEO Joe Tucci, pundits have wondered\u00a0what form\u00a0the EMC federation -- including EMC, VMware, and Pivotal -- would take\u00a0without his leadership. The company has been under attack from activist investors\u00a0such as Elliot Management, which want more value for shareholders. And there have been suggestions, firmly rejected\u00a0by Tucci, that EMC should spin off VMware so it can operate as a separate company.Dell and EMC are now in talks to merge, although whether this is a complete merger or involves only parts of EMC (such as VMware) is uncertain, according to the Wall Street Journal, which broke the news on Wednesday evening.\u00a0EMC's shares were up more than 9.4 percent in after-hours trading. Dell, of course, went private in 2013.Reportedly Dell is discussing financing options with banks so it could make an all-cash offer, Reuters said.Tucci was scheduled to retire from EMC in February which did not happen, in part because there was no replacement named.Dell World will be held in Austin from Oct. 20 through Oct. 22. EMC (NYSE: EMC) reports its earnings on Oct. 21. Update: On Thursday morning, EMC's stock opened at $25.96, up 0.15.Managing editor of Enterprise Technology. I've been covering tech and business for many years, for publications such as InformationWeek, Baseline Magazine, and Florida Today. A native Brit and longtime Yankees fan, I live with my husband, daughter, and two cats on the Space Coast in Florida.",
+    "title": "All-Flash Startup Leverages QoS as a \u2018Differentiator\u2019",
+    "text": "With all-flash arrays making inroads into enterprise storage infrastructure, the growing list of vendors of PCIe flash arrays are looking for ways to differentiate themselves while persuading potential customers that they can reap a quick return on a still pricey investment.The latest gambit comes from flash array startup NextGen Storage Inc. that is promoting its multi-tier all-flash array as delivering \"dynamic quality-of-service\" (QoS). The extensions of NextGen's N5 arrays are based on multiple tiers of flash storage, including RAM, low-latency PCIe flash and higher capacity solid-state drives (SSD). The startup has now blended in dynamic storage QoS to help avoid latency spikes and resource contention issues the startup says are inherent in all-flash arrays.\"Quality of service is a differentiator\" in the expanding PCIe flash storage market, George Wagner, NextGen's senior product marketing manager, emphasized in an interview. QoS is NextGen's \"secret sauce.\"The QoS capabilities are designed to dynamically tier data across PCIe-connected devices to deliver predictable performance in multi-tenant or multi-application environments increasing running virtual machines. The patented approach manages performance metrics like I/O prioritization and data placement to ensure that mission-critical applications work as advertised. \"It's about mixed workloads\" like SQL databases and virtual server environments, mainly based on VMware, Wagner added.The QoS engine is intended to prioritize increasingly mixed workloads that also include virtualized desktop infrastructure as a way to avoid inevitable bottlenecks caused by latency spikes. The tiered approach combines RAM cache to reduce latency, PCIe flash to \"ingest\" data and SSD to boost storage capacity.The startup also is betting that the slow decline in flash prices as measured in dollars per gigabyte of storage means potential customers are now focused on the performance requirements of key applications. \"It's all about predictability,\" Wagner asserted, which translates into getting data to the right storage tier at the right time.\"The workloads are getting intense\" as data volumes soar, \"and that's placing pressure on legacy storage architectures,\" added Chris McCall, NextGen's senior vice president of marketing.NextGen, Louisville, Colo., which was spun out from SanDisk Corp. (NASDAQ: SNDK) earlier this year, has taken a proprietary approach to storage technology development, including what it calls its Flash 2.0 design that underpins the core of its N5 series of all-flash arrays. That approach has been extended to QoS: NextGen also announced Wednesday (Nov. 11) it has received the first U.S. Patent on a QoS engine for flash storage (U.S. Patent #9,176,708.).NextGen's N5-1500 and N5-3000 multi-tier all-flash arrays come with 2.6 TB of PCIe flash capacity and 300,000 IOPS performance. The N5-3000 comes with 30 TB of raw SSD flash capacity. All-flash configurations for both versions range from 15 TB of SSD capacity up to 60 TB.The all-flash arrays also support the NVM Express specification to boost performance via data and I/O reduction techniques. The shift to virtual server environments with virtual storage volumes also prompted NextGen to return to a more granular and, hence, efficient, storage management approach.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2015-11-11 00:00:00",
+    "cats": [
+        "Editor's Picks: Front Page",
+        "Editor's Picks: Storage",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/editors-pick/",
+        "https://www.enterpriseai.news/category/editors-picks-storage/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "all-flash arrays",
+        "All-flash storage",
+        "NextGen Storage",
+        "PCIe",
+        "QoS"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/all-flash-arrays/",
+        "https://www.enterpriseai.news/tag/all-flash-storage/",
+        "https://www.enterpriseai.news/tag/nextgen-storage/",
+        "https://www.enterpriseai.news/tag/pcie/",
+        "https://www.enterpriseai.news/tag/qos/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/10/Dell.png",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/10/emcchart.png",
-        "https://secure.gravatar.com/avatar/c9a7c1bfbf00a21541cc0388b22c36c4?s=80&r=g"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-11-at-11.21.52-AM.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

@@ -1,10 +1,43 @@
 {
-    "title": "HPE Adds \u2018Predictive Flash\u2019 with Storage Deal",
-    "author": "George Leopold",
-    "date": "2017-03-07 00:00:00",
-    "text": "Hewlett Packard Enterprise continued its headlong push into the hybrid IT market with its second large acquisition of 2017: a $1 billion deal to acquire flash specialist Nimble Storage Inc.The company (NYSE: HPE) announced Tuesday (March 7) it would pay $12.50 per share for Nimble common stock. Nimble Storage (NYSE: NMBL), San Jose, Calif., began trading publicly in December 2013. HPE also said it would assume or pay out Nimble\u2019s unvested equity awards, values at about $200 million at closing.Completion of the deal is expected in April.HPE announced in January is acquiring hyper-converged infrastructure specialist Simplivity Corp. for $650 million in cash to expand its hybrid IT offerings. The company said the deals are designed to make it easier for customers to adopt hybrid IT infrastructure.In announcing its acquisition of Nimble Storage, the company added that Nimble\u2019s predictive flash offerings would complement its 3PAR data storage systems. \"This deal will enable HPE to deliver a full range of superior flash storage solutions for customers across every segment,\" the company noted in a statement.HPE also said it would integrate Nimble Storage's predictive analytics platform across its current storage offerings. That tool can be used to detect and resolve customer infrastructure issues.HPE CEO Meg Whitman said the storage acquisition reflects the company's strategy of focusing on systems software and software-defined infrastructure as its targets hybrid IT. \"We\u2019re leaning into new technology either through our own innovation, acquisitions or partnerships,\" Whitman said last year in announced the spin out of its application software unit.To that end, HPE and data preparation vendor Tamr Inc. announced a reseller partnership deal last week. Hewlett Packard Pathfinder was an early investor in Tamr, an MIT spinoff.The storage acquisition would help fill out HPE's flash storage portfolio while adding cloud-based predictive analytics used to tweak hybrid IT infrastructure. The combination of Nimble Storage and 3PAR expands the company's flash storage options while providing \"more effective on-premises control and performance, at public cloud economics,\" asserted Antonio Neri, general manager of HPE's Enterprise Group.As it sharpens its focus on hybrid IT, HPE said the storage deal would allow it to offer platforms for moving data and replicating it across hybrid and all-flash storage. \"As flash becomes the new normal, customers are driving additional requirements, like hybrid IT automation, integrated data protection and flexible consumption models,\" Neri noted in a blog post announcing the storage deal.The predictive flash capability also fills out HPE's storage portfolio that includes an \"all-flash datacenter\" capability along with hyper-converged infrastructure bolstered by HPE's earlier acquisition of Simplivity.Nimble Storage announced an alliance with Lenovo (HKG: 0992) in October 2016. Lenovo said in a statement that partnership was in its \"early stages\" and this week's acquisition would have little impact on its storage portfolio. Lenovo added it plans to unveil new flash storage products later this year.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Intel Xpoint Storage Targets Datacenter",
+    "text": "Intel Corp. has begun shipping new storage drives based on its 3-D XPoint non-volatile memory technology as it targets data-driven workloads.Intel's new Optane solid-state drives, designated P4800X, seek to combine the attributes of memory and storage in the same device. The result is a new \"data storage tier\" intended to overcome growing storage bottlenecks in datacenters.Intel said its new SSD based on Xpoint (pronounced \"cross point\") memory technology would help speed applications for faster caching and storage while allowing datacenter operators to deploy larger datasets analyzed using large memory pools.Intel argues that current storage approaches based on DRAM and NAND are contributing to the current datacenter storage gap, and that storage platform increasingly need to behave \"like system memory.\" DRAM is too expensive to scale while NAND can scale but falls short in terms of datacenter performance.Hence, the Optane SSD leverages the Xpoint approach unveiled in 2015 to boost memory density by as much as ten times compared to conventional memory chips, claim Intel and development partner Micron Technology Inc. Optane, Intel's first deployment of Xpoint memory stacks, is said to deliver a five- to eight-fold boost in performance for \"low queue depth workloads.\"Faster caching and storage are also said to boost scaling for individual servers while speeding up latency-sensitive workloads, the company said Monday (March 20).The first product in the Optane P4800X series comes with 375-Gb storage capacity in the form of an add-in card with both PCI Express and Non-Volatile Memory Express interfaces. Typical latency is rated at less than 10 microseconds.Intel said its Optane SSDs combine emerging Xpoint memory media with its memory controller as well as proprietary interface hardware and software.Last April, Intel (NASDAQ: INTC) demonstrated Optane SSDs operating at 2 Gb/sec speeds. Along with speed improvements, Intel and memory partner Micron (NASDAQ: MU) said last year they hoped to convince potential enterprise customers that XPoint memory platforms are more durable than current NAND flash technology as well as providing as much as a ten-fold increase in storage density for persistent data compared to DRAM.In terms of endurance, Intel said Optane could handle up to 30 drive writes per day and up to 12.3 petabytes of written data. Hence, the SSDs target \"write-intensive applications such as online transaction processing, high performance computing, write caching and logging,\" the chipmaker said.As flash storage makes greater inroads in datacenters, Intel's storage SSDs based on 3-D Xpoint memory technology essentially creates a new storage category between flash and DRAM. The chipmaker argues its storage approach addresses the fundamental computing problems of moving data closer and linking to CPUs.\"Faster storage is important to computing because computing is done on data, and data is put in storage,\" said Robert Crooke, general manager of Intel's Non-Volatile Memory Solutions Group. \"The longer it takes to get to that data, the slower the computing\u2026.\"Meanwhile, Micron is targeting its SSDs based on Xpoint technology at cloud applications, data analytics, online transaction processing and the Internet of Things.The memory maker said last summer its Quantx line of SSDs also delivers read latencies at less than 10 microseconds and writes at less than 20 microseconds. That, Micron asserted, is 10 times better than NAND flash-based SSDs.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-03-20 00:00:00",
+    "cats": [
+        "Data Analytics",
+        "Datacenter",
+        "Slider: Datacenter",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "3-D Xpoint",
+        "Intel Corp.",
+        "Memory",
+        "Optane SSDs",
+        "SSDs",
+        "storage"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/3-d-xpoint/",
+        "https://www.enterpriseai.news/tag/intel-corp/",
+        "https://www.enterpriseai.news/tag/memory/",
+        "https://www.enterpriseai.news/tag/optane-ssds/",
+        "https://www.enterpriseai.news/tag/ssds/",
+        "https://www.enterpriseai.news/tag/storage-2/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_acquisition-370x228.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-20-at-12.24.22-PM-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

@@ -1,10 +1,35 @@
 {
-    "title": "Storage Software Comes Packaged in App Containers",
-    "author": "George Leopold",
-    "date": "2016-06-14 00:00:00",
-    "text": "Server software released this week by storage vendor Scality comes packaged in a Docker application container to speed deployment of cloud-native applications by eliminating the need to decide ahead of time where applications are deployed in production. That means applications developed on the company's S3 server can be deployed on-premises, on a public cloud, or both.The San Francisco-based software-defined storage specialist said Tuesday (June 14) the open source version of its S3 API addresses the lack of a platform for locally developing and testing applications before web-scale deployment. The container approach allows the company's API to be deployed on a single server so developers can write code locally. Applications can then be deployed in datacenters or on the Amazon Web Services (NASDAQ: AMZN) public cloud, Scality said.Scality CEO J\u00e9r\u00f4me Lecat noted in a statement that the S3 server is based on the same code as a version deployed in production \"for billions of objects and petabytes of storage\" provided by the latest version of its Ring storage platform.Scality works with server makers like Hewlett Packard Enterprise (NYSE: HPE) and Dell in areas like software-defined object and file storage as customers cope with growing amounts of unstructured data. HPE, an equity investor in Scality, began packaging Scality software with its Apollo and ProLiant servers in 2014.In April, Scality and Dell announced collaboration that combines Scality Ring software with Dell's SD7000-S object and file storage server. Dell describes the storage server as a \"purpose-built appliance for Scality's object storage\" platform.The new S3 server is written in Node.js and offers API compatibility. That feature is designed to simplify coding by allowing application developers to utilize a set of AWS S3 language-specific bindings and wrappers, including software development kits for Java, .NET, Javascript, and Go.Meanwhile, Docker volumes are used for storage, and Scality said the application containers could be used for pilot and production deployment of several hundreds of terabytes.As are many computing and storage vendors, Scality said it decided to release its server implementation to the open source community. The hope is that open source developers could leverage the \"instant\" test and development platform either directly on a laptop or running as a container service in the cloud.\"We are convinced that this server software will be used by the creative community in many ways that we have not envisioned, and which in turn will develop the value and accessibility of object storage,\" noted Scality CTO Giorgio Regni.Both free and paid options for its S3 server are available on Docker Hub and Github as well as the company's portal. An enterprise version also is available on a subscription basis for $950 per month per server, the company said.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Pure Storage Upgrades Flash Arrays, Expands With Cisco",
+    "text": "All-flash storage leader Pure Storage rolled out a petabyte-scale storage array this week while also expanding its collaboration with Cisco Systems on a converged infrastructure initiative.Pure Storage (NYSE: PSTG), Mountain View, Calif., announced availability on Wednesday (Oct. 12) of the latest version of its all-flash storage array. The fifth generation of the flagship FlashArray//m is billed as scaling to up to 512 terabytes of raw flash storage, which according to the company translates to an estimated 1.5 petabytes of effective storage capacity.The resulting scaling and density would allow cloud IT operators to consolidate multiple racks of legacy disk storage down to 7U of rack space.The vendor is aiming its \"smart\" storage platform at public and private clouds, software-as-a-service users, or a mix of all three. It also touted the higher availability of its all-flash array via its resilient architecture and a cloud-based predictive analytics platform incorporated last year to resolve availability issues. The company claims only 31.5 seconds of storage downtime on average per year.Pure Storage said the new all-flash array also addresses a quality-of-service issue known as \"noisy neighbors.\" That's a reference to applications running in a storage array that starve the performance of other applications on the same array. The feature detects and \"throttle[s] the problem application down\" to ensure that each application gets its share of array performance.The company added that the QoS feature works for most use cases and lays the groundwork for future policy-driven QoS extensions.Pure Storage said new versions of its FlashArray//m in several configurations are shipping now. Its \"always-on\" QoS feature will be available for production workloads during the fourth quarter.Meanwhile, the storage vendor said Thursday (Oct. 13) it is expanding its collaboration with partner Cisco Systems (NASDAQ: CSCO) on their FlashStack converged infrastructure push in datacenters.FlashStack incorporates Pure Storage flash arrays with Cisco's Unified Computing System as the partners seek to offer a converged platform for a growing array of IT workloads. The latest version bundles the low-end FlashArray//m with the Cisco computing platform's fabric interconnect hardware along with virtualization software from either Microsoft (NASDAQ: MSFT) or VMware (NYSE: VMW), the partners said.Along with Cisco's datacenter design running on FlashStack for Oracle's (NYSE: ORCL) Database 12c, Pure Storage also said the FlashStack collaboration also targets datacenter workloads including Microsoft SQL Server and Exchange, SAP HANA, VMware vSphere and Nvidia vGPU.Prior to launching a\u00a0$400 million initial public offering this time last year, Pure Storage was making steady headway in areas such as database acceleration, virtualized server clouds and virtual desktop infrastructure. The goal has been to capitalize on the shift for all-flash non-volatile memory as customers look for ways to accelerate databases without having to move from relational databases to in-memory or NoSQL data stores.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2016-10-13 00:00:00",
+    "cats": [
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "all-flash arrays",
+        "All-flash storage",
+        "cisco systems",
+        "FlashStack",
+        "Pure Storage"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/all-flash-arrays/",
+        "https://www.enterpriseai.news/tag/all-flash-storage/",
+        "https://www.enterpriseai.news/tag/cisco-systems/",
+        "https://www.enterpriseai.news/tag/flashstack/",
+        "https://www.enterpriseai.news/tag/pure-storage/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/storage-370x246.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-11.29.51-AM-370x282.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

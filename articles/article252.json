@@ -1,10 +1,45 @@
 {
-    "title": "Primary Data Virtualization Storage Platform Adds VMware Capability",
-    "author": "Alison Diana",
-    "date": "2015-08-31 00:00:00",
-    "text": "Days after unveiling its DataSphere data virtualization platform, Primary Data announced the technology act as a Universal VMware vSphere Storage APIs for Storage Awareness storage provider for the Virtual Volumes feature in VMare vSphere 6.This capability is part of Primary Data's focus on eliminating silos by allowing organizations to access data, regardless of vendor or technology, and on improving enterprises' usage of their existing storage solutions.With Virtual Volumes, organizations attain finer control per virtual machine so underlying storage becomes VM-aware and simplifying storage via policies, according to Primary Data. Using data virtualization, DataSphere abstracts storage into a global dataspace that enables current storage to be VMware VASA-compliant, the vendor said. As a result, it allows existing storage resources to be presented as one, adaptable VMware vSphere Virtual Volumes datastore managed in VMware vCenter Server.DataSphere enables data mobility across multiple storage tiers, such as server flash, SAN, NAS, and cloud storage, according to Primary Data. The developer eliminates today's storage silos, which are tied to an application, by operating out of band.\"We do to data what VMware does for servers. This gives us a separation from the logical view versus where it is physically stored,\" Primary Data CEO Lance Smith told EnterpriseTech. \"We allow data mobility to occur on the fly without disruption. If they want more performance, based off demand, we can take a file and we can migrate it to an all-flash array without the application stopping. The application itself will have higher-level performance.\"The storage-agnostic technology is available as a virtual machine or appliance, he said. Targeted at large enterprises such as the Fortune 2000, major hospital chains, and other organizations with lots of mission critical data typically stored across various technologies, Primary Data can manage up to 1 billion files, said Smith.\"Our customers wanted to make sure we weren't trying to control how much storage capacity they had. We don't limit them,\" he said.DataSphere acts as a Universal VASA provide, accelerating and simplifying adoption of vSphere Virtual Volumes and allowing organizations to more rapidly adopt new technologies \u2013 such as VMware vSphere 6 \u2013 when they become available, said Smith.Most organizations face the same challenge: Data grows, yet only 10 percent to 20 percent has business value, said Smith. Generally enterprises resolve that today via rows of provisioning, he said, but locating the necessary data can be time-consuming and create pools of unused, expensive storage.\"Even though last week\u2019s hot data quickly becomes cold, today most data is stuck in the same storage silo where it was first created because of the complexity and cost of data migration,\" said Steve Wozniak, Primary Data chief scientist, in a statement. \u201cThis can be an expensive problem that ties up storage resources. Primary Data finally makes it possible to automatically have the right data on the right storage tier at the right time, without the need to rip and replace a single storage system.\"\u00a0\u00a0\u00a0Managing editor of Enterprise Technology. I've been covering tech and business for many years, for publications such as InformationWeek, Baseline Magazine, and Florida Today. A native Brit and longtime Yankees fan, I live with my husband, daughter, and two cats on the Space Coast in Florida.",
+    "title": "PernixData Decouples Performance, Management from Storage",
+    "text": "PernixData aims to further simplify storage managers' jobs with today's release of FVP version 3.0, Freedom, and software platform Architect.The company's technology decouples storage performance and management functions from an organization's underlying storage hardware, allowing an enterprise to maximize application performance, attain predictable scale-out growth, and minimize storage costs, according to the San Jose, Calif.-based vendor.Rather than buying a bigger array or adding all flash storage, PernixData's solution separates storage from capacity, said Jeff Aaron, vice president of marketing at PernixData, in an interview. \"It is wrong to add disk/flash to the storage array to get performance,\" he said.FVP 3 now can deploy within vSphere 6.0 environments, meaning it currently supports all modern VMware hypervisors (5.x and 6.0), said Aaron. In addition, the latest edition is based on HTML 5 in order to provide an enhanced user experience, more tools, and a speedier, more flexible interface, he said.To further improve performance, FVP added PernixPlus, which collects relevant customer deployment data in order to identify potential problems before they arrive and abbreviate the time it takes to resolve issues, said Aaron. PernixData expects most will choose to use this capability, an approach increasingly common among developers, he noted.\"Today it's being used for support, to give a better experience to our customers,\" said Aaron. \"One thing we're interested in doing is offering a metadata trend information to them.\"For example, at some point PernixData could track and share data on what other architecture or manufacturing firms are doing; how many are using EMC storage, or how many IOPs they get, for example, he said. The developer could crowdsource analytics so customers could glean a better understanding of what others in their industry are doing, Aaron added.The developer also now offers a completely free version \u2013 FVP Freedom \u2013 with fewer features and other limitations that should appeal to small businesses or as a test run for enterprises considering FVP 3, said Aaron.\"It is a completely free version of the software. It's read only and it runs on RAM only \u2013 whereas the full version is RAM and flash, and read and write \u2013\u00a0and [Freedom] is community support only,\" he said. \"We're out there saying what the competition offers is commoditized so we're willing to offer it for free. It's really a way to raise awareness and seize the market and prove how robust our feature set is.\"Finally, PernixData unveiled Architect, the developer's first software platform designed to provide real-time analytics for all virtualized applications and storage devices, regardless of the underlying hardware. It works with or without FVP. The platform sits inside the hypervisor kernel and gathers large amounts of application and infrastructure data, then delivers recommendations about improving the virtualized datacenter, said Mark Peters, practice director and senior analyst at ESG, in a statement.Architect generates data based on dynamic virtual machine and infrastructure conditions, tying that in with third-party data, and real-time descriptive, predictive, and prescriptive analytics. This allows storage managers to configure optimal block sizes, for example, or correctly size storage arrays based on application requirements so storage is never under- or overused, the company said.Although it can be used without FVP, when coupled with FVP 3, enterprises get more visibility into VM and storage behavior and enhanced performance, according to PernixData.\"Storage tools give you zero visibility into what's happening on the application side. What we want to do is manage the VM and storage management tools together, which is why we're coming out with Architect [today],\" said Aaron. \"It really extends our notion of company storage. Architect decouples management from storage.\"Architect is scheduled to ship next quarter. Betas are available now.\u00a0\u00a0\u00a0\u00a0Managing editor of Enterprise Technology. I've been covering tech and business for many years, for publications such as InformationWeek, Baseline Magazine, and Florida Today. A native Brit and longtime Yankees fan, I live with my husband, daughter, and two cats on the Space Coast in Florida.",
+    "author": [
+        "Alison Diana",
+        "https://www.enterpriseai.news/author/alison/"
+    ],
+    "date": "2015-09-15 00:00:00",
+    "cats": [
+        "Editor's Picks: Storage",
+        "Slider: Front Page",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/editors-picks-storage/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "Architect",
+        "FVP",
+        "Jeff Aaron",
+        "PernixData",
+        "storage",
+        "storage management",
+        "Virtualization",
+        "vSphere"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/architect/",
+        "https://www.enterpriseai.news/tag/fvp/",
+        "https://www.enterpriseai.news/tag/jeff-aaron/",
+        "https://www.enterpriseai.news/tag/pernixdata/",
+        "https://www.enterpriseai.news/tag/storage-2/",
+        "https://www.enterpriseai.news/tag/storage-management/",
+        "https://www.enterpriseai.news/tag/virtualization/",
+        "https://www.enterpriseai.news/tag/vsphere/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/storage-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/PernixData-370x290.jpg",
         "https://secure.gravatar.com/avatar/c9a7c1bfbf00a21541cc0388b22c36c4?s=80&r=g"
     ]
 }

@@ -1,10 +1,35 @@
 {
-    "title": "When the Going Gets Tough, the Smart Optimize",
-    "author": "no author",
-    "date": "2016-02-22 00:00:00",
-    "text": "IT departments are always asked to do more with less. But it is much easier to buy shiny new toys in a good economy than a bad one, which is one of the reasons why the all flash array (AFA) market has been so strong in recent years.If the economy turns south in 2016, which some are starting to predict, will IT spending patterns change?Let\u2019s take a look at the history books...In 2001, VMware first started shipping ESX, which was right on the heels of the\u00a0dot.com\u00a0recession.\u00a0 This product propelled the company to its current level of success.\u00a0Why was it so successful?\u00a0At that time,\u00a0IT departments were focusing their efforts on value\u00a0\u2013 concentrating spend on projects that improve the bottom line.\u00a0ESX provided a great way to do just that.\u00a0More specifically, it enabled companies to optimize server infrastructure using virtualization instead of buying more server hardware.\u00a0The ROI was real, and easy to quantify.Is there a lesson here?When the going gets tough, people optimize.\u00a0VMware made a name for itself selling software that optimizes server performance, and\u00a0Isilon became a multibillion dollar company by optimizing storage hardware with scale-out growth.\u00a0In both instances, the solutions were embraced because they minimized hardware expenditures while providing substantive value.So, what can we expect in 2016? Economic uncertainty will cause CIOs to harshly scrutinize IT spend in the coming year. This means it will be increasingly difficult to blindly throw hardware at problems.\u00a0For example, buying capacity to get performance in a storage array is inefficient and expensive, and will be increasingly tough to justify as customer affordability goes down. Similarly, investing in more onsite equipment will be seriously questioned in lieu of more cost effective cloud based services.In addition, other \u201cCadillac\u201d spends will be increasingly questioned.\u00a0For example, we are already seeing customers scrutinize their database environments more to see which individual instances require Oracle vs less expensive SQL server or MySQL.\u00a0And they are pushing back on investments in expensive in-memory computing solutions and specialized hardware like Exadata in favor of alternative solutions that provide equal performance at lower costs.Looking specifically at the storage space, in my opinion, these factors will cause the AFA and hyperconverged markets to soften a bit in the near term.\u00a0Companies will look to optimize their existing storage instead of replacing it with expensive new hardware.\u00a0And, unless more storage capacity is absolutely needed, they will hold off on purchasing new storage platforms until next generation solutions emerge with better scale-out capabilities (and other cost savings measures).",
+    "title": "Storage Study Warns of Growing \u2018Databergs\u2019",
+    "text": "The ability to sweep up, store and organize vast amounts of data, then turn the connections among data points into insights and strategies is creating new revenue streams for enterprises. But what happens when stored data reaches its freshness \"expiration date\"?As more enterprises look to get a handle on storage and other costs via virtualization and a shift to hybrid cloud architectures, many are finding that much of the data they are storing is \"dark,\" or lacking in known value. Worse, a study released this week by information management vendor Veritas Technologies found that one-third of stored data was considered \"redundant, obsolete and trivial,\" or ROT.The result, the company argues, are \"databergs\" characterized by a relatively small amount of data deemed \"business critical\" while the remainder is \"dark\" or ROT data below the metaphorical surface. Moreover, the study found that U.S. companies tend to have the highest rates of dark data.Veritas, Mountain View, Calif., said it surveyed more than 2,500 IT executives. The study found that more than half of the data stored and processed by companies in 22 countries has no known value. It estimated that 30 percent of the information stored in the U.S. is ROT data.Along with \"a fear of the 'delete' key,\" the inexorable shift to the cloud may be accelerating the data ROT problem. The reason, Veritas argued, is that \" pushing data to the cloud can just move the problem further away, adding to the unclassified dark data.\"Adding to the data mishmash on enterprise IT platforms is the growing amount of personal data on corporate networks as more workers store more private data on work devices. That data exposes companies to new data privacy rules that can differ from one region to the next.While vendors like Veritas offer storage management and data governance tools designed to get a handle on the \"databerg,\" other storage and virtualization vendors highlight the need for an IT roadmap as they shift to hybrid cloud platforms. That includes a big push toward virtualized data storage, according to an IT transformation study released this week by EMC Corp. (NYSE: EMC) and VMware (NYSE: VMW).Ultimately, the Veritas study warns, the inability to reverse the databerg phenomenon could end up costing companies trillions of dollars in wasted storage resources by 2020. One solution is implementing IT policies that schedule when ROT data must be deleted. According to the Veritas survey, 35 percent of companies with such policies in place require data to be deleted on a quarterly basis. The study found a direct correlation between freeing up storage and other IT resources and improved cash flow.\"The direct costs consumed by databergs in IT resources and management time do not account for the current and future investment cash which they tie up and which could be better spent elsewhere,\" the survey notes. \"By classifying more of their data, organizations would have a better view on how much money could be re-invested.\"\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2016-03-15 00:00:00",
+    "cats": [
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "dark data",
+        "databergs",
+        "storage",
+        "storage management",
+        "Veritas Technologies"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/dark-data/",
+        "https://www.enterpriseai.news/tag/databergs/",
+        "https://www.enterpriseai.news/tag/storage-2/",
+        "https://www.enterpriseai.news/tag/storage-management/",
+        "https://www.enterpriseai.news/tag/veritas-technologies/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2012/05/Money4_32-530x320.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/02/Jeff-Aaron-249x300.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-15-at-11.51.17-AM.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }
