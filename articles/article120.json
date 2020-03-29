@@ -1,10 +1,43 @@
 {
-    "title": "VMware Sharpens Focus on Hybrid Cloud",
-    "author": "George Leopold",
-    "date": "2018-04-17 00:00:00",
-    "text": "VMware this week takes the wraps off the latest versions of its server virtualization and software-defined storage platforms with an emphasis on hybrid cloud deployments, broader application support and\u2014in the case of its vSphere platform\u2014a three-fold reduction in memory usage and resulting performance gains via the introduction of a persistent memory feature.The latest versions of VMware\u2019s (NYSE: VMW) flagship virtualization products emerge as the company faces pressures from a host of new infrastructure frameworks ranging application containers and other micro-services to serverless computing. Released Tuesday (April 17), VMware executives emphasized the upgrades are focused on the enterprise shift to hybrid clouds and providing the \u201cdigital foundation\u201d for that transition.The latest version of vSphere also emphasized application security and includes a \u201cuniversal app platform\u201d for supporting emerging AI, machine language, cloud-native, in-memory, Internet of Things and other workloads.The explosion of applications and workloads is placing greater demands IT staffs hustling to manage services, noted Rajiv Ramaswami, VMware\u2019s products and technology chief. While a growing number of enterprises are turning to agile and portable micro-services to handle more cloud-native applications, VMware is adding support for these application delivery schemes while boosting the performance of its virtual machine infrastructure.Along with a performance boost stemming from the ability to use different memory types, the company stressed that the addition of persistent memoryin vSphere 6.7 would deliver \u201cDRAM-like performance with flash-like prices,\u201d added Himanshu Singh, VMware's group manager for cloud platform product marketing.Hence, vSphere 6.7 leverages recent gains in non-volatile memory performance and lower costs to boost the performance for existing and new enterprise applications.The latest iteration of vSphere also includes \u201cbuilt-in\u201d security features designed to shield infrastructure, application and data while tightening restrictions on access to help lock out intruders.Separately, Aqua Security said during this week\u2019s RSA security conference in San Francisco it is collaborating with VMware to protect applications deployed across virtual machines and application containers. The collaboration combines VMware\u2019s AppDefensesuite and Aqua Security\u2019s container security platform, added the security vendor, which is based on Boston and Israel.Meanwhile, the latest version of vSAN responds to growing enterprise adoption of hyper-converged and software-defined networking infrastructure, company officials said. Hence, vSAN 6.7 targets hybrid cloud deployments with the goal of extending hyperconverged infrastructure to emerging enterprise applications. VMware added that the storage platform is especially geared to big data and NoSQL queries.\u201cDatabases are now the number one workload,\u201d Singh\u00a0said.Along with Hadoop, MongoDB (NASDAQ: MDB), Oracle (NYSE: ORCL) and other databases, vSAN also supports cloud-native workloads orchestrated by Kubernetes. The new version also includes data encryption.Along with a long list of private cloud infrastructure vendors that include Cisco Systems (NASDAQ: CSCO), Dell EMC and Hewlett Packard Enterprise (NYSE: HPE), VMware virtualization platforms also run on Amazon Web Services (NASDAQ: AMZN) and IBM\u2019s (NYSE: IBM) public cloud.VMware vSphere 6.7 and VMware vSAN 6.7 are scheduled for release in early May.--Editor's note: This story has been updated to correctly identify the VMware manager,\u00a0Himanshu Singh.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Google Expands Cloud Tools with Data Orchestrator",
+    "text": "Google Cloud Platform\u2019s new data orchestrator dubbed Cloud Composer is its latest managed service based on its Apache Airflow workflow management tool.Announcing the beta launch of Cloud Composer on Tuesday (May 1), Google (NASDAQ: GOOGL) said the orchestration tool is designed to develop, schedule and monitor enterprise workflows across internal datacenters or multiple clouds. Hence, workflow management would operate at the \u201cplatform level, like other cloud services,\u201d James Malone, a Google product manager, noted in a blog post.Given the open source roots of the orchestration tool, Google also stressed its portability, meaning the workflow tool and related infrastructure could be transferred among clouds as a way to reduce development headaches while avoiding vendor lock-in.Google noted the beta launch of Cloud Composer was a \u201cstarting point\u201d and other new features are planned, including additional Google Cloud regions, Airflow and Python versions along with an autoscaling feature. Malone said Google continues to work on Airflow extensions, including an \u201cexecutor\u201d toolfor the Google-developed Kubernetes cluster orchestrator.Airflow and Cloud Composer currently support Google BigQuery, the search giant\u2019s analytics data warehouse, along with Cloud Dataflow stream and batch processing and several other Google cloud data and storage services.The effort to provide a cloud data orchestrator underscores Google\u2019s ongoing effort to differentiate its public cloud service from rivals Amazon Web Services (NASDAQ: AMZN) and Microsoft Azure (NASDAQ: MSFT) as each adds new bells and whistles to attract companies launching multi-cloud strategies.For example, Microsoftunveiled a \u201ccompute optimized\u201d Azure SQL data warehouse this week designed to boost database query performance.Google said it will offer a consumption-based pricing structure for Cloud Composer that includes virtual CPU per hour, Gb/month and Gb transferred per month since the cloud data orchestrator is based on several Google Cloud platform components.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-05-01 00:00:00",
+    "cats": [
+        "Cloud",
+        "Data Analytics",
+        "Slider: Cloud",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "Apache Airflow",
+        "Cloud Composer",
+        "data orchestrator",
+        "Google Cloud",
+        "Kubernetes",
+        "multicloud"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/apache-airflow/",
+        "https://www.enterpriseai.news/tag/cloud-composer/",
+        "https://www.enterpriseai.news/tag/data-orchestrator/",
+        "https://www.enterpriseai.news/tag/google-cloud/",
+        "https://www.enterpriseai.news/tag/kubernetes/",
+        "https://www.enterpriseai.news/tag/multicloud/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/shutterstock_hybrid_cloud-370x228.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/shutterstock_orchestrate-370x228.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

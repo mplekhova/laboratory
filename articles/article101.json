@@ -1,9 +1,51 @@
 {
-    "title": "Bringing AI to Autonomous Centers of Data",
-    "author": "no author",
-    "date": "2018-07-05 00:00:00",
-    "text": "Traditionally, IT\u2019s role included reacting to problems in the data center. This resulted in frustration, headaches and wasted time. After an issue cropped up, staff searched through log files and interpreted graphs to find the cause. IT staff often contacted vendor support, spending hours on the phone through multi-tiered escalations. The result \u2014 time-consuming trial-and-error, expensive overprovisioning and missed opportunity.Limitations of Traditional IT Data Center Tools Traditional infrastructure monitoring and analysis tools do not help IT staff get ahead of problems. Because the tools simply report on local system metrics, they cannot learn from the behavior of other peer systems. And being confined to infrastructure silos, these tools only tell part of the story, whereas problems can occur anywhere in the stack. General-purpose analytics only provide surface-level insights, missing the deep domain expertise needed to understand all the operating and environmental parameters correlated across the infrastructure layers.Most importantly, traditional tools only provide information and cannot fix the problem. This means that staff must manually fix any problems that occur or make changes ahead of time to prevent problems. To break the fix-and-repair cycle that plagues IT departments, there needs to be intelligence with the foresight to predict problems before they occur and automatically recommend changes to enable the optimal environment, thus creating autonomous centers of data that span from core to cloud to edge, with seamless orchestration between them.New Tools Must Enable Autonomy As infrastructure becomes increasingly vital to an organization\u2019s bottom line, IT requires solutions that can transform how infrastructure is managed and supported. Integrating AI with infrastructure can overcome these limitations and help to create autonomous centers of data, within which AI solutions predict problems and proactively improve the environment without human intervention.By simultaneous monitoring of all systems in an installed base, AI can detect abnormal behavior by recognizing underlying patterns and configurations. AI creates a foundation of data through deep system telemetry and global connectivity that uses each piece of information to learn more about the systems. When a new problem is detected, the tools recognize the issue and use pattern matching to find other systems that may have similar issues. Based on this information, the AI recommends the best operational system change to fix the problem and prevent recurrences. IT administrators can have recommendations automatically applied, without human intervention, which is the definition of autonomy at work.Removing the Burden of Infrastructure from ITWith an autonomous center of data, the infrastructure self-manages, self-heals and self-optimizes. Because the majority of problems are prevented and guesswork eliminated, IT rarely needs to reactively solve problems, which allows staff to work on projects that improve the employee and customer experience. By significantly reducing downtime caused by outages and performance bottlenecks, the autonomous center of data also results in increased productivity for all employees.Once an autonomous center of data is achieved, IT departments reach greater efficiency and confidence knowing their system is running in an optimal state. In this state,\u00a0 IT departments can most efficiently use their resources to grow their business.Milan Shetti is Storage Division General Manager of Hewlett Packard Enterprise.",
+    "title": "Google, VMware Partner on Hybrid Cloud Tools",
+    "text": "Google and VMware are collaborating on a new cloud plug-in connecting a pair of VMware tools designed to enable provisioning of virtual machines and storage on the search giant\u2019s cloud.The partners this week released a preview version of a Google cloud plug-in for VMware\u2019s vRealize orchestrator and support for the public cloud on the VMware\u2019s platform for automated provisioning. The combination addresses hybrid cloud customers using VMware software on-premises.The partners said Thursday (July 19) the orchestration and automation tools would allow Google users to deploy and manage cloud resources within the vRealize automation tool, including the provisioning of Google Compute Engine virtual machines.Along with reaching new cloud regions and leveraging Google\u2019s load balancing and automatic scaling features, other use cases enabled by the plug-in include tapping into Nvidia (NASDAQ: NVDA) Tesla P100 GPUs running on the Google cloud. (Google began offering the Nvidia GPUs in May\u00a0through its infrastructure-as-a-service offering Compute Engine and on Kubernetes Engine, its\u00a0managed environment for deploying containerized applications.)VMware said the capability could be used for scenarios such as accelerating training of machine learning models.The cloud connection also would allow VMware users to replicate and scale in-house distributed applications in the cloud. \u201cThis plug-in allows you to start provisioning VMs and storage to [the Google cloud] as well as publish blueprints that include Google Compute Engine VMs and storage buckets in your self-service catalog,\u201d Colby Heiner, a VMware cloud product marketing manager, added in a blog post.The plug-in will be available shortly on VMware\u2019s marketplace. VMware (NYSE: VMW) also said it plans to link to more Google cloud services.\u201cWe\u2019re working together with VMware to add support for additional [Google cloud] products such as cloud TPUs,\u201d or Tensor processing units, Shan Kulandaivel, a Google cloud product manager, noted in a separate blog post\u00a0announcing the collaboration.The VMware plug-in is the latest addition to the Google cloud tool chest. Along with a series of tools based on its Kubernetes Engine, Google (NASDAQ: GOOGL) has been steadily adding new cloud features as it strives to keep pace with public cloud leaders Amazon Web Services (NASDAQ: AMZN)and Microsoft Azure (NASDAQ: MSFT). Among them is a new data orchestrator dubbed Cloud Composer, a managed service based on Google\u2019s distribution of the Apache Airflow workflow management tool.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-07-20 00:00:00",
+    "cats": [
+        "Cloud",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "Google",
+        "Hybrid Cloud",
+        "orchestrator",
+        "plug-in",
+        "TPUs",
+        "VMs",
+        "VMware"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/google/",
+        "https://www.enterpriseai.news/tag/hybrid-cloud/",
+        "https://www.enterpriseai.news/tag/orchestrator/",
+        "https://www.enterpriseai.news/tag/plug-in/",
+        "https://www.enterpriseai.news/tag/tpus/",
+        "https://www.enterpriseai.news/tag/vms/",
+        "https://www.enterpriseai.news/tag/vmware/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/data-center-shutterstock-370x290.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/shutterstock_hybrid_cloud-370x228.jpg",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

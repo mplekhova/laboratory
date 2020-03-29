@@ -1,11 +1,47 @@
 {
-    "title": "Memory Demand Propels Booming Chip Market",
-    "author": "George Leopold",
-    "date": "2018-03-29 00:00:00",
-    "text": "Chip makers have been scrambling to find new applications for their wares, focusing on the Internet of Things, big data and emerging machine learning applications requiring more processing power. For now, it looks like they are succeeding.Driven by insatiable demand for memory chips, the global semiconductor industry had its biggest year in more than a decade. Annual revenue in 2017 jumped 21.7 percent over the previous year, according to figures released this week by IHS Markit.The market tracker credited a surge in memory demand for the banner year, which also propelled South Korea\u2019s Samsung Electronics (KRX: 005930) to the top of its chip rankings. Intel Corp. (NASDAQ: INTC)\u00a0had held the top stop for the past quarter century. Samsung\u2019s revenues jumped 53.6 percent year-on-year on the strength of robust demand for memory chips.IHS said DRAM sales soared 76.7 percent last year while NAND sales jumped 46.6 percent. Increased demand for server DRAM as new x86 platforms were rolled out added to tight supplies throughout the second half of last year. Hence, the market watcher noted that revenue jumps reflect higher prices as demand accelerated.Nevertheless, the growth rate for DRAM and NAND was the highest in a decade, the market tracker reported.The surge in memory demand also rearranged chip rankings, with memory specialists SK Hynix (KRX: 000660) and Micron Technology (NASDAQ: MU) moving up several spots to Nos. 3 and 4, respectively. Both registered annual growth rates of around 80 percent.The fabless business model in which semiconductor vendors ship designs to huge foundries for production continues to expand as demand grows for graphics and other agile processors. Mobile phone chip vendor Qualcomm (NASDAQ: QCOM0, which was being pursued by Broadcom (NASDAQ: AVGO) until the Trump administration blocked the acquisition, remains the top fabless chip marker.Cracking the top ten for the first time was graphics specialist Nvidia (NASDAQ: NVDA), recording a 42.3 percent jump in annual revenue. The GPU leader has been rolling a steady stream of high-end graphics processors for applications ranging from autonomous vehicles to HPC.The chip industry\u2019s transition away from personal to embedded computing and the growing demand for in-memory processing of huge data sets also has fueled chip integration efforts as manufacturers look to pack more functionality onto each device. Those requirements fueled last year\u2019s transition to 3-D NAND technologies such as Intel\u2019s Xpoint non-volatile memory chips aimed at datacenters.\u201cThe technology transition from planar 2-D NAND to 3-D NAND drove the market into an unbalanced supply-demand environment in 2017, driving prices higher throughout the year,\u201d said\u00a0IHS memory analyst Craig SticeStice reckons the transition to 3-D NAND flash is nearly complete, providing \u201csupply relief for the strong demand coming from the [solid-state drive] and mobile markets.\u201d That should translate into steep price declines even as demand remains strong. Either way, IHS predicts 2018 could be another record year for NAND revenues.While unusually strong demand for memory devices skewed last year\u2019s results, the chip sector\u2019s resurgence appears to be built on a strong foundation. Excluding memory sales, IHS reported the remainder of the semiconductor industry grew at a healthy 9.9 percent clip in 2017. For example, big data processing applications expanded by 33.4 percent, benefitting Intel and other server vendors.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "VMware Sharpens Focus on Hybrid Cloud",
+    "text": "VMware this week takes the wraps off the latest versions of its server virtualization and software-defined storage platforms with an emphasis on hybrid cloud deployments, broader application support and\u2014in the case of its vSphere platform\u2014a three-fold reduction in memory usage and resulting performance gains via the introduction of a persistent memory feature.The latest versions of VMware\u2019s (NYSE: VMW) flagship virtualization products emerge as the company faces pressures from a host of new infrastructure frameworks ranging application containers and other micro-services to serverless computing. Released Tuesday (April 17), VMware executives emphasized the upgrades are focused on the enterprise shift to hybrid clouds and providing the \u201cdigital foundation\u201d for that transition.The latest version of vSphere also emphasized application security and includes a \u201cuniversal app platform\u201d for supporting emerging AI, machine language, cloud-native, in-memory, Internet of Things and other workloads.The explosion of applications and workloads is placing greater demands IT staffs hustling to manage services, noted Rajiv Ramaswami, VMware\u2019s products and technology chief. While a growing number of enterprises are turning to agile and portable micro-services to handle more cloud-native applications, VMware is adding support for these application delivery schemes while boosting the performance of its virtual machine infrastructure.Along with a performance boost stemming from the ability to use different memory types, the company stressed that the addition of persistent memoryin vSphere 6.7 would deliver \u201cDRAM-like performance with flash-like prices,\u201d added Himanshu Singh, VMware's group manager for cloud platform product marketing.Hence, vSphere 6.7 leverages recent gains in non-volatile memory performance and lower costs to boost the performance for existing and new enterprise applications.The latest iteration of vSphere also includes \u201cbuilt-in\u201d security features designed to shield infrastructure, application and data while tightening restrictions on access to help lock out intruders.Separately, Aqua Security said during this week\u2019s RSA security conference in San Francisco it is collaborating with VMware to protect applications deployed across virtual machines and application containers. The collaboration combines VMware\u2019s AppDefensesuite and Aqua Security\u2019s container security platform, added the security vendor, which is based on Boston and Israel.Meanwhile, the latest version of vSAN responds to growing enterprise adoption of hyper-converged and software-defined networking infrastructure, company officials said. Hence, vSAN 6.7 targets hybrid cloud deployments with the goal of extending hyperconverged infrastructure to emerging enterprise applications. VMware added that the storage platform is especially geared to big data and NoSQL queries.\u201cDatabases are now the number one workload,\u201d Singh\u00a0said.Along with Hadoop, MongoDB (NASDAQ: MDB), Oracle (NYSE: ORCL) and other databases, vSAN also supports cloud-native workloads orchestrated by Kubernetes. The new version also includes data encryption.Along with a long list of private cloud infrastructure vendors that include Cisco Systems (NASDAQ: CSCO), Dell EMC and Hewlett Packard Enterprise (NYSE: HPE), VMware virtualization platforms also run on Amazon Web Services (NASDAQ: AMZN) and IBM\u2019s (NYSE: IBM) public cloud.VMware vSphere 6.7 and VMware vSAN 6.7 are scheduled for release in early May.--Editor's note: This story has been updated to correctly identify the VMware manager,\u00a0Himanshu Singh.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-04-17 00:00:00",
+    "cats": [
+        "Cloud",
+        "Data Analytics",
+        "Security",
+        "Slider: Cloud",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "Hybrid Cloud",
+        "hyperconverged infrastructure",
+        "VMware",
+        "vSAN",
+        "vSphere"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/hybrid-cloud/",
+        "https://www.enterpriseai.news/tag/hyperconverged-infrastructure/",
+        "https://www.enterpriseai.news/tag/vmware/",
+        "https://www.enterpriseai.news/tag/vsan/",
+        "https://www.enterpriseai.news/tag/vsphere/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-1.49.46-PM-370x290.png",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-29-at-11.29.09-AM.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/shutterstock_hybrid_cloud-370x228.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

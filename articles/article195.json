@@ -1,10 +1,49 @@
 {
-    "title": "EMC Storage Driving Dell Revenues",
-    "author": "George Leopold",
-    "date": "2017-03-31 00:00:00",
-    "text": "Dell Technologies, the computer hardware and storage giant, reported brisk fourth-quarter hardware sales fueled by its acquisition of storage leader EMC. For its full fiscal year, however, the company reported a sizeable operating loss tied to the EMC deal.The holding company (NYSE: DVMT) that owns Dell and EMC along with majority ownership of VMware, also claimed leadership in global server shipments along with the fiercely competitive all-flash storage array market. Meanwhile, it also reported strong demand for its hyper-converged infrastructure offerings.Dell Technologies reported Thursday (March 30) that quarterly sales ending on Feb. 3 jumped 58 percent to $20.1 billion, reflecting the integration of EMC's storage products. Overall, the EMC storage unit drove earnings, with storage revenue accounting for $4.8 billion in quarterly revenue.Elsewhere, VMware's (NYSE: VMW) fourth quarter revenues totaled $1.9 billion, with operating income of $565 million, the parent company said. Quarterly bookings for its NSX virtual networking stack reached a run rate of about $1 billion, with more than 2,400 NSX customers.Quarterly revenues from server and networking sales rose 12 percent year-on-year to $3.6 billion, lead by sales of its PowerEdge server that \"outgrew the market,\" the company claimed. Meanwhile, its cloud server business declined during the fourth quarter, a loss attributed to expected fluctuations in customer orders from one quarter to the next.The company also claimed record quarterly demand of all-flash arrays with demand exceeding $4 billion in the last quarter. \"We believe we are nearly the size of the three next competitors combined as we continue to capture the market shift to all-flash,\" David Goulden, president of Dell Technologies' Infrastructure Solutions Group, asserted during a conference call with analysts.The Dell unit has \"taken some of our traditionally hybrid products and actually enhanced the architecture quite substantially to take further advantage of all-flash [arrays] and therefore produce all-flash version,\" Goulden added.The company also said it expects to introduce flash storage combined with Non-Volatile Memory Express technology later this year.In the near term, the company sees soft demand at the high-end of the storage market while demand from medium-sized enterprises continues to grow. The bright spot appears to be all-flash storage in datacenters, where Goulden said Dell's market share is higher than for external storage.\"There's a lot of work going on to look at IT transformation and future architectures,\" he added, and potential customers are still weighing their options \"in terms of what their IT transformation strategy is\u2026.\"Among Dell Technologies' other business units, Pivotal Cloud Foundry's annual bookings jumped 130 percent to more than $270 million. The platform allows developers to deploy cloud-native applications on public or private clouds.Since closing the $60 billion acquisition of EMC Corp. last September, Dell Technologies said it has paid down about $7 billion in debt associated with the acquisition while repurchasing $824 million in stock.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "New Malware \u2018Bricks\u2019 IoT Devices",
+    "text": "Despite repeated assurances that Internet of Things security issues are being addressed, so-called \"in-the-wild\" attacks on poorly secured devices reveal that securing the IoT still has a long way to go.The latest threat comes from a new malware strain known as BrickerBot that, according to security experts, intentionally \"bricks\" IoT devices, meaning the malware renders the computer's motherboard permanently inoperable. First detected by the Tel Aviv-based cyber-security firm Radware in late March, the Brickerbot strains also are believed to corrupt device storage capability while reconfiguring kernel settings.Reports said the malware is targeting IoT devices based on Linux BusyBox, often referred to as the \"Swiss Army Knife of Embedded Linux.\"Security experts said the \"permanent denial-of-service\" bots scan the IoT for Linux-based routers and other connected devices protected only by default passwords. Reports said BrickerBot uses a list of known default credentials used for IoT devices. The bot then erases files stored in the IoT device, corrupts its storage and severs its network connection.Once the bot gains access, it reportedly writes random bits to a device's storage drives, wiping out flash storage capabilities. One the device is \"bricked,\" the only alternatives are reinstalling firmware or, more likely, buying a new device.\"On multiple occasions I have witnessed devices being bricked by sending malformed traffic to the device,\" Mike Ahmadi, director of Critical Systems Security at chip design specialist Synopsys Inc. (NASDAQ: SNPS), noted in an email. \"In multiple cases sending as few as two bad packets to the broadcast address of networked devices caused all of them to become bricked all at once.\"At the time I hoped such issues would be discovered and fixed before the hacking world decided to exploit such vulnerabilities, but now it seems that we are forced to react to a seemingly uncontrollable situation, that is likely to get much worse before it gets better.\"BrickerBot is the latest malware to plague IoT devices. It appears to be a variant of the Marai botnet that targeted networked cameras and other connected devices with distributed denial-of-service attacks that emerged last fall.The latest malware attacks will likely fuel concerns about potential security gaps in enterprise cloud platforms created by unsecured IoT devices. A recent survey of IT security managers found that 62 percent believe cloud security will worsen as more IoT services and devices using little more than factory default passwords are connected to enterprise IT infrastructure.Some take issue with that assertion, noting that cloud security often comes down to user, administrative and infrastructure architecture issues. \"The cloud itself as a construct is incredibly secure,\" one observer noted. \"This does not mean, however, that vigilance is no longer required by IT staff and users; security is everyone\u2019s job.\"George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-04-07 00:00:00",
+    "cats": [
+        "Cloud",
+        "Security",
+        "Slider: Cloud",
+        "Slider: Networks",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "botnets",
+        "BrickerBot",
+        "cloud security",
+        "cyber security",
+        "IoT security",
+        "malware"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/botnets/",
+        "https://www.enterpriseai.news/tag/brickerbot/",
+        "https://www.enterpriseai.news/tag/cloud-security/",
+        "https://www.enterpriseai.news/tag/cyber-security/",
+        "https://www.enterpriseai.news/tag/iot-security/",
+        "https://www.enterpriseai.news/tag/malware/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_servers-370x228.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-07-at-11.54.36-AM-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

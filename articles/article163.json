@@ -1,10 +1,43 @@
 {
-    "title": "Western Digital Buys Flash Vendor Tegile",
-    "author": "George Leopold",
-    "date": "2017-08-30 00:00:00",
-    "text": "Consolidation in the enterprise storage sector continues with Western Digital Corp.'s acquisition of Tegile Systems, a provider of flash and persistent memory storage in datacenters.The deal announced Tuesday (Aug. 29) is expected to close during the week of Sept. 4. Others terms of the transaction were not disclosed.Western Digital (NASDAQ: WDC) currently offers a range of storage products under the HGST, SanDisk and WD brands to OEMs and cloud infrastructure providers. (SanDisk acquired flash memory specialist Fusion-io in 2014.) The Tegile acquisition would expand its enterprise portfolio with a range of flash storage options, including its IntelliFlash storage platform.The partners said the acquisition would position San Jose-based Western Digital to meet growing demand in hyper-scale datacenters for scalable platforms that include persistent storage, a key requirement for emerging micro-services based on application container technology.As Western Digital targets big data and fast data applications, it said Tegile's product line would allow it to expand its flash memory-based storage options. The deal also gives the buyer more than 1,700 new customers for its enterprise and cloud-based storage platforms.Western Digital is among the world's largest disk drive manufacturers along with main competitor Seagate Technology (NASDAQ: STX). With its heavy focus on big data storage, Western Digital argues that Tegile's \"fast data\" approach would complement its enterprise datacenter efforts by speeding access to stored data.Phil Bullinger, general manager of Western Digital's Data Center Systems unit, said the Tegile acquisition would allow it to \"expand our product offerings in the fast-growing solid-state and hybrid array segments.\" As all-flash storage arrays make their way into datacenters, the company also said the deal would help it capture a larger share of flash array demand.Western Digital has previously invested in Tegile, Newark, Calif., and the partners have collaborated on engineering integration, disk drive supply chains and joint marketing.The deal for Tegile is the latest in the storage sector. In March, Hewlett Packard Enterprise (NYSE: HPE) acquired flash specialist Nimble Inc. for about $1 billion. HPE said Nimble\u2019s predictive flash offerings would complement its 3PAR data storage systems. HPE is integrating Nimble Storage's predictive analytics platform across its current storage offerings.Other storage players such as Dell Technologies' (NYSE: DVMT) EMC storage unit also have made flash storage acquisitions as they compete against a group of agile storage startups such as Pure Storage (NYSE: PSTG).Earlier this week, Western Digital announced its acquisition of Upthere Inc., a consumer-oriented cloud storage service provider.Meanwhile, the deal for Tegile addresses the growing enterprise requirement for flexible storage options as data volumes soar. \"It\u2019s critical that a storage system today supports both block and file storage protocols and accommodate different types of storage mediums, whether it\u2019s all flash, a mixture of flash and disk, or a mixture of high-performance flash and high-density flash,\" Tegile stressed in releasing an industry storage survey.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Heptio Looks to Reduce Container Complexity",
+    "text": "Startup Heptio announced its latest funding round this week as it seeks to drive application container orchestration deeper into enterprise IT infrastructure by making the technology more accessible to frontline systems engineers.The Seattle-based startup launched last year by ex-Google engineers and Kubernetes project founders Joe Beda and Craig McLuckie announced Wednesday (Sept. 13) the closing of a $25 million funding round. \"This new funding accelerates our growth and enables us to look beyond Kubernetes to support businesses' IT transformation efforts in a hybrid-cloud world,\" CEO McLuckie noted in a statement.Launched last November, Heptio has so far raised $33.5 million in a pair of funding rounds. Madrona Venture Group led the latest round along with Lightspeed Venture Partners and Accel Partners.Kubernetes, the open source container orchestrator, continues to gain traction as DevOps teams embrace containers as a way of simplifying the process of deploying software into production. Startups such as Heptio are also trying to expand that ecosystem as a \"stepping stone\" to cloud-native IT deployments as more enterprises shift operations to private and public clouds.Heptio CTO Beda and McLuckie, along with Brendan Burns (now with Microsoft [NASDAQ: MSFT]), developed Kubernetes while at Google (NASDAQ: GOOGL) before releasing it to the open source community under the auspices of the Cloud Native Computing Foundation. It has since emerged as a key competitor to other orchestration approaches such as Docker Swarm.A recent container adoption survey by 451 Research concluded that container management and orchestration remains a \"mixed-use market,\" with Kubernetes leading the way but not yet a \"de facto standard.\" Nevertheless, the market research predicted that hybrid cloud deployments would accelerate demand for enterprise container infrastructure as DevOps teams seek a consistent application development environment across on-premise and cloud infrastructure.Heptio said Tim Porter, managing director of Madrona Venture Group, would join its board of directors.With the goal of making Kubernetes easier to use in production, Heptio launched two new open source projects in August: Ark and Sonobuoy. As the name suggests, Ark is a utility for managing disaster recovery with users' cluster resources and persistent storage volumes. The utility backups and restores applications and persistent volumes via a series of \"checkpoints,\" the company said.Ark also enables \"cross-cloud provider migration of Kubernetes objects\" in multi-cloud deployments, McLuckie explained in a blog post.Sonobuoy is a diagnostic tool for understanding the state of a Kubernetes cluster. It works by running a set of conformance tests. \"To ensure that you can safely run Sonobuoy in production, we have carefully picked these tests to avoid side effects,\" McLuckie noted.As for the status of applications containers that have so far struggled to enter production, McLuckie conceded in a blog post there is much work to be done to reduce complexity. \"Kubernetes really speaks to systems engineers, but there is a huge body of work to do to make it truly accessible to engineers who don\u2019t necessarily have the time to \u2018dig into\u2019 the details of the project.\"Added McLuckie, \"Upstream versions of Kubernetes remain inaccessible to many from an operations and accessibility perspective. It is still too hard to deploy a Kubernetes cluster, qualify whether it is conformant and stitch it into the fabric of enterprise IT systems.\"\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-09-13 00:00:00",
+    "cats": [
+        "Slider: Software",
+        "Slider: Systems",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "Ark",
+        "conformance",
+        "containers",
+        "Google",
+        "Heptio",
+        "Kubernetes",
+        "Sonobuoy"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/ark/",
+        "https://www.enterpriseai.news/tag/conformance/",
+        "https://www.enterpriseai.news/tag/containers/",
+        "https://www.enterpriseai.news/tag/google/",
+        "https://www.enterpriseai.news/tag/heptio/",
+        "https://www.enterpriseai.news/tag/kubernetes/",
+        "https://www.enterpriseai.news/tag/sonobuoy/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-09-at-2.05.19-PM-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2014/11/google-kubernetes-logo-370x275.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

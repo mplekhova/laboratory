@@ -1,10 +1,65 @@
 {
-    "title": "Software Investments Propel IT Spending",
-    "author": "George Leopold",
-    "date": "2018-04-10 00:00:00",
-    "text": "Enterprise software and infrastructure services continue to fuel the growth of global IT spending to levels not seen in a decade, according a new spending forecast.Gartner Inc. report this week that macroeconomic factors such as a weak U.S. dollar along with robust telecommunications spending have boosted its quarterly forecast for IT spending growth to 6.2 percent, the highest annual increase since pre-recession 2007.The only laggard identified in a quarterly IT spending forecast released on Monday (April 9) was datacenter investments, which have been steadily slowing as more companies shift internal operations to the cloud. The market watcher predicts that datacenter spending will grow only 3.7 percent this year, down from 6.3 percent in 2017.Datacenter spending might have been less without Apple\u2019s ambitious roadmap\u00a0for spending more than $10 billion over the next five years on datacenter construction.Gartner predicts continuing challenges in the storage sector, which is still working through memory shortagesthat were initially expected to ease this year. Continuing high demand for components like server DRAMs have added to tight supplies and higher prices. \u201cWhereas previously, component shortages were expected to ease into 2018, the shortages are now expected to continue throughout the year with the supply not expected to ease until the end of the year,\u201d Gartner said.Meanwhile, a host of agile IT capabilities such as micro-services are driving enterprise software spending, especially the high-flying application software sector. Gartner forecast that the enterprise sector will grow at a robust 11.1 percent this year as more businesses jump on the digital transformation bandwagon.With new micro-services such as application containers entering production, the market analyst predicts that spending on application software will continue to grow through 2019. So, too, will infrastructure investments as modernization efforts gain momentum.Gartner reported last summer that emerging software servicessuch as advanced analytics would propel application software sales to more than $200 billion by 2019. The 7.5-percent growth rate is being driven by upgrades to core enterprise applications along with the embrace of subscription-based models such as software-as-a-service.Emerging models such as pay-as-you-go serverless computingcould help sustain that growth trajectory. Also referred to as functions-as-a-service, the serverless framework is designed to allocate computing resources as needed to run a customer\u2019s code rather than charging upfront for dedicated capacity.\"This is the highest annual growth rate that Gartner has forecast since 2007 and would be a sign of a new cycle of IT growth,\u201d said John-David Lovelock, Gartner\u2019s research vice president. \u201cHowever, spending on IT around the world is growing at expected levels and is in line with expected global economic growth.\u201dGartner (NYSE: IT) noted that a declining U.S. dollar and resulting \u201ccurrency tail winds\u201d contributed much to robust growth in global IT spending. Market volatility is expected to grow on fears of a trade war between the U.S. and China, it warned.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Rackspace is Latest to Roll Bare Metal Service",
+    "text": "Rackspace is expanding it managed private cloud services with the addition of six new bare metal instances that it collectively refers to as bare metal as a service.The private cloud vendor announced the new managed hosting service this week that combines increasingly popular consumption pricing model along with \u201con-demand\u201d infrastructure. The combination would allow users to provision infrastructure \u201cin minutes rather than hours,\u201d the company claimed.In a twist on cloud-based serverless computing, Rackspace is touting its managed hosting service as a way to ease the migration of workloads out of enterprise datacenters. The combination of on-demand hardware and pay-as-you-go pricing is designed to attract customers looking to save money while still getting the performance and availability of dedicated but expensive infrastructure.The new service follows an announcement last November that Rackspace was partnering with Hewlett Packard Enterprise (NYSE: HPE) to offer metered private cloud services. The partners predicted the consumption model would remove barriers to private cloud adoption, particularly OpenStack deployments.Along with the ability to scale resources to avoid the cost of additional fixed\u2014often unused\u2014capacity, the new bare metal instances include on-demand provisioning along with access to APIs designed to automate infrastructure purchases, consumption and management.San Antonio-based Rackspace also said its bare metal infrastructure leverages GPUs and NVMe storage for workloads ranging from application containers and micro-services to databases that are quickly becoming a priority workload\u00a0for analytics applications. Further, the bare metal service combined with high-end networking could serve as the foundation for scalable private clouds that use local and external computing and storage.As more users adopt managed services as an alternative to maintaining their own datacenters, Rackspace and other IT vendors also emphasize the so-called \u201clift and shift\u201d challenges of moving from private datacenters. Hence, the bare metal portfolio is positioned as easing the migration of broad class of legacy applications without having to rewrite them. The service also permits the use of existing load balancing and network security platforms, Rackspace said.The bare metal cloud service segment is booming as enterprise users dedicate instances to multiple databases on a single server to minimize idle capacity while speeding access to customer and other data. Hence, some analysts forecast the market will grow to more than $4.7 billion by 2021.Rackspace\u2019s bare metal service is the latest offering from a competitive market that includes IBM (NYSE: IBM), Oracle (NYSE: ORCL)and others. Last July, IBM introduced new bare metal servers based on Intel Xeon Scalable (codenamed \u201cPurley\u201d) processors running on the IBM cloud.Rackspace countered last fall with the acquisition of Datapipe, a provider of bare-metal and managed services across public and private clouds.The new bare metal service \u201cbrings much needed flexibility to managed hosting such as on-demand provisioning and utility pricing while retaining its strongest features: predictable performance and reliability,\u201d said Henry Tran, head of Rackspace\u2019s managed hosting unit.Early access to the Rackspace bare metal service is available here.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-04-26 00:00:00",
+    "cats": [
+        "Cloud",
+        "Data Analytics",
+        "Datacenter",
+        "Security",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Networks",
+        "Slider: Security",
+        "Slider: Software",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-security/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "Backspace",
+        "bare metal",
+        "cloud",
+        "databases",
+        "Datapipe",
+        "HPE",
+        "IBM",
+        "private cloud"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/backspace/",
+        "https://www.enterpriseai.news/tag/bare-metal/",
+        "https://www.enterpriseai.news/tag/cloud-2/",
+        "https://www.enterpriseai.news/tag/databases/",
+        "https://www.enterpriseai.news/tag/datapipe/",
+        "https://www.enterpriseai.news/tag/hpe/",
+        "https://www.enterpriseai.news/tag/ibm/",
+        "https://www.enterpriseai.news/tag/private-cloud/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-21-at-11.33.50-AM.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2013/10/bare-metal-cloud-370x290.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

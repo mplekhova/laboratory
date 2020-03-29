@@ -1,10 +1,43 @@
 {
-    "title": "GE, Apple Bringing Predix IIoT Apps to iPhones/iPads",
-    "author": "Doug Black",
-    "date": "2017-10-18 00:00:00",
-    "text": "The powerhouse team of Apple and General Electric are joining forces to offer predictive data and analytics industrial apps from Predix, GE\u2019s IIoT platform, to Apple iPhones and iPads. Today, the two companies unveiled a new Predix software development kit (SDK) for Apple\u2019s iOS, tools for developers to make their own industrial IoT apps.The companies said Predix SDK for iOS, which will be available for download tomorrow, enables developers to make native apps that leverage Predix industrial analytics along with \u201cthe power and ease of use of iOS, the world\u2019s most advanced mobile operating system.\u201d Apps will be used to give industrial operators insight into the performance of their equipment and operations from their iPhone or iPad.\u201cFor example, a Predix app can notify a worker on their iPhone of a potential issue with equipment, such as a wind turbine, and allow them to collaborate with remote teams when performing inspections and repairs, collecting relevant data instantly. These industrial apps will close the information loop faster, ultimately increasing cost savings and minimizing unplanned downtime,\u201d the companies said in a prepared announcement.The two companies also are collaborating on new apps for both internal use and for GE customers. GE\u2019s Asset Performance Management (APM) Cases app, which is available in the App Store, is designed to help industrial businesses increase machine reliability and availability and reduce maintenance costs while managing operations risks.GE cited Exelon Corp., Chicago, a Fortune 100 energy company with 34,000 employees, as an adopter of APM for improving equipment uptime and overall productivity.\u201cApple is known for setting the standard on hardware and simple software interfaces,\u201d said Brian Hoff, director of corporate innovation at Exelon. \u201cWhen you combine this with the power of Predix and all of the data Exelon is aggregating and analyzing, the possibilities for game-changing solutions are endless.\u201dGE said it will standardize on iPhone and iPad for mobile devices and also promote the Mac personal computer as a choice for its 330,000 global employee workforce. Apple will promote GE\u2019s Predix as the IIoT analytics platform of choice to its customers and developers.\u201cOur customers increasingly need to arm their workforces through mobility,\u201d said John Flannery, chairman/CEO, GE. \u201cWorking together, GE and Apple are giving industrial companies access to powerful apps that help them tap into the predictive data and analytics of Predix right on their iPhone or iPad.\u201d\u201cGE is an ideal partner with a rich history of innovation across the industrial world in areas like aviation, manufacturing, healthcare and energy,\u201d said Tim Cook, Apple\u2019s CEO. \u201cTogether, Apple and GE are fundamentally changing how the industrial world works by combining GE\u2019s Predix platform with the power and simplicity of iPhone and iPad.\u201d",
+    "title": "AWS Adds \u2018Secret\u2019 Region to CIA Cloud",
+    "text": "Public cloud giant Amazon Web Services announced a new \"secret region\" this week designed to complete its portfolio of data classifications for U.S. government workloads.AWS said Monday (Nov. 20) that 17 U.S. intelligence agencies and government contractors with \"secret-level\" network access could run analytics and other workloads in the CIA cloud. AWS won a $600 million Commercial Cloud Services contract in 2014 to handle \"top secret\" data. Also known as C2S, the blockbuster deal helped initiate the government's uneven migration to the cloud.\"The U.S. intelligence community can now execute their missions with a common set of tools, a constant flow of the latest technology and the flexibility to rapidly scale with the mission,\" Teresa Carlson, vice president of Amazon Web Services Worldwide Public Sector, noted in a statement.The rollout of the AWS secret region was first reported by the web site Nextgov.AWS launched a \"top secret\" region three years ago as the first \"air-gapped\" commercial cloud, that is, isolated from the public Internet. The \"secret region\" announced this week fills out the range of government data classifications from \"top secret\" and \"secret\" to \"sensitive\" to \"unclassified,\" the cloud vendor (NASDAQ: AMZN) said.\"The AWS Secret Region is a key component of the [intelligence] community\u2019s multi-fabric cloud strategy,\" John Edwards, CIO of the Central Intelligence Agency, added in a separate statement. \"It will have the same material impact on the [intelligence agencies] at the Secret level that C2S has had at Top Secret.\"The new cloud region brings \"the same tools and workflows that are already available for Top Secret workloads to customers with Secret datasets and workloads,\" AWS added.The new capability represents the latest expansion by AWS into the $8.5 billion federal cloud computing market. In September, the Defense Department granted the cloud vendor provisional authority to host the U.S. military's most sensitive, unclassified information. IBM (NYSE: IBM) and Microsoft (NASDAQ: MSFT) also have gained DoD approval to host sensitive, unclassified data.As it adds the final pieces of cloud infrastructure, the CIA also has been working with other vendors to analyze the intelligence haul from spy satellites and other assets. For example, it announced a partnership in 2015 to work with Cloudera (NYSE: CLDR) on a \"pervasive analytics\" capability running on the company's data hub platform. The analytics capability is intended to drive data insights from intelligence analysts to policy makers.Speaking at an AWS event in June, the CIA's Edwards emphasized the risks involved in the original C2S contract and the agency's goal of adopting agile, commercial cloud technologies. \"We named it 'Commercial Cloud Services,' or C2S, for a reason: It's because we want to be like commercial; we do not want to be like government. We want the speed of commercial, we want the speed of that innovation.\"Edwards called the C2S contract \"the most innovative thing we've even done.\"\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-11-21 00:00:00",
+    "cats": [
+        "Cloud",
+        "Government",
+        "Security",
+        "Slider: Cloud",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/sectors/government-sectors/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "AWS",
+        "C2S",
+        "CIA",
+        "Commercial Cloud Services contract",
+        "secret"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/aws/",
+        "https://www.enterpriseai.news/tag/c2s/",
+        "https://www.enterpriseai.news/tag/cia/",
+        "https://www.enterpriseai.news/tag/commercial-cloud-services-contract/",
+        "https://www.enterpriseai.news/tag/secret/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2013/10/IndustrialInternet-370x290.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Apple-GE-logos-300x168.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-21-at-11.08.07-AM-370x290.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

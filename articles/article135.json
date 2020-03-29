@@ -1,11 +1,55 @@
 {
-    "title": "Rumors Swirl of Dell-VMware \u2018Reverse-Merger\u2019",
-    "author": "Doug Black",
-    "date": "2018-01-30 00:00:00",
-    "text": "Just days after reports surfaced of a major management overhaul at Dell EMC, this week new reports emerged that Dell Technologies \u2013 the umbrella organization that encompasses a raft of tech companies either developed or acquired by Dell, including VMware \u2013 may be acquired in a \u201creverse merger\u201d by\u2026. VMware.Neither Dell nor VMware are commenting publicly on a report from CNBC about the merger, but observers speculate that the commotion at Dell could be the result of a combination of factors: a decline in recent years in Dell PC sales, which had been the company\u2019s core business; an enterprise IT trend away from server-stuffed on-premises data centers and toward use of public cloud services; a shift by giant public cloud services buyers away from out-of-the-box servers made by companies like Dell EMC and HPE in favor of cheaper, stripped-down custom servers from Asia; and a loss in storage market share by Dell EMC \u2013 EMC having been acquired by Dell in 2015 for $67 billion in 2015, the largest deal in tech industry history, a deal that included acquisition of 80 percent interest in VMware. There\u2019s also the matter of Dell\u2019s reported $50 billion in debt, due in part to the EMC purchase.Now the possible VMware acquisition of Dell could replace the EMC deal as the biggest tech deal ever. And because VMware, a $60 billion company, is publicly traded, a reverse merger would enable Dell to become a public company without going through the IPO exercise.\u201cThis makes perfect sense from a purely financial point of view,\u201d said Patrick Moorhead, president and principal analyst at industry watcher Moor Insights & Strategy. \u201cVMWare value has skyrocketed over the past few years, Dell Technologies owns the majority of VMWare, and that increased value is cheaper than debt. Dell Technologies has the chance to pay down a ton of debt. While I questioned VMWare\u2019s ability at first to be neutral, their actions spoke for themselves and the company remained neutral. I don\u2019t see why that would change in the future.\u201dWhile Dell has experienced slowdowns in some market segments (PC\u2019s, storage), VMware has seen continued growth in revenue, although at a slower pace. Sales expanded in 2016 by 6.7 percent, but that followed a half dozen double-digit growth years in a row. Net income reached a record high, $1.2 billion in 2016, and 2017 is expected to exceed that amount. VMware software provides a virtualized set of hardware to the guest operating system, enabling companies to run large systems more efficiently. The company, founded 20 years ago, also has had to adapt to the growth in the public cloud market. Two years ago, VMware enabled its products to run on AWS, bowing to more organizations moving all or some of their IT infrastructure off premises.According to the CNBC account, the board of advisers at Dell will meet in February to consider the VMware reverse merger, as well as other options. Because Dell went private five years ago, its precise valuation is unknown. If Dell becomes a public company, company owners could sell their shares on the public market and realize their Dell investment in 2013.",
+    "title": "Start-up Aims AI at Automated Tuning of Complex Systems",
+    "text": "There was a simpler time when system tuning consisted of adjusting a relatively few number of knobs, a manual and not overly demanding task that brought out the best in systems performance. But now, as we move toward accelerated enterprise systems networked from data center to public cloud to mobile and sensored devices at the edge, simplicity in systems tuning is long gone.Today\u2019s bigger, more complex, connected and intelligent systems have an exponentially higher number of connections, dependencies, interfaces, protocols and processing architectures that, if not optimized, can hamstring networked systems. For performance engineers still using manual tuning methods, systems optimization is a time-eating hydra-headed monster that poses a virtually infinite number of possible adjustments and configurations for trial-and-error testing.Enter AI.Start-up Concertio today launched what it said is the first machine learning-based tool aimed at making \u00a0applications and systems operate for maximized performance by optimizing the myriad of configuration settings used in complex systems. While its initial product, Optimizer Studio, automates systems diagnostics and generates a \u201cgrocery list\u201d of adjustments that systems engineers and IT managers then review and implement, the next iteration of the technology (Optimizer Runtime) will automate both diagnostics and tuning implementation.None less than Mellanox has tested Concertio\u2019s effectiveness on its own networking technology. As part of today\u2019s launch, Concerto announced the results of a test involving Mellanox\u2019s ConnectX-3 Pro Ethernet cards that compared performance after automated testing by Optimizer Studio against manual tuning methods used by Mellanox performance engineers.The network cards were delivered in their off-the-shelf default settings, and then the Mellanox engineers and Concertio were informed of the workload the cards would be used for. Optimizer Studio ran against nine ConnectX-3 Pro specific knobs representing millions of option combinations. The tool\u2019s workload classification engine and reinforcement learning techniques modeled the target workload, detecting different workload phases, and experimenting with various knob configurations in each phase. It then produced a report showing the optimal settings for the specific use-case.The test result: Concertio won.\u201cIn the comparison test, Optimizer Studio\u2019s automated run improved performance in the target use-case by 80 percent, surpassing the 62 percent we achieved by manual tuning,\u201d said Amir Ancel, performance group director at Mellanox. \u201cOptimizer Studio\u2019s automated tuning algorithms allow us to focus on high-level optimization, leaving the mundane low-level parameter optimizations to software.\u201dBuilt for traditional datacenters, hyperscale datacenters and high-performance computing systems in the cloud or on-premises, Optimizer Studio monitors and learns from the interactions between applications and systems, according to Concertio.As of now, the tools support Linux-based systems running on Intel CPUs. Concertio said it intends to broaden its portfolio of supported technologies in upcoming product iterations.\u201cTuning used to be easy,\u201d Dr. Tomer Morad, Concertio co-founder and CEO, told EnterpriseTech. \u201cThere were only a handful of knobs, and you\u2019d put a performance engineer on that and tweak some settings and get some good results. But today we are already in the hundreds of knobs. It\u2019s exploding and become almost impossible to get to a very good result because the parameter space is practically limitless. If you have 100 binary knobs it\u2019s practically limitless, you cannot check everything. So you need some kind of automatic tool to help you with that.\u201dTuning variables, called tunable knobs, include settings across hardware, firmware, the operating system and applications such as:With so many variables, Morad said, performance engineers can\u2019t be expected to know about all of the available knobs, and to predict their effects on one another. IT professionals must also occasionally tune their systems, but it\u2019s difficult for them to maintain experts on all system internals, he said. Too often, engineers test and set optimal settings for a few knobs they are more familiar with, leaving the rest in default settings that were in place when the equipment was delivered. In some cases, he said, system tuning is overlooked entirely due to the complexity involved, and systems remain at inefficient under-performing factory settings.Beyond application performance tuning, Morad said the tool can be used for cutting cloud and data center costs by finding system configurations that use fewer resources, and it can be utilized by hardware and software product vendors to identify optimized off-the-shelf configurations for shipment to customers or reseller. It also can be used for maximizing public benchmark performance for marketing purposes.Privately-held Concertio (previously called DatArcs) was founded in 2016 and is based in New York City. The company is part of the Runway Program at the Jacobs Technion-Cornell Institute of Cornell Tech in New York, and it\u2019s with the Intel Ingenuity Partner Program.\u201cTailor-tuned systems can significantly outperform baseline general-purpose systems, but the number of configurable settings has reached into the hundreds - way too many for any human team to effectively tune and test,\u201d said Concertio co-founder and CTO Andrey Gelman. \u201cIt used to be merely a gap that could be bridged by human tuning and testing, but with the increasing hardware and software complexity, it\u2019s exploding into a chasm where human performance tuning is netting diminishing returns, leaving these expensive systems bottlenecked and inefficient.\u201d",
+    "author": [
+        "Doug Black",
+        "https://www.enterpriseai.news/author/doug/"
+    ],
+    "date": "2018-02-22 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Front Page",
+        "Slider: Networks",
+        "Slider: Software",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "AI",
+        "network performance",
+        "performance testing",
+        "system tuning"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/ai/",
+        "https://www.enterpriseai.news/tag/network-performance/",
+        "https://www.enterpriseai.news/tag/performance-testing/",
+        "https://www.enterpriseai.news/tag/system-tuning/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/dell_tech2-370x290.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/Vmware_logo-300x100.png",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/Pat-Gelsinger-VMware-300x173.png"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/shutterstock_151932563-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/mellanox-logo-2-300x189.jpg"
     ]
 }

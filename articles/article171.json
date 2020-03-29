@@ -1,10 +1,41 @@
 {
-    "title": "Kubernetes Gets Storage, Security Upgrades",
-    "author": "George Leopold",
-    "date": "2017-07-05 00:00:00",
-    "text": "As more distributed applications are delivered via containers, managing them at scale has become a key requirement. That has spurred extensions of container orchestration tools such as Docker Swarm and Kubernetes. In the latter's case, those extensions include new ways to customize services while adding features like persistent container storage.With those requirements in mind, the latest version of Kubernetes released at the end of June includes new stateful workloads updates along with security and system extensions. The stateful workloads improvements also include enhancements such as local storage of stateful applications.Persistent container storage for Kubernetes also is the focus of a server storage-area network aimed at hyper-scale deployments based on the container orchestrator. Excelero, a software-defined block storage specialist headquartered in San Jose, Calif., said its persistent storage offering for Kubernetes Pods (the smallest units that can be deployed and managed by the orchestrator) aims to improve container performance by leveraging NVM Express deployments in datacenters.The company claims its platform is among the first to capitalize on pooled, redundant storage based on NVMe for container applications requiring persistent volumes. Indeed, persistent storage has emerged as a key hurdle to deploying application containers in production, industry surveys have found, including persistent storage that scales for stateful applications.Excelero makes the case that developers want \"the local performance of flash but the flexibility and data protection of centralized storage.\" Its storage platform leverages the Kubernetes orchestration layer to deliver \"pooled NVMe,\" an approach in which containers in a pod can access persistent storage.Meanwhile, Kubernetes version 1.7 provides automated updates of stateful applications such as the Apache Kafka stream-processing platform and the etcd open source key-value store from CoreOS.Other enhancements include early support for access to local storage volumes to boost the performance of stateful applications, according to Kubernetes community blog post.San Francisco-based CoreOS, a key upstream developer of Kubernetes, added in a separate post that the goal of the latest version of the Google-backed container orchestrator \"is to make it so that developers can deploy new features based on a stable, featureful, core Kubernetes system, enabling new features to be added on demand.\"Along with storage and other performance enhancement, the latest version also includes new security features such as a stable network policy for enforcing rules governing which Kubernetes pods can communication with each other. That feature is intended to improve isolation and therefore the security of individual application containers.Other security features include encryption for key-value stores like etcd along with audit logs stored in an API server.The latest version of Kubernetes is being released as the container orchestrator gains traction in hybrid cloud and other infrastructure deployments. According to a recent container adoption survey commissioned by CoreOS, 71 percent of IT managers surveyed by 451 Research said they are using Kubernetes to support hybrid cloud deployments.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Red Hat Buys Storage Specialist",
+    "text": "Open source leader Red Hat continued its buying spree with the acquisition of a data compression software specialist focused on cloud storage.Red Hat said this week its acquisition of Permabit Technology Corp. would add data deduplication and compression capabilities to its mainstay enterprise Linux platform along with its hybrid could offerings. Red Hat (NYSE: RHT) said it would acquire all technology and assets of privately held Permabit, based in Cambridge, Mass. Other terms of the transaction such as the sales price were not disclosed.Red Hat said the acquisition would help it deliver more efficient storage associated with cloud computing and Linux application containers as hyper-converged infrastructure is rolled out to blend storage and computing on individual servers. Along with data compression, Permabit specializes in thin provisioning of storage resources.Those new capabilities will be folded into several Red Hat hybrid cloud and storage offerings, including its OpenStack, OpenShift Container and storage platforms, the company said Monday (July 31). The new data deduplication and compression tools would afford users of Red Hat Enterprise Linux \"a more efficient storage footprint,\" noted Jim Totton, Red Hat's vice president and general manager.The deal also addresses enterprise requirements for persistent storage as Linux containers enter the mainstream as a means of delivering distributed applications and other emerging micro-services.Red Hat said it plans to release Permabit's technology as a \"fully open platform to drive storage efficiency\" as an alternative to disparate tools and poorly supporting operating systems.The Permabit acquisition is the latest in a series by Red Hat, which earlier this year acquired another DevOps specialist focused on cloud-native development tools for container-based applications. The deal for Codenvy announced in May gives Red Hat a foothold in cloud-native integrated development environment known as Eclipse Che. The San Francisco-based startup was folded into Red Hat's hosted OpenShift.io development environment for building hybrid cloud services.The deal for Codenvy was the latest in a string of acquisitions by Red Hat designed to beef up its DevOps capabilities as well as its OpenShift platform. In October 2015, the company acquired IT automation specialist Ansible Inc., reportedly paying more than $100 million.With a growing list of cloud-native development tools added to its arsenal, Red Hat is now moving to help its enterprise Linux and OpenShift users clean up and shrink their stored data via Permabit's data compression technology.Separately, Red Hat also announced the release of the latest version of its enterprise Linux platform. RHEL version 7.4 emphasizes Linux container security and a workflow automation feature based on Ansible's tools designed to ease management across large production deployments, the company said.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-08-01 00:00:00",
+    "cats": [
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "acquisitions",
+        "data compression",
+        "deduplication",
+        "Permabit",
+        "Red Hat",
+        "storage"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/acquisitions/",
+        "https://www.enterpriseai.news/tag/data-compression/",
+        "https://www.enterpriseai.news/tag/deduplication/",
+        "https://www.enterpriseai.news/tag/permabit/",
+        "https://www.enterpriseai.news/tag/red-hat/",
+        "https://www.enterpriseai.news/tag/storage-2/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-06-at-12.11.19-PM-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_cloud_storage-370x228.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

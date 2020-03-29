@@ -1,11 +1,50 @@
 {
-    "title": "Quantum: Joining the Worlds of High Performance and Enterprise Storage",
-    "author": "Doug Black",
-    "date": "2017-12-12 00:00:00",
-    "text": "High performance storage specialist Quantum today announced a scale-out NAS appliance that the company said is the first to bring together the qualities typically found in enterprise-class storage solutions (tools and management capabilities) with those found in technical and scientific computing (capacity and scaling to accommodate rapid data growth).The new product, called Xcellis Scale-out NAS, targets what Quantum calls \u201chigh-value workloads\u201d: commercial high performance users for whom \u201cthe data is the product,\u201d Laura Shepard, senior director, emerging technologies, told EnterpriseTech, such as organizations in the autonomous vehicle, media/entertainment, genomics, drug disco very and personalized medicine industries. Unlike enterprise IT workloads, data in high-value workload environments is constantly growing on every axis \u2014 ingest, processing, analysis, distribution, archive. These environments require storage solutions with the management and features of enterprise NAS, but which can also cost-effectively scale performance and capacity.\u201cThey have a common set of characteristics that translates into a common set of requirements,\u201d Shepard said. \u201cThey have large amounts of high growth data and the data is largely unstructured. And because of the nature of their business and how often they compute against it, or how sensitive it is from a personalization and an intellectual property standpoint, the majority of their tier 1 data tends to stay on premise.\u201dAccording to Quantum, Xcellis delivers greater than 3X the performance of competitive enterprise NAS offerings and, with integrated storage tiering, can cost as little as 1/10 that of alternative enterprise NAS solutions with the same capacity and performance.Xcellis is built on Quantum\u2019s StorNext parallel file system and data management platform. It enables clusters to scale performance and capacity together or independently to reach hundreds of petabytes in capacity and terabytes per second in performance. The company said a single client (SMB, NFS or high-performance client) can achieve over 3X the performance of competitive scale-out NAS offerings with multiple clients scaling a single cluster\u2019s bandwidth to over a terabyte per second.It also offers features and management capabilities designed to simplify installation and setup, a single screen for administrative and performance monitoring, alerting and management, along with scanning and search capabilities for large data repositories. It is designed to integrate with the high performance Ethernet networks through SMB and NFS interfaces, and it supports high-performance block storage.For data management, Xcellis provides automatic tiering within a unified, single name space architecture, between SSD, disk, tape, object storage and public cloud. Copies can be created for content distribution, collaboration, data protection and disaster recovery regardless of data location.Quantum said Xcellis also offers integrated AI capabilities that actively interrogate data across multiple axes to uncover events, objects, faces, words and sentiments, automatically generating custom metadata.\u201cThe proliferation of unstructured data in a vast array of industries offers virtually unlimited opportunity for discovery and monetization,\u201d said Scott Sinclair, senior analyst, Enterprise Strategy Group, \u201cbut traditional storage and management of that data has kept many organizations from achieving their full potential. Xcellis Scale-out NAS is designed to empower users to scale performance and capacity independently and cost-effectively to keep storage from becoming an obstacle to progress.\u201d\u201cThere is a gap in the market between NAS systems designed for enterprise data management and HPC solutions designed for data-intensive workloads,\u201d Molly Presley, vice president, global marketing, Quantum. \u201cXcellis Scale-out NAS fills this gap with the features needed by enterprises and the performance required by HPC in a single solution. Xcellis uniquely delivers capacity with the economics of tape and cloud and integrated AI for advanced data insights and can even support traditional block storage demands within the same platform.\u201d",
+    "title": "Memory Boom Propels Samsung Past Intel",
+    "text": "The turbulent\u2014and profitable\u2014memory chip market has a new leader: Samsung Electronics has overtaken Intel Corp. as the world's largest memory supplier, ending Intel's 25-year reign.Gartner reported Thursday (Jan. 4) that the South Korean electronics giant surpassed Intel during 2017 in terms of market share and revenues. Overall, global chip revenues grew a healthy 22.2 percent, driven by soaring demand for memory devices.While memory prices are expected to stabilize, other chip analysts are forecasting a wave of new memory technology deployments over the next five years.Meanwhile, Gartner (NYSE: IT)\u00a0cited\u00a0continuing shortages of flash memory.The market watcher said Samsung (KRX: 005930) holds 14.6 percent of the $419.7 billion global semiconductor market. The Korean chipmaker's revenues grew an impressive 52.6 percent over 2016. Meanwhile, Intel's annual revenues grew a modest 6.7 percent, totaling just over $57.7 million. No. 3 chipmaker SK Hynix (KRX: 000660) grew at a brisk 79 percent, with revenues of $26.3 million.\"Memory accounted for more than two-thirds of all semiconductor revenue growth in 2017, and became the largest semiconductor category,\" noted Andrew Norwood, Gartner's research vice president.Samsung's dominance of the global chip business is not expected to continue as memory prices weaken and Chinese memory production kicks in over the next year. Gartner forecasts that NAND flash and DRAM prices have peaked and will weaken during 2018.Gartner said Intel's datacenter server revenues grew 6 percent on the strength of demand from cloud and communications service providers.Several large chip mergers and acquisitions were announced in 2017, but Gartner notes that few if any were actually completed by year's end. Among them was Western Digital's (NASDAQ: WDC) acquisition in August of Tegile Systems, a provider of flash memory storage in datacenters. The deal reflects how all-flash storage arrays are making inroads in datacenters. Western Digital and other enterprise storage vendors are vying for a larger share of growing demand for all-flash arrays.According to the Gartner rankings, Western Digital recorded the highest annual growth rate among the top ten chip suppliers, a whopping 120.2 percent, with chip revenues totaling nearly $9.2 million.Demand for all-flash storage arrays in datacenters also propelled Western Digital from 17th to ninth place in Gartner's annual rankings.While market watchers such as Gartner forecast weakening memory prices in the coming year, others note that the so-called \"next-generation memory market\" is expected to take up the slack as more data is crunched by in-memory platforms. For example, Dublin-based Markets and Research pegs the next-generation memory market at $2.35 billion, and forecasts it will grow at an annual rate of 26.5 percent to $9.68 billion by 2023.The main drivers are big data demand for in-memory processing, increasing demand for enterprise storage of big data and growing requirements for more bandwidth and scalable memory technologies for AI and Internet of Things applications.A range of emerging non-volatile memory technologies are expected to fuel demand, the market watcher said, including magneto-resistive, or MRAM, along with emerging memory technologies like 3-D XPoint memory being rolled out by Intel (NASDAQ: INTC) and development partner Micron Technology (NASDAQ: MU).\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-01-04 00:00:00",
+    "cats": [
+        "Cloud",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "flash memory",
+        "Intel",
+        "memory chips",
+        "Samsung",
+        "semiconductors",
+        "storage"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/flash-memory/",
+        "https://www.enterpriseai.news/tag/intel/",
+        "https://www.enterpriseai.news/tag/memory-chips/",
+        "https://www.enterpriseai.news/tag/samsung/",
+        "https://www.enterpriseai.news/tag/semiconductors/",
+        "https://www.enterpriseai.news/tag/storage-2/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_abstract_tech_space-ARM-370x290.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/Quantum-storage-logo-300x65.png",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/Quantum-Xcellis-121217-1024x687.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-22-at-6.20.32-PM-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/Screen-Shot-2018-01-04-at-2.09.50-PM-300x176.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

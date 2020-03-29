@@ -1,10 +1,51 @@
 {
-    "title": "HPE, Hedvig Target Hybrid Cloud Storage",
-    "author": "George Leopold",
-    "date": "2017-06-02 00:00:00",
-    "text": "A day after announcing lackluster quarterly results as IT hardware demand declines, Hewlett-Packard Enterprise and software-defined storage startup Hedvig Inc. announced a hybrid cloud storage platform customized for HPE servers.The partners said Thursday (June 1) they have initially bundled Hedvig's software-defined storage with HPE's Apollo 4200 servers to create a distributed storage platform aimed at enterprises deploying private, hybrid and multi-datacenter clouds. The platform is available in 48- and 96-terabyte configurations.Targeting \"rack-scale infrastructure,\" Hedvig said its software-defined approach leverages HPE servers geared toward data-intensive cloud workloads. Its multi-protocol approach seeks to collapse disparate storage tiers through support of block, file and object storage interfaces in a single API-driven platform.The approach is also designed to provision storage from different hypervisors or application container infrastructure.Running on HPE hardware, software and services, Hedvig added that the combination supports private cloud storage for VMware (NYSE: VMW) vSphere, Microsoft (NASDAQ: MSFT) Hyper-V and other hypervisors. The storage platform also supports hybrid cloud storage services running on Amazon Web Services (NASDAQ: AMZN) Google Cloud Platform (NASDAQ: GOOGL) and Microsoft Azure.With persistent storage emerging as a key requirement for container infrastructure, the partners also stress support for stateful container storage for Docker as well as micro-services and DevOps.The partnership with Hedvig, Santa Clara, Calif., comes as HPE (NYSE: HPE) positions itself to provide all-flash and other storage options in datacenters supporting hybrid clouds. In March, HPE acquired \"predictive flash\" specialist Nimble Storage, and CEO Meg Whitman said this week the company is \"just about now ramping Nimble into our datacenter storage business.\"Hedvig CEO and founder Avinash Lakshman, the former Amazon and Facebook (NASDAQ: FB) engineer credited with creating the Cassandra database, noted that its collaboration with HPE underscores \"the increasing momentum we\u2019re seeing in software-defined storage.\"Hewlett Packard Pathfinder contributed to Hedvig's most recent funding round in March that raised $21.5 million. So far, the startup has attracted $52 million in venture funding.The distributed storage platform is initially available beginning June 5 on Apollo 4200 servers, with availability on HPE Apollo 4500 and ProLiant server variants to follow. Pricing starts at $115 per terabyte of storage per year, plus associated HPE hardware costs, the partners said.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Flash Storage Thrives as Server Sales Slump",
+    "text": "New data points emerged this week indicating that all-flash storage arrays are beginning to make headway in datacenters as server sales continue to decline.Market researcher Dell'Oro Group reported that all-flash array market revenue grew a healthy 48 percent on an annual basis during the first quarter to more than $1.3 billion. All-flash arrays were the only market segment to register growth over the last year as the external storage market continues to contract, the analyst said Wednesday (June 7).Dell'Oro is forecasting that revenues from all-flash arrays will grow at an annual rate of 40 percent this year to nearly $7 billion. By contrast, disk-based and hybrid storage options are expected to decline by about 14 percent, according to Dell'Oro's Jimmy Yu.The top five vendors of all-flash array storage in terms market share were: Dell EMC (29 percent); NetApp (21 percent); Hewlett Packard Enterprise (17 percent); Pure Storage (12 percent); and IBM (7 percent).While Dell EMC (NYSE:DVMT) maintained the highest share of the flash market, Yu said NetApp (NASDAQ:NTAP) actually gained the most market share during the first quarter, with a 6-percent increase from the same period in 2016.\"The growth trend in flash storage is bringing disruption to traditional storage systems\" that collectively make up a $40 billion global storage market, Dell'Oro noted.As datacenter infrastructure is converged and more enterprises shift to public and private cloud datacenters, the market analyst noted that enterprise hybrid cloud strategies bring with them new storage requirements. Hence, \"equipment vendors are facing challenges to their traditional product lines and feature sets,\" it added.Those vendors have acknowledged as much as they look to position themselves to equip all-flash datacenters. Hewlett Packard Enterprise (NYSE: HPE) executives, for example, noted last week that all-flash arrays have yet to make significant headway in datacenters, and that its recent acquisition of \"predictive flash\" specialist Nimble Storage would help boost its flash revenues.HPE, Dell EMC and other vendors are focusing on flash storage in datacenters as the enterprise shift to the cloud contributes to declining server sales.Meanwhile, Gartner Inc. (NYSE: IT) also reported this week that global server shipments declined another 4.2 percent during the first quarter while quarterly revenues dropped by 4.5 percent. HPE saw its quarterly revenue plummet 8.7 percent while IBM's plunged 34.6 percent.Only Dell EMC among leading server vendors recorded quarterly revenue gains, Gartner said. The company also ranks first in terms of global server shipments. HPE's global shipments during the first quarter declined 16.7 percent.HPE CEO Meg Whitman conceded last week during a call with financial analysts that the company is rethinking its server strategy since \"this is low calorie business.\"Whitman nevertheless predicted plenty of upside in its flash storage business. The company reported a 33-percent year-on-year gain in all-flash array growth.In March, Dell EMC claimed record quarterly demand for all-flash arrays that exceeded $4 billion during its fourth quarter ending in early February. Those recent financial results buttress reports from market watchers such as Dell'Oro that all-flash storage arrays appear poised to take off in enterprise datacenters.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-06-07 00:00:00",
+    "cats": [
+        "Cloud",
+        "Datacenter",
+        "Editor's Picks: Front Page",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Front Page",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/editors-pick/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "all-flash arrays",
+        "datacenters",
+        "Hybrid Cloud",
+        "server",
+        "storage"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/all-flash-arrays/",
+        "https://www.enterpriseai.news/tag/datacenters/",
+        "https://www.enterpriseai.news/tag/hybrid-cloud/",
+        "https://www.enterpriseai.news/tag/server/",
+        "https://www.enterpriseai.news/tag/storage-2/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_cloud_storage-370x228.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-09-at-2.05.19-PM-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

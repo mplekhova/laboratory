@@ -1,10 +1,43 @@
 {
-    "title": "Seagate Seeks to Drive Down Flash Costs",
-    "author": "George Leopold",
-    "date": "2017-04-04 00:00:00",
-    "text": "The number of all-flash storage options continues to grow as datacenters burst at the seams and operators look for ways to connect legacy and flash storage while reducing cost.The latest entry comes from Seagate Technology (NASDAQ: STX), which like other purveyors of all-flash arrays claims to have made the performance gains of all-flash storage arrays more affordable. The storage specialist rolled out its latest series of all-flash storage and hybrid storage arrays this week, positioning them as \"complementary to existing [hard-disk drive] investments\u2026.\"Seagate, Cupertino, Calif., cites market research on the critical price points for all-flash storage, noting that systems priced at under $100,000 have yet to take off even as analysts peg the all-flash array market at nearly $9.3 billion by 2020.Pricing for Seagate's RealStor arrays with 20 Tb of flash storage capacity and 300,000 IOPS starts at less than $50,000, the company said Monday (April 3). The vendor also emphasizes backward compatibility with legacy hard drive storage, noting that its new flash arrays use \"auto-tiering\" to move data to either flash or hard drives depending on application requirements.That approach, the company noted in a blog post, underscores \"the complementary nature of flash and HDDs in enterprise and cloud deployments.\"The latest RealStor series includes an entry-level version available in what the company calls \"three personalities\": an all-flash version, a hybrid array that mixes flash with hard drive storage and an all-HDD array. The hybrid variant automatically \"promotes\" data to flash storage if faster access is required, otherwise maintaining storage in cheaper hard drives.Seagate's high-end version targets demanding datacenter workloads requiring speed and low latency (as much as sub-300 microseconds for 300,000 IOPS). Performance can be ramped to as much as 400,000 IOPS with 1-millisecond latency, the company added.Seagate's RealStor 5 series is available now.The company followed the all-flash storage rollout with the release a white paper that attempts to quantify the global data explosion. The IDC study commissioned by Seagate predicts a ten-fold boom in global data reaching 163 zettabytes by 2025.Among the drivers of storage requirements are embedded systems and the Internet of Things, streaming and real-time data along with the emergence of machine learning as a data analytics tool. Seagate and other data storage specialist see data analytics as the next big opportunity that could further drive down the cost of all-flash arrays.\"The value of data is really not in the \u2018known\u2019, but in the \u2018unknown\u2019 where we are vastly underestimating the potentials today,\" noted Seagate CEO Steve Luczo.Added IDC's Dave Reinsel: \"Technology innovation will be vitally important to evaluate and fully activate the intricacies of what\u2019s contained within this large volume of data\u2014and storage in particular will continue to grow in importance.\"George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Storage Security Emerges Along With Flash",
+    "text": "The vibrant storage sector is churning out a steady stream of products, tools and network platforms as datacenter operators struggle to keep up with and secure torrents of terabytes.Much of the focus in storage technology development focuses on hyper-converged infrastructure as datacenter operators look to cut costs while boosting performance. Baked-in security and new management tools also are emerging as storage volumes soar.Claiming to address these requirements is VMware, Inc. (NYSE: VMW), which on Tuesday (April 11) released version 6.6 of its virtual storage area network platform. Along with new \"native security\" features including encryption of data at rest, the storage platform incorporates Intel Corp.'s 3D Xpoint flash memory technology.Intel (NASDAQ: INTC) announced its first Optane SSDs based on 3D Xpoint memory in mid-March. VMware asserts the new Optane drives would boost \"sequential-write\" application performance by as much as 250 percent. The company said it has been working closely with the chipmaker, making it the first infrastructure vendor to support Optane SSDs.VMware's vSAN product line has quickly evolved over the last year to support all-flash arrays along with support for cloud native applications and application containers. The latest version reflects steady improvements in storage performance along with infrastructure considerations such as native security and what VMware calls \"stretched\" clusters.That capability is intended to lower operating costs by boosting storage availability with \"disk group protection\" in the event of a server failure. The feature copies data so that workloads would continue running at a separate site, Michael Haag, VMware's group manager for product marketing, explained in an interview.Meanwhile, vSAN native security features are based on encryption of data at rest that uses key management to prevent unauthorized access. The approach is said to reduce hardware costs by replacing more expensive self-encrypting drives, the company claims.The data encryption features respond to an alarming increase in hacks that are forcing datacenter operators to consider integrated data security and governance features as they link legacy storage with emerging virtualized storage and hyper-converged approaches.As with many storage vendors, VMware also is adding cloud analytics capabilities that leverage flash memory performance. New data service algorithms are said to accelerate flash performance for cloud native and other applications. The data service adds support for workloads such as Hadoop and Splunk, among others.The all-flash upgrade also targets database workloads as well as Docker containers, Haag noted.VMware said vSAN 6.6 is expected to be available by May 5. The storage platform's list price starts at $2,495 per CPU, the company added.The latest vSAN release follows VMware's announcement last week that it sold its vCloud Air business to French cloud provider OVH. VMware CEO Pat Gelsinger said the deal extends its partnership with OVH to give its customers access to OVH's global operations while retaining access to VMware's software-defined datacenter technologies.Meanwhile, a steady stream of storage network platforms are seeking to leverage flash technology while adding new features such as analytics engines. For example, Cisco Systems (NASDAQ: CSCO) unveiled a high-bandwidth storage area network this week that along with flash storage addresses networking bottlenecks with a 32-Gb fibre channel switching module. Cisco is pitching its storage networking approach as a platform for real-time data analytics.The company said its storage-networking director would be available beginning in May.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-04-11 00:00:00",
+    "cats": [
+        "Datacenter",
+        "Slider: Datacenter",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "3D Xpoint",
+        "encryption",
+        "Flash",
+        "flash storage",
+        "SAN",
+        "virtual storage area network",
+        "VMware"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/3d-xpoint/",
+        "https://www.enterpriseai.news/tag/encryption/",
+        "https://www.enterpriseai.news/tag/flash/",
+        "https://www.enterpriseai.news/tag/flash-storage/",
+        "https://www.enterpriseai.news/tag/san/",
+        "https://www.enterpriseai.news/tag/virtual-storage-area-network/",
+        "https://www.enterpriseai.news/tag/vmware/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/shutterstock_cloud_storage-370x228.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Screen-Shot-2017-02-02-at-11.55.26-AM-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

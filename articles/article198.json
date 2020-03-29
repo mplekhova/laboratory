@@ -1,10 +1,49 @@
 {
-    "title": "IBM Launches Container Service Around Watson",
-    "author": "George Leopold",
-    "date": "2017-03-21 00:00:00",
-    "text": "A new IBM cloud service targeting the development and deployment of cognitive applications will utilize the Docker container engine running on the Kubernetes container orchestrator.IBM's container service running on its Bluemix application development cloud was among a batch of cloud and related Watson data analytics products along with an OpenStack partnership unveiled this week at a company event in Las Vegas. The company (NYSE: IBM) also said it would roll out a new beta version of its Watson cognitive computing \"discovery service\" in April designed to identify patterns in large datasets.Meanwhile, the new container service will combine Docker and Kubernetes to automatically provision and monitor application containers. The service is targeted at developers building cognitive tools that incorporate \"real-time security intelligence,\" the company said Monday (March 20).The Kubernetes cluster orchestrator would be used to automate \"critical parts of an app's environment,\" explained Jason McGee, vice president of IBM Cloud. \"Building micro-services with containers helps developers to do what they do best \u2013 invent \u2013 by creating and stitching together different services that work in tandem.\"Leveraging Kubernetes cluster automation would free developers from the burden of managing Docker containers while building new cognitive applications, the company added. The new service also includes native Kubernetes APIs built on Bluemix that will run on different cloud infrastructures.IBM is among the growing list of open source contributors to the Google-backed Kubernetes project, which is emerging as a leading container orchestration platform. IBM said its new cloud service combines Kubernetes management capabilities with the Docker engine to enable developers to write code within a container and deploy it to multiple apps. That capability also allows developers of cognitive services and Watson APIs to see where and when code is running.The container orchestration tools are among more than 150 services and APIs available on IBM's Bluemix public cloud development platform. Those tools are being used to development applications ranging from the Internet of Things to data analytics.Those tools are also being combined with Watson cognitive services such as the new discovery tools aimed at reducing \"data janitor\" work. The analytics service incorporates Watson AI capabilities with tooling and APIs used to index large sets of company data. That internal data can then be combined with public data provided by IBM.Other IBM announcements this week included a series of blockchain services used to track transactions and running on its cloud-based \"hyperledger fabric.\"The company also announced collaboration with Red Hat on OpenStack deployment, including support for Red Hat virtualized and cloud workloads running IBM's private cloud. The partnership also includes certification for running Red Hat's OpenStack platform and Ceph storage on the IBM private cloud.The ability to extend on-premise workloads to OpenStack via the IBM private cloud is touted as accelerating adoption of hybrid cloud infrastructure, the partners said.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "EMC Storage Driving Dell Revenues",
+    "text": "Dell Technologies, the computer hardware and storage giant, reported brisk fourth-quarter hardware sales fueled by its acquisition of storage leader EMC. For its full fiscal year, however, the company reported a sizeable operating loss tied to the EMC deal.The holding company (NYSE: DVMT) that owns Dell and EMC along with majority ownership of VMware, also claimed leadership in global server shipments along with the fiercely competitive all-flash storage array market. Meanwhile, it also reported strong demand for its hyper-converged infrastructure offerings.Dell Technologies reported Thursday (March 30) that quarterly sales ending on Feb. 3 jumped 58 percent to $20.1 billion, reflecting the integration of EMC's storage products. Overall, the EMC storage unit drove earnings, with storage revenue accounting for $4.8 billion in quarterly revenue.Elsewhere, VMware's (NYSE: VMW) fourth quarter revenues totaled $1.9 billion, with operating income of $565 million, the parent company said. Quarterly bookings for its NSX virtual networking stack reached a run rate of about $1 billion, with more than 2,400 NSX customers.Quarterly revenues from server and networking sales rose 12 percent year-on-year to $3.6 billion, lead by sales of its PowerEdge server that \"outgrew the market,\" the company claimed. Meanwhile, its cloud server business declined during the fourth quarter, a loss attributed to expected fluctuations in customer orders from one quarter to the next.The company also claimed record quarterly demand of all-flash arrays with demand exceeding $4 billion in the last quarter. \"We believe we are nearly the size of the three next competitors combined as we continue to capture the market shift to all-flash,\" David Goulden, president of Dell Technologies' Infrastructure Solutions Group, asserted during a conference call with analysts.The Dell unit has \"taken some of our traditionally hybrid products and actually enhanced the architecture quite substantially to take further advantage of all-flash [arrays] and therefore produce all-flash version,\" Goulden added.The company also said it expects to introduce flash storage combined with Non-Volatile Memory Express technology later this year.In the near term, the company sees soft demand at the high-end of the storage market while demand from medium-sized enterprises continues to grow. The bright spot appears to be all-flash storage in datacenters, where Goulden said Dell's market share is higher than for external storage.\"There's a lot of work going on to look at IT transformation and future architectures,\" he added, and potential customers are still weighing their options \"in terms of what their IT transformation strategy is\u2026.\"Among Dell Technologies' other business units, Pivotal Cloud Foundry's annual bookings jumped 130 percent to more than $270 million. The platform allows developers to deploy cloud-native applications on public or private clouds.Since closing the $60 billion acquisition of EMC Corp. last September, Dell Technologies said it has paid down about $7 billion in debt associated with the acquisition while repurchasing $824 million in stock.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-03-31 00:00:00",
+    "cats": [
+        "Cloud",
+        "Slider: Cloud",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "all-flash arrays",
+        "Cloud Foundry",
+        "cloud servers",
+        "Dell Technologies",
+        "EMC",
+        "NSX",
+        "Pivotal",
+        "servers",
+        "storage",
+        "VMware"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/all-flash-arrays/",
+        "https://www.enterpriseai.news/tag/cloud-foundry/",
+        "https://www.enterpriseai.news/tag/cloud-servers/",
+        "https://www.enterpriseai.news/tag/dell-technologies/",
+        "https://www.enterpriseai.news/tag/emc/",
+        "https://www.enterpriseai.news/tag/nsx/",
+        "https://www.enterpriseai.news/tag/pivotal/",
+        "https://www.enterpriseai.news/tag/servers/",
+        "https://www.enterpriseai.news/tag/storage-2/",
+        "https://www.enterpriseai.news/tag/vmware/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/shutterstock_368761736-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_servers-370x228.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

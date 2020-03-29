@@ -1,10 +1,45 @@
 {
-    "title": "LinkedIn Spearheads Common Server Effort",
-    "author": "George Leopold",
-    "date": "2017-05-24 00:00:00",
-    "text": "A standards effort driven by LinkedIn that seeks to \"redefine\" future datacenter infrastructure will initially focus on a common form factor for servers, according to the founding members.Along with LinkedIn, which was acquired by Microsoft NASDAQ: MSFT) last year, other founding members of the Open19 Foundation launched on Tuesday (May 23) are Flex, GE Digital (NYSE: GE) Hewlett Packard Enterprise (NYSE: HPE) and Vapor IO. Yuval Bachar, LinkedIn's chief engineer for architecture and strategy, heads the server initiative.Among the hardware contributions to the group is an industry specification that attempts to define \"cross-industry\" rack and cage standards for servers in enterprise datacenters. The goal is \"creating a flexible and economical datacenter and edge solution for operators of all sizes,\" the member said.The foundation is based on an earlier LinkedIn project aimed at creating a spec for accommodating a server, storage and networking. \"You have to fit into a 19-inch rack,\" Bachar noted, \"and that is common for every location, every continent, every [co-location datacenter], every specialty datacenter.\"The other requirement was a one-size-fits-all approach that addresses IT infrastructure ranging in footprint from \"micro-datacenters\" used as edge platforms all the way up the hyper-scale facilities, Bachar notedLinkedIn is contributing an industry specification that defines a platform with three common elements: a \"brick cage,\" power shelf and a network switch. Four form factors would be supported: brick, double wide brick, double high half-width brick and double high, double wide brick.\"Open19 is the rack standard we\u2019ve needed for a decade,\" noted Cole Crawford, CEO and founder of Vapor IO. A common spec would, for instance, allow server vendors to \"snap together\" datacenters \"like Lego bricks,\" Crawford asserted. \"We can send a crew out to an edge environment, such as at the base of a cell tower, and stand up a new datacenter in minutes.\"The standards effort also seeks to reduce the cost of server racks and cabling, which Bachar said are often more expensive than networking gear.The move to common datacenter hardware comes as the server market slows and hyper-scalers such as LinkedIn continue to drive cloud-computing specs. A membership roster that also includes major industrial users such as GE could provide the necessary impetus to forge a common datacenter framework, observers note.The Open19 Foundation has parallels to the Open Compute Project formed by Facebook (NASDAQ: FB) in 2011 that targets hyper-scale cloud service providers. Along with addressing small and medium-sized datacenters, Bachar added that an open approach would allow adopters to integrate servers on the datacenter floor. LinkedIn has demonstrated the ability to load and connect up to 96 servers in a rack in less than 90 minutes, he said.The industry group\u00a0said it is looking to expand it membership.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "HPE, Hedvig Target Hybrid Cloud Storage",
+    "text": "A day after announcing lackluster quarterly results as IT hardware demand declines, Hewlett-Packard Enterprise and software-defined storage startup Hedvig Inc. announced a hybrid cloud storage platform customized for HPE servers.The partners said Thursday (June 1) they have initially bundled Hedvig's software-defined storage with HPE's Apollo 4200 servers to create a distributed storage platform aimed at enterprises deploying private, hybrid and multi-datacenter clouds. The platform is available in 48- and 96-terabyte configurations.Targeting \"rack-scale infrastructure,\" Hedvig said its software-defined approach leverages HPE servers geared toward data-intensive cloud workloads. Its multi-protocol approach seeks to collapse disparate storage tiers through support of block, file and object storage interfaces in a single API-driven platform.The approach is also designed to provision storage from different hypervisors or application container infrastructure.Running on HPE hardware, software and services, Hedvig added that the combination supports private cloud storage for VMware (NYSE: VMW) vSphere, Microsoft (NASDAQ: MSFT) Hyper-V and other hypervisors. The storage platform also supports hybrid cloud storage services running on Amazon Web Services (NASDAQ: AMZN) Google Cloud Platform (NASDAQ: GOOGL) and Microsoft Azure.With persistent storage emerging as a key requirement for container infrastructure, the partners also stress support for stateful container storage for Docker as well as micro-services and DevOps.The partnership with Hedvig, Santa Clara, Calif., comes as HPE (NYSE: HPE) positions itself to provide all-flash and other storage options in datacenters supporting hybrid clouds. In March, HPE acquired \"predictive flash\" specialist Nimble Storage, and CEO Meg Whitman said this week the company is \"just about now ramping Nimble into our datacenter storage business.\"Hedvig CEO and founder Avinash Lakshman, the former Amazon and Facebook (NASDAQ: FB) engineer credited with creating the Cassandra database, noted that its collaboration with HPE underscores \"the increasing momentum we\u2019re seeing in software-defined storage.\"Hewlett Packard Pathfinder contributed to Hedvig's most recent funding round in March that raised $21.5 million. So far, the startup has attracted $52 million in venture funding.The distributed storage platform is initially available beginning June 5 on Apollo 4200 servers, with availability on HPE Apollo 4500 and ProLiant server variants to follow. Pricing starts at $115 per terabyte of storage per year, plus associated HPE hardware costs, the partners said.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-06-02 00:00:00",
+    "cats": [
+        "Cloud",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Front Page",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "Hedvig",
+        "HPE",
+        "Software-defined storage"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/hedvig/",
+        "https://www.enterpriseai.news/tag/hpe/",
+        "https://www.enterpriseai.news/tag/software-defined-storage/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_servers-370x228.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_cloud_storage-370x228.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

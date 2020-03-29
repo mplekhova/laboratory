@@ -1,9 +1,45 @@
 {
-    "title": "Why NVMe is the Storage Protocol of Choice for High Performance Workloads",
-    "author": "no author",
-    "date": "2018-03-02 00:00:00",
-    "text": "NVMe has quickly become the storage medium of choice for high performance applications. Its streamlined protocol, optimized for transactions to flash memory, is very lightweight relative to the legacy storage protocols like ATA and SCSI. The manner in which NVMe leverages the PCIe bus also has the advantage of eliminating a translation layer between the processor and storage. Using PCIe also allows easy scaling of multi-lane solutions for enterprise-grade drives that need redundant data paths, without introducing unfamiliar connector types.For these reasons, NVMe on its own has been an excellent direct attached storage (DAS) solution for servers. However, the benefits don\u2019t end there. While the NVMe specification leverages the PCIe transport to great advantage, the NVMe protocol itself was designed to be relatively transport-agnostic, meaning its data can be carried over any physical transport with only minor modifications. Those modifications are defined in a binding specification, which, as the name implies, binds the NVMe protocol over a given transport mechanism. The binding specifications that have seen the most traction today are for RDMA (used in RoCE [RDMA over Converged Ethernet] and Infiniband networks) and for fibre channel (FC).This enables a host system to connect to high performance, low-latency NVMe storage over an Ethernet or FC network, and have that remote storage appear to the host as local storage. There is no need for an intervening filesystem to add latency and overhead.NVMe also defines a reservation system to enable multiple hosts to access a single drive simultaneously without interfering with each other. Combining this with NVMe-oF means that massive pools of storage can be created and managed, eliminating the \u2018islands\u2019 of storage problem by providing a robust and extensible solution for accessing all the storage connected to the fabric.A further advantage comes from its ability to leverage existing infrastructure investment while introducing NVMe-oF to an enterprise. In fact, understanding these tradeoffs will be important in determining the best way to deploy NVMe-oF in a given data center.Perhaps significant investment has been made in a cable plant to support 25G and 100G Ethernet. NVMe-oF Hosts and Storage Arrays with Ethernet interfaces will be able to connect to the cable plant without issue. However, it may be necessary to upgrade to switches that are RDMA-capable in order to create the lossless Ethernet network that a storage use case needs.On the FC side, perhaps an enterprise has invested heavily in FC storage arrays. FC-NVMe arrays can be introduced and co-exist on the same SAN with the legacy FC arrays, with perhaps only upgrading to higher speed FC switches to handle the new FC-NVMe arrays.Clearly there is a lot of upside to the migration to NVMe and NVMe-oF solutions, both in terms of performance and flexibility. Really, one of the biggest challenges with NVMe-oF will be in determining exactly how to best use all of that flexibility. Up and down the stack, there\u2019s opportunity for cost and performance tradeoffs.A few of those tradeoffs are outlined below:Finding the answers to these questions will be unique for each application. NVMe and NVMe-oF offer a great deal of power and flexibility, and it\u2019s clear that any high performance application would be able to benefit from deploying some flavor of NVMe-oF. The challenge will be in determining the best performing combination of these variables for your application.David Woolf is senior engineer, data center technologies, at the University of New Hampshire InterOperability Laboratory.",
+    "title": "Chip Makers Collaborate on NVMe Fabrics",
+    "text": "A trio of chip makers will collaborate on a reference architecture for speeding deployment of NVM Express over storage network fabrics.Cavium Technologies, which specializes in processors for cloud datacenters, announced the NVMe-over-fabrics collaboration with chip makers Marvell and Microsemi Corp. at the opening of this week\u2019s Open Compute Project (OCP) Summit in San Jose. The partners said they would demonstrate the framework running on x86 and ARM64 architectures.Cavium also this week announced a server partnership with Hewlett Packard Enterprise to add a next-generation network connection to a line of HPE servers.Cavium (NASDAQ: CAVM) said Monday (March 19) it would contribute its ThunderX2 processor along with 100-Gb Ethernet network adapters and programmable switches. Meanwhile, Marvell (NASDAQ: MRVL) will chip in with NVMe solid-state drive controllers while Microsemi contributes PCIe switches and flash memory cards. The partners said their hardware platform would also use software packages from Cavium and Microsemi designed to boost performance by offloading computing resources from the data pipeline, thereby leveraging NVMe controller memory buffer technology.The configuration will demonstrate concurrent 100 Gbps NVMe-over-fabric connectivity running on x86 servers to flash arrays, including Facebook\u2019s (NASDAQ: FB) Lightning, the company\u2019s NVMe JBOF, or \u201cjust a bunch of flash\u201d platform. The partners said the OCP demonstration would showcase how hardware vendors could boost storage performance and reduce latency \u201cby offloading the compute resources from the data path....\u201dAdded Christopher Moezzi, marketing chief for Cavium\u2019s Ethernet Server Adapter Group: \u201cNVMe technology is rapidly changing the way cloud and enterprise datacenters connect to shared storage but building [NVMe-over-fiber] solutions require industry-wide technology integrations.\u201dDriven by NVMe, the partners said low-latency networking is required in order to scale out data-handling fabrics of interconnected switches.San Jose-based Cavium\u2019s ThunderX2 is a second-generation, 64-bit ARMv8-A server processor the chip maker is aiming at datacenter, cloud, storage and HPC applications. The ARM64 processor along with its network connector and programmable Ethernet switches are generally available.Separately, Cavium announced a partnership with HPE (NYSE: HPQ) to develop hyperscale designs based on the OCP specifications to boost enterprise IT operations. The Cavium networking components would be used in HPE\u2019s Cloudline servers. The collaboration also would help drive OCP\u2019s latest network connector standard, the partners said.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-03-19 00:00:00",
+    "cats": [
+        "Networks",
+        "Slider: Networks",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/networks/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "Cavium",
+        "JBOF",
+        "Marvell",
+        "Microsemi",
+        "NVMe",
+        "NVMe-on-fabric",
+        "OCP",
+        "storage network fabrics"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/cavium/",
+        "https://www.enterpriseai.news/tag/jbof/",
+        "https://www.enterpriseai.news/tag/marvell/",
+        "https://www.enterpriseai.news/tag/microsemi/",
+        "https://www.enterpriseai.news/tag/nvme/",
+        "https://www.enterpriseai.news/tag/nvme-on-fabric/",
+        "https://www.enterpriseai.news/tag/ocp/",
+        "https://www.enterpriseai.news/tag/storage-network-fabrics/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-09-at-2.05.19-PM-370x290.png"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-16-at-5.36.30-PM-370x290.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

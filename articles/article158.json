@@ -1,10 +1,38 @@
 {
-    "title": "Oracle Takes Aim at Public Cloud Heavies, Claims 50% Cost Savings",
-    "author": "Doug Black",
-    "date": "2017-09-19 00:00:00",
-    "text": "In an overt attempt to overtake \u2013 or at least enter the arena with \u2013 the Big Three public cloud services providers, Oracle today unveiled new public cloud offerings that it says will transform how cloud services are bought and consumed.Oracle CEO Larry Ellison\u2019s splashy webinar announcement today is straight out of the Business 101 Playbook: when you\u2019re playing catch-up in a competitive and mature market, attack with low-cost. Ellison announced what he said is the lowest list prices for IaaS (Infrastructure as a Service), half the price of Amazon Web Services.\"We are completely transforming the way all companies buy and use cloud by providing flexibility and choice,\" said Ellison. \"Today, we combined the lowest prices with the highest performance and more automation to deliver a lower total cost of ownership for our customers.\"Oracle\u2019s thesis: while the cost and simplicity of moving operations to the public cloud are widely appreciated, many organizations haven\u2019t made the move \u201cdue to obstacles that have forced them to choose between flexibility and lower costs.\u201dThese include limited visibility and control over cloud spend and inability to fully leverage on-premises software investments in the cloud, \u201chaving been limited to IaaS services or sacrificing key database features at the PaaS (Platform as a Service) layer.\u201dAs of today, customers can bring their on-premises licenses to Oracle IaaS. With today\u2019s announcement, they can reuse their existing software licenses for Oracle PaaS, including Oracle Database, Oracle Middleware, Oracle Analytics, and others.Ellison said the difference between the company\u2019s two cloud offerings, Oracle IaaS and Oracle PaaS, is degree of automation. IaaS has a low degree of automation and offers a low commodity price. PaaS, on the other hand, is more automated and more fully provisioned, reducing database management labor costs, more costly than the infrastructure itself, Ellison said. Cost savings, he said, come from Oracle data compression and higher performance when running the database, which means less compute consumed.\u201cCustomers with existing on-premises licenses can leverage that investment to use Oracle Database Cloud at a fraction of the old PaaS price,\u201d Oracle said. \u201cRunning Oracle Database on Oracle IaaS is faster and offers more features than Amazon, delivering the industry's lowest total cost of ownership. Additionally, customers can further reduce management and operational costs required for on-premises maintenance by taking advantage of this PaaS automation.\u201dFor payment structure, Ellison\u2019s announced Universal Credits, which are designed to be a flexible buying and consumption model for cloud services.With Universal Credits, customers have one contract for unlimited access to all current and future Oracle PaaS and IaaS services, spanning Oracle Cloud and Oracle Cloud at Customer, which are public cloud capabilities placed behind the firewall of customers restricted from moving data off-prem.\u201cCustomers gain on-demand access to all services plus the benefit of the lower cost of pre-paid services,\u201d Oracle stated. \u201cAdditionally, they have the flexibility to upgrade, expand or move services across datacenters based on their requirements. With Universal Credits, customers gain the ability to switch the PaaS or IaaS services they are using without having to notify Oracle. Customers also benefit from using new services with their existing set of cloud credits when made available.\u201d",
+    "title": "Red Hat Rolls \u2018Container-Native\u2019 Storage",
+    "text": "Cloud-native applications being delivered via application containers now have the option of using what open-source leader Red Hat calls \"container-native\" storage integrated with the latest version of its RedShift container platform.Red Hat released an update to its container platform this week as the latest version of its Kubernetes-based container application platform unveiled in August. That was preceded late last year by the release of a \"dedicated\" version of the OpenShift container platform running on Google's Cloud Platform (NASDAQ: GOOGL). The partners said last December the OpenShift platform would help speed adoption of application containers running on Google-developerd Kubernetes along with emerging cloud-native applications.The latest version of the OpenShift container platform unveiled Thursday (Oct. 5) is built on Red Hat's Gluster software-defined storage that when integrated with OpenShift is designed to deliver storage via containers. Red Hat (NYSE: RHT) is promoting the release as suited to hybrid cloud deployments since it is designed to eliminate the need for independent storage. That, the company asserts, provides an integrated container platform that spans on-premise or public cloud deployments.The rise of application container infrastructure is driving requirements such as persistent storage. Hence, Red Hat stressed flexibility by adding support for file, block and object storage interfaces that it claimed would enable \"container applications portability to the container platform without change.\"Meanwhile, block storage would help support distributed databases and other low-latency workloads, the company noted, while object storage provides an \"embedded object store\" within the container platform for cloud-native applications requiring protocol support akin to Amazon Web Services' (NASDAQ: AMZN) Simple Storage Service.\"The addition of support for a broad range of storage workloads, the support for the Red Hat OpenShift Container Platform\u2019s core infrastructure pieces and increased persistent volume density are key features to help customers support present and future datacenters,\" Ranga Rangachari, general manager of Red Hat's storage unit, noted in a statement.The upgrades respond to the growing requirement to support containerized applications and micro-services infrastructure with integrated storage platforms that scale across hybrid cloud deployments.Market analyst estimated the application container segment reached a robust $762 million in 2016 and is forecast to grow at a 40-percent compound rate over the next four years to $2.7 billion.Red Hat said its container-native storage platform would be available later this month.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-10-05 00:00:00",
+    "cats": [
+        "Cloud",
+        "Slider: Cloud",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "containers",
+        "Red Hat",
+        "storage"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/containers/",
+        "https://www.enterpriseai.news/tag/red-hat/",
+        "https://www.enterpriseai.news/tag/storage-2/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Larry-Ellison2-091917-370x290.png",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Oracle-IaaS-vs-PaaS.png"
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

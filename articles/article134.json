@@ -1,11 +1,49 @@
 {
-    "title": "Chip Market Soared on Memory Demand",
-    "author": "George Leopold",
-    "date": "2018-02-07 00:00:00",
-    "text": "Global spending on semiconductors jumped a hefty 17 percent in 2017, driven by demand and corresponding price hikes for memory in datacenters and early industrial deployments of the Internet of Things.While memory prices and demand are expected to stabilize this year, a new round of AI and IoT deployments could fuel continuing growth in chip consumption, market watchers predict.Industry analyst IHS Markit reported this week that global chip spending reached $292 billion in 2017, a five-year high driven by price spikes for DRAM and NAND flash memory. The chip sector was contracting just two years ago but reach $250 billion in 2016.Last year's memory shortages were driven largely by growing demand by datacenter operators as they rolled out all-flash storage options used to speed access to big data. Meanwhile, analysts predicted last summer that server memory supplies would remain tight through the end of 2017.IHS said it expects memory prices to stabilize, with chip spending returning to single-digit growth this year. Nevertheless, other analysts are forecasting a wave of new memory technology deployments over the next five years. Last month, for exampled Gartner Inc. (NYSE: IT) cited continuing shortages of flash memory.Gartner also reported that memory chips accounted for more than two thirds of all semiconductor revenue growth last year, making it the largest chip category. \"If market equilibrium between supply and demand is reestablished for those memory components this year, prices will likely normalize,\" IHS predicted.Another reason why memory prices are expected to stabilize is the ramping of Chinese memory production over the next year, Gartner said last month.On the demand side, Apple and Samsung remain the largest consumers of semiconductors, while server makers Lenovo (third) and Dell Technologies (fifth) were among the top five largest buyers of memory and other devices last year.Wireless technology still accounts for more than one-third of global chip consumption. Manufacturers of servers and other \"computer platforms\" drove about 17 percent of annual sales last year. IHS also noted that the industrial and automotive sectors also fueled last year's robust chip growth as early IoT deployments ramp up.Server maker Lenovo accounted to an estimated $15 billion in chip spending last year as it targets the Asian server market. IHS reported that the Asian Pacific region is the largest consumer of semiconductors, followed by the Americas and Europe, the Middle East and Africa.Dell's chip purchases totaled about $9 billion last year. Hewlett Packard Enterprise accounted for about $6.9 billion in chip consumption, an annual increase of 28 percent. (See chart.)As the traditional memory chip market stabilizes, other market watchers are forecasting continuing growth in the so-called \"next-generation memory market.\" The main drivers are big data demand for in-memory processing, increasing requirements for enterprise storage of big data and the need for more bandwidth and scalable memory technologies for AI and IoT applications, according to Dublin-based analyst Markets and Research.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Cloudian Partnership Expands Its Object Storage Platform",
+    "text": "Seeking to capitalize on the growth of object storage and the reluctance of companies to delete data that could one day prove useful, cloud object storage specialist Cloudian has announced a partnership with an investment firm founded by a former Cisco System executive.Cloudian and investor Digital Alpha said the $125 million storage joint venture aims to accelerate adoption of Cloudian\u2019s enterprise object storage platform. The investment also finances a partnership between Cisco (NASDAQ: CSCO) and Cloudian \u201ccovering relevant datacenter architectures, the partners said Wednesday (Feb. 28).Cloudian\u2019s flagship object storage platform is compatible with Amazon Web Services\u2019 S3 cloud storage service. The company said the joint venture with Digital Alpha also was spurred by the growing number of machine learning and Internet of Things (IoT) use cases. Assuming data storage requirements are doubling roughly every two years, the partners assert that enterprises will be reluctant to delete data \u201cfor fear it may be valuable when the right analytics algorithm comes along to make sense of it all.\u201dThe investment includes $100 million to enable \u201cconsumption-model procurement\u201d of Cloudian cloud object storage products. The other $25 million equity investment will be used to expand Cloudian\u2019s sales and marketing efforts, the partners said.Cloudian, San Mateo, Calif., said its strategy is designed to scale data residing in multiple locations, then ensure that data is widely available. The joint venture will \u201cenable flexible procurement models and new hardware options to accelerate their transition to next-generation object storage solutions\u201d as data management requirements outstrip current storage capabilities, said Cloudian CEO Michael Tso.Rick Shrotri, Digital Alpha\u2019s managing partner and co-founder, was formerly managing director of Cisco Systems\u2019 Business Acceleration unit. Digital Alpha has \u201cpreferred\u201d access to Cisco commercial deployments as part of a collaboration agreement.Cloudian and Digital Alpha are betting that the current mix of on-premises, cloud, hybrid and object storage along with tape and other legacy storage platforms won\u2019t be able to keep pace with storage demands. In particular, they cite huge data volumes generated by AI and machine learning along with IoT and video surveillance.The partnership also reflects the ascendance of object storage as public cloud vendors like Amazon (NASDAQ: AMZN) and IBM (NYSE: IBM) SoftLayer reduce prices for the emerging storage service. The object storage price wars that surfaced early last year reflect \u201cobject storage\u2019s move into the mainstream,\u201d market watcher 451 Research noted last April.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-02-28 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Data Analytics",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "cisco",
+        "Cloudian",
+        "Digital Alpha",
+        "joint venture",
+        "object storage",
+        "partnership"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/cisco/",
+        "https://www.enterpriseai.news/tag/cloudian/",
+        "https://www.enterpriseai.news/tag/digital-alpha/",
+        "https://www.enterpriseai.news/tag/joint-venture/",
+        "https://www.enterpriseai.news/tag/object-storage/",
+        "https://www.enterpriseai.news/tag/partnership/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/IBM-PCM-In-Memory-1017.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-07-at-11.13.32-AM.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-28-at-9.34.16-AM-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

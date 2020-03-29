@@ -1,10 +1,57 @@
 {
-    "title": "New Malware \u2018Bricks\u2019 IoT Devices",
-    "author": "George Leopold",
-    "date": "2017-04-07 00:00:00",
-    "text": "Despite repeated assurances that Internet of Things security issues are being addressed, so-called \"in-the-wild\" attacks on poorly secured devices reveal that securing the IoT still has a long way to go.The latest threat comes from a new malware strain known as BrickerBot that, according to security experts, intentionally \"bricks\" IoT devices, meaning the malware renders the computer's motherboard permanently inoperable. First detected by the Tel Aviv-based cyber-security firm Radware in late March, the Brickerbot strains also are believed to corrupt device storage capability while reconfiguring kernel settings.Reports said the malware is targeting IoT devices based on Linux BusyBox, often referred to as the \"Swiss Army Knife of Embedded Linux.\"Security experts said the \"permanent denial-of-service\" bots scan the IoT for Linux-based routers and other connected devices protected only by default passwords. Reports said BrickerBot uses a list of known default credentials used for IoT devices. The bot then erases files stored in the IoT device, corrupts its storage and severs its network connection.Once the bot gains access, it reportedly writes random bits to a device's storage drives, wiping out flash storage capabilities. One the device is \"bricked,\" the only alternatives are reinstalling firmware or, more likely, buying a new device.\"On multiple occasions I have witnessed devices being bricked by sending malformed traffic to the device,\" Mike Ahmadi, director of Critical Systems Security at chip design specialist Synopsys Inc. (NASDAQ: SNPS), noted in an email. \"In multiple cases sending as few as two bad packets to the broadcast address of networked devices caused all of them to become bricked all at once.\"At the time I hoped such issues would be discovered and fixed before the hacking world decided to exploit such vulnerabilities, but now it seems that we are forced to react to a seemingly uncontrollable situation, that is likely to get much worse before it gets better.\"BrickerBot is the latest malware to plague IoT devices. It appears to be a variant of the Marai botnet that targeted networked cameras and other connected devices with distributed denial-of-service attacks that emerged last fall.The latest malware attacks will likely fuel concerns about potential security gaps in enterprise cloud platforms created by unsecured IoT devices. A recent survey of IT security managers found that 62 percent believe cloud security will worsen as more IoT services and devices using little more than factory default passwords are connected to enterprise IT infrastructure.Some take issue with that assertion, noting that cloud security often comes down to user, administrative and infrastructure architecture issues. \"The cloud itself as a construct is incredibly secure,\" one observer noted. \"This does not mean, however, that vigilance is no longer required by IT staff and users; security is everyone\u2019s job.\"George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Object Storage is Latest Front in Cloud Price Wars",
+    "text": "Storage, not computing resources, has emerged as the latest battleground in the public cloud price wars, according to an industry index.Market tracker 451 Research said this week the cloud storage battle lines were drawn during the third quarter of 2016 when it detected a reduction in object storage prices offered by IBM SoftLayer. Rivals Amazon Web Services, Google (NASDAQ: GOOGL) and Microsoft NASDAQ: MSFT) responded in kind, prompting the market analyst to predict that prices for virtual machines\u2014long the focus of cloud price wars\u2014will continue to decline along with object storage. Relational databases \"are likely to be the next competitive front,\" 451 Research predicted.The leading public cloud providers are \"cutting object storage prices to avoid standing out as expensive,\" 451 Research analyst Jean Atelsek noted in releasing its cloud price index on Thursday (April 20). \"This is the first time there has been a big price war outside compute, and it reflects object storage\u2019s move into the mainstream.\"The flip side, Atelsek added, is added complexity when comparing public cloud providers. Still, enterprises adopting multi-cloud strategies designed to avoid overreliance on a single vendor appear to be willing to weigh complex technical tradeoffs.The IBM (NYSE: IBM) public cloud offering along with rivals Google Cloud Platform and Microsoft Azure together are estimated to account for about 24 percent of the public cloud market, according to another cloud tracker, Synergy Research Group.All three are chasing market leader Amazon Web Services (NASDAQ: AMZN), which retains a 40 percent share of the market for public infrastructure and platform services market, Synergy reckons.Another recent cloud survey by Wikibon found that 59 percent of respondents stored more than half of their data in a private could while 28 percent trust the public cloud. Those trends are expected to reverse over the next several years as public cloud security increases.Storage technology advances along with market forces also have contributed to the cloud storage price declines. For example, prices for all-flash storage array are declining and new technologies offering better performance such as Intel Corp.'s 3-D Xpoint memory technology are being integrated into solid-state drives.Intel (NASDAQ: INTC) announced its first Optane SSDs based on 3-D Xpoint memory technology in mid-March. These and other flash advances specifically target datacenter storage.Partner VMware (NYSE: VMW) rolled out a virtual storage platform earlier this month that it claims is the first to incorporate Optane SSDs. Along with performance gains such improved \"sequential-write\" application performance, these all-flash approaches are now providing \"native security\" features such as encryption of data at rest.Cloud offerings also are now supporting emerging cloud native applications along with applications containers.While cutthroat competition in the public cloud market is now seen expanding to object storage, 451 Research also noted in its latest pricing index that profit margins remain healthy. That reflects the ongoing enterprise shift to hybrid clouds and improving storage security, industry observers add.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-04-20 00:00:00",
+    "cats": [
+        "Cloud",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Front Page",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "all-flash arrays",
+        "AWS",
+        "cloud pricing",
+        "Google",
+        "IBM SoftLayer",
+        "Microsoft Azure",
+        "object storage",
+        "public cloud",
+        "storage security",
+        "virtual storage platforms",
+        "VMs"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/all-flash-arrays/",
+        "https://www.enterpriseai.news/tag/aws/",
+        "https://www.enterpriseai.news/tag/cloud-pricing/",
+        "https://www.enterpriseai.news/tag/google/",
+        "https://www.enterpriseai.news/tag/ibm-softlayer/",
+        "https://www.enterpriseai.news/tag/microsoft-azure/",
+        "https://www.enterpriseai.news/tag/object-storage/",
+        "https://www.enterpriseai.news/tag/public-cloud/",
+        "https://www.enterpriseai.news/tag/storage-security/",
+        "https://www.enterpriseai.news/tag/virtual-storage-platforms/",
+        "https://www.enterpriseai.news/tag/vms/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-07-at-11.54.36-AM-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-20-at-11.41.43-AM-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

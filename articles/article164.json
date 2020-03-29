@@ -1,10 +1,51 @@
 {
-    "title": "Pivot3 Expands Security, Virtualization Partnerships",
-    "author": "George Leopold",
-    "date": "2017-08-29 00:00:00",
-    "text": "Pivot3, the hyper-converged infrastructure specialist, and a trio of partners are joining forces to add workload encryption and other capabilities to its software-defined platform for datacenters.The startup based in Austin, Texas, said this week it is collaborating with security specialist HyTrust Inc. to add modular \"workload-centric\" encryption to its Acuity hyper-converged platform. The partners said the combination of Pivot3's policy-based quality of service (QoS) engine and HyTrust's workload encryption platform would address looming regulatory compliance issues while affording greater control of workload performance and security for enterprise applications.The collaboration also aims to secure virtual desktops used to access sensitive data.The partnership underscores growing security concerns as more data is stored in the cloud. According to a survey released last year by HyTrust, more companies are moving sensitive data to multi-cloud environments but less than half are encrypting their data or other workloads.The partnership with HyTrust would provide \"multi-tenant infrastructure that delivers the performance, automation, scale and efficiency required of cloud and virtualized datacenters,\" Pivot3 noted in a statement announcing the partnerships.\u201cIT organizations face a daunting challenge of simplifying management while at the same [time] ensuring adherence to compliance mandates,\u201d added John Skinner, senior vice president of business development at HyTrust, Mountain View, Calif.Pivot3 touts its hyper-converged platform as among the few that offers an NVM Express data path along with a dynamic QoS engine designed to consolidate multiple workloads onto common infrastructure.Pivot3 also on Tuesday (Aug. 29) announced partnerships with backup storage and disaster recovery vendor Veeam Software along with desktop virtualization specialist Liquidware Inc. The collaboration with Veeam focuses on delivering disaster recovery services, targeting users that lack a backup datacenter.The partners said they would combine the Acuity platform with the image-based virtual machine replication of Veeam's cloud-based disaster recovery service.Based in Baar, Switzerland, the privately held IT vendor company develops backup, disaster recovery and virtualization management software for VMware and Hyper-V virtual environments.The partnership with Liquidware, a virtual desktop provider based in Atlanta would mesh the density of Pivot3 hyper-converged platform capable of supporting several times more virtual machines per node with assessment, design, monitoring and diagnostics capabilities based on Liquidware's VDI platform.Pivot3 has been steadily expanding its hyper-converged infrastructure offerings since acquiring privately held flash array startup NextGen Storage early last year. Along with all-flash and hybrid storage, the deal gave Pivot3 a \"dynamic QoS\" feature as a means of provisioning and scaling IT resources.The capability means IT departments can leverage \"just-in-time dynamic provisioning of resources and scale,\" the company said at the time of the NextGen Storage acquisition.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "HPE Reports Q3 Gains Along With Cloud Deal",
+    "text": "Hewlett Packard Enterprise reported better-than-expected earnings for its third quarter ending July 31 despite what it described as continued \"commodities cost pressures\" related to tighter memory supplies for servers. It also announced a cloud acquisition.The hybrid IT specialist also reported unexpected gains in its server business as it \"pivots\" beyond the datacenter to greener pastures such as HPC while mapping its strategy in the emerging all-flash storage market.CEO Meg Whitman also addressed reports she was in the running to head the ride-share service Uber, acknowledging interest in the position but declaring she would remain as head of HPE.The company reported third quarter revenues totaling $8.21 billion, ahead of analysts' estimate of about $ $7.5 billion. The company (NYSE: HPE) also exceeded its earnings-per-share target while operating margins rose sequentially.The results also reflect completion of the \"spin-merge\" of its enterprise software business to U.K. vendor Micro Focus. HPE stock jumped 5 percent in response to the quarterly results, and is up 3 percent since the beginning of the year.As it exits the application software business to focus on systems software used in datacenters and cloud deployments, Whitman said future acquisitions in area such as storage would focus on \"organic growth.\" To that end, the company announced earlier in the day it is acquiring the consulting firm Cloud Technology Partners.Founded in 2010, the \"cloud agnostic\" consulting firm helps customers determine the appropriate environment for running specific workloads. Whitman said the acquisition strengthens HPE's \"hybrid IT\" approach that spans datacenters, public and private clouds as well as systems software.Asked whether the service would draw customers away from its on-premises IT services to public clouds, Whitman replied. \"We will add our expertise with [on-premises] private cloud\" and the acquisition is \"an opportunity to scale that practice.\" She added: \"There are some workloads that customers probably should move to a public cloud. Microsoft (NASDAQ: MSFT) Azure is HPE public cloud partner.Whitman and Tim Stonesifer, HPE's chief financial officer, made frequent references to the impact of what Stonesifer called \"ongoing commodities pressure\" related to tight supplies of DRAMs used in servers.\"We continue to see commodities pressure,\" Stonesifer noted, adding that the company expects rising memory prices at least through the end of this year. HPE reportedly plans to raise its server memory prices by 20 percent in response to accelerating adoption of higher density memory modules. Tightening supplies for server memories also is being driven by increased for DDR4 memory modules as new platforms such as Intel's (NASDAQ: INTC) Skylake-SP, or \"Purley\" are introduced.As DRAM supplies tighten, memory prices have risen between 5 and 10 percent. \"We'll see what happens with commodity prices,\" Whitman said.Meanwhile, HPE's overall server business grew during the third quarter, and its expects to gain market share in its core datacenter business while \"pivoting\" to higher-end markets such as HPC.\"We are cautiously optimistic about our server business,\" Whitman added, especially with blade and next-generation servers \"with security built into servers at the chip level.\"In the competitive storage business, HPE touts the introduction of all-flash arrays in its 3Par storage line along with its recent acquisition of all- and hybrid flash array provider Nimble Storage. Competitors such Dell EMC also are rolling out all-flash storage options while targeting their existing customer bases. \"We have to go mine our installed base\" as competitors have, Whitman said. \"This is a fundamental [technology] in the datacenter.\"As for her dalliance with Uber, Whitman said: \"In the end, it wasn't the right thing,\" adding, \"I actually am not going anywhere.\"\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-09-06 00:00:00",
+    "cats": [
+        "Cloud",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "all-flash storage arrays",
+        "Cloud Technology Partners",
+        "HPE",
+        "hybrid IT",
+        "Meg Whitman",
+        "nimble storage",
+        "servers"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/all-flash-storage-arrays/",
+        "https://www.enterpriseai.news/tag/cloud-technology-partners/",
+        "https://www.enterpriseai.news/tag/hpe/",
+        "https://www.enterpriseai.news/tag/hybrid-it/",
+        "https://www.enterpriseai.news/tag/meg-whitman/",
+        "https://www.enterpriseai.news/tag/nimble-storage/",
+        "https://www.enterpriseai.news/tag/servers/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-12-at-11.16.50-AM-370x276.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-06-at-11.01.10-AM-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

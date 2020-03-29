@@ -1,10 +1,69 @@
 {
-    "title": "Start-up Aims AI at Automated Tuning of Complex Systems",
-    "author": "Doug Black",
-    "date": "2018-02-22 00:00:00",
-    "text": "There was a simpler time when system tuning consisted of adjusting a relatively few number of knobs, a manual and not overly demanding task that brought out the best in systems performance. But now, as we move toward accelerated enterprise systems networked from data center to public cloud to mobile and sensored devices at the edge, simplicity in systems tuning is long gone.Today\u2019s bigger, more complex, connected and intelligent systems have an exponentially higher number of connections, dependencies, interfaces, protocols and processing architectures that, if not optimized, can hamstring networked systems. For performance engineers still using manual tuning methods, systems optimization is a time-eating hydra-headed monster that poses a virtually infinite number of possible adjustments and configurations for trial-and-error testing.Enter AI.Start-up Concertio today launched what it said is the first machine learning-based tool aimed at making \u00a0applications and systems operate for maximized performance by optimizing the myriad of configuration settings used in complex systems. While its initial product, Optimizer Studio, automates systems diagnostics and generates a \u201cgrocery list\u201d of adjustments that systems engineers and IT managers then review and implement, the next iteration of the technology (Optimizer Runtime) will automate both diagnostics and tuning implementation.None less than Mellanox has tested Concertio\u2019s effectiveness on its own networking technology. As part of today\u2019s launch, Concerto announced the results of a test involving Mellanox\u2019s ConnectX-3 Pro Ethernet cards that compared performance after automated testing by Optimizer Studio against manual tuning methods used by Mellanox performance engineers.The network cards were delivered in their off-the-shelf default settings, and then the Mellanox engineers and Concertio were informed of the workload the cards would be used for. Optimizer Studio ran against nine ConnectX-3 Pro specific knobs representing millions of option combinations. The tool\u2019s workload classification engine and reinforcement learning techniques modeled the target workload, detecting different workload phases, and experimenting with various knob configurations in each phase. It then produced a report showing the optimal settings for the specific use-case.The test result: Concertio won.\u201cIn the comparison test, Optimizer Studio\u2019s automated run improved performance in the target use-case by 80 percent, surpassing the 62 percent we achieved by manual tuning,\u201d said Amir Ancel, performance group director at Mellanox. \u201cOptimizer Studio\u2019s automated tuning algorithms allow us to focus on high-level optimization, leaving the mundane low-level parameter optimizations to software.\u201dBuilt for traditional datacenters, hyperscale datacenters and high-performance computing systems in the cloud or on-premises, Optimizer Studio monitors and learns from the interactions between applications and systems, according to Concertio.As of now, the tools support Linux-based systems running on Intel CPUs. Concertio said it intends to broaden its portfolio of supported technologies in upcoming product iterations.\u201cTuning used to be easy,\u201d Dr. Tomer Morad, Concertio co-founder and CEO, told EnterpriseTech. \u201cThere were only a handful of knobs, and you\u2019d put a performance engineer on that and tweak some settings and get some good results. But today we are already in the hundreds of knobs. It\u2019s exploding and become almost impossible to get to a very good result because the parameter space is practically limitless. If you have 100 binary knobs it\u2019s practically limitless, you cannot check everything. So you need some kind of automatic tool to help you with that.\u201dTuning variables, called tunable knobs, include settings across hardware, firmware, the operating system and applications such as:With so many variables, Morad said, performance engineers can\u2019t be expected to know about all of the available knobs, and to predict their effects on one another. IT professionals must also occasionally tune their systems, but it\u2019s difficult for them to maintain experts on all system internals, he said. Too often, engineers test and set optimal settings for a few knobs they are more familiar with, leaving the rest in default settings that were in place when the equipment was delivered. In some cases, he said, system tuning is overlooked entirely due to the complexity involved, and systems remain at inefficient under-performing factory settings.Beyond application performance tuning, Morad said the tool can be used for cutting cloud and data center costs by finding system configurations that use fewer resources, and it can be utilized by hardware and software product vendors to identify optimized off-the-shelf configurations for shipment to customers or reseller. It also can be used for maximizing public benchmark performance for marketing purposes.Privately-held Concertio (previously called DatArcs) was founded in 2016 and is based in New York City. The company is part of the Runway Program at the Jacobs Technion-Cornell Institute of Cornell Tech in New York, and it\u2019s with the Intel Ingenuity Partner Program.\u201cTailor-tuned systems can significantly outperform baseline general-purpose systems, but the number of configurable settings has reached into the hundreds - way too many for any human team to effectively tune and test,\u201d said Concertio co-founder and CTO Andrey Gelman. \u201cIt used to be merely a gap that could be bridged by human tuning and testing, but with the increasing hardware and software complexity, it\u2019s exploding into a chasm where human performance tuning is netting diminishing returns, leaving these expensive systems bottlenecked and inefficient.\u201d",
+    "title": "NSF Partners With VMware on IoT, Launches Computing Efforts",
+    "text": "The National Science Foundation has launched a partnership with VMware to advance edge computing infrastructure required for the Internet of Things (IoT).Separately this week, NSF unveiled a $30 million investment in computing and information sciences targeting advances in areas such as AI systems, quantum computing and biomedical imaging.The partnership with VMware (NYSE: VMW) seeks proposals from university researchers under a program called \u201cEdge Computing Data Infrastructure.\u201d The effort\u00a0focuses on the enormous volumes of data expected to be generated by IoT devices and services.\u201cA key shift is from edge devices consuming data produced in the cloud to edge devices being a voluminous producer of data,\u201d the agency noted. \u201cThis shift reopens a broad variety of system-level research questions concerning data placement, movement, processing and sharing.\u201dHence, the $6 million edge computing initiative seeks new architectures for moving computing and storage resources closer to mobile and IoT devices at the network edge. Infrastructure components range from IoT network gateways and traditional central office switches to \u201ccloudlets\u201d (also known as a cloud \u201cdatacenter in a box\u201d) and micro-datacenters, the partners said.NSF said it expects to award two grants each totaling about $3 million over three years. Program solicitation details are here. The deadline for proposals is May 22, 2018.Also this week, NSF announced an advanced computing initiative that will fund three research teams pursuing \u201clarge-scale, far-reaching and potentially transformative research in computer and information science and engineering.\u201d The $10 million grants extending over five years target AI decision-making, quantum computing bio-imaging technologies,Investigators at the University of California at Berkeley will build \u201cAI decision systems\u201d based on open-source platforms, tools and algorithms under a program dubbed \u201cReal-time, Intelligent, Secure, and Explainable\u201d decisions.A quantum computing project led by the University of Chicago will tackle the current gap between theoretical algorithms and practical quantum computing architectures under a project called \u201cEnabling Practical-scale Quantum Computing.\u201d Researchers will develop new algorithms along with software and hardware designs tailored to quantum machines capable of between 100 and 1,000 quantum bits, or qubits.By comparison, researchers reported last November that quantum simulators had finally crossed the 50-qubit threshold.\u201cThis project will increase the efficiency of practical quantum computation and aid in transitioning quantum computing out of the laboratory and into practical use,\u201d NSF said Tuesday (Feb. 27).Researchers from Georgia Institute of Technology, Massachusetts Institute of Technology (MIT), Princeton University and University of California at Santa Barbara will contribute to the quantum computing effort.Rice University will lead an initiative to develop a computational imaging system for medical applications that \u201cunravels\u201d scattered light that becomes entangled as it passes through the body. Contributing to the project, \u201cComputational Photo-Scatterography: Unraveling Scattered Photons for Bio-Imaging,\u201d are Carnegie Mellon University, Cornell University, Harvard University and MIT.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-03-02 00:00:00",
+    "cats": [
+        "Academia",
+        "AI/ML/DL",
+        "Data Analytics",
+        "Datacenter",
+        "Healthcare",
+        "Life Sciences",
+        "Sectors",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Networks",
+        "Slider: Software",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/sectors/academia-sectors/",
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/sectors/healthcare-sectors/",
+        "https://www.enterpriseai.news/category/sectors/life-sciences-sectors/",
+        "https://www.enterpriseai.news/category/sectors/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "AI",
+        "bio-imaging",
+        "edge computing",
+        "iot",
+        "medical imaging",
+        "nsf",
+        "quantum computing",
+        "VMware"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/ai/",
+        "https://www.enterpriseai.news/tag/bio-imaging/",
+        "https://www.enterpriseai.news/tag/edge-computing/",
+        "https://www.enterpriseai.news/tag/iot/",
+        "https://www.enterpriseai.news/tag/medical-imaging/",
+        "https://www.enterpriseai.news/tag/nsf/",
+        "https://www.enterpriseai.news/tag/quantum-computing/",
+        "https://www.enterpriseai.news/tag/vmware/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/shutterstock_151932563-370x290.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/mellanox-logo-2-300x189.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-02-at-11.51.30-AM-370x290.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

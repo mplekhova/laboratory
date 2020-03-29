@@ -1,9 +1,58 @@
 {
-    "title": "When Buying HCI, Avoid These 3 Mistakes",
-    "author": "no author",
-    "date": "2018-03-19 00:00:00",
-    "text": "The interest in hyperconverged infrastructure (HCI) appliances is widespread, replacing, and in some sense displacing, the hype around all-flash arrays as \u201cthe\u201d hot topic in previous years. Organizations are turning to the HCI model due to one key benefit: simplicity. Users are no longer willing \u2013 or forced \u2013 to spend time on planning, building and implementing three-tier architecture designed around separate servers, storage and networking components. Now there are options that merge these functions into single HCI appliances.However, there also is a sense of urgency to deploy converged systems quickly and in multiple locations, and some IT managers are spending more money than is necessary to achieve their goals.Here are three areas of caution to consider when buying and deploying HCI.Mistake #1: Using a datacenter solution at the edge.Most HCI solutions are designed for datacenter use and can be overkill for edge deployments. Typically, the cost and management required to deploy these data center-class solutions at small, remote edge environments is too high and can be taxing on the IT organization's budget and people.During the RFP stage, customers should ask a few key questions to ensure they are not overbuying solutions that are better suited for large datacenters. First, users should ask about the minimum number of nodes or appliances required to achieve a highly-available solution. If one node or appliance fails, the other automatically takes overall interoperability. Second, they should identify what kind of network is required to operate the local cluster of appliances and the witness server. Many solutions require 1Gbit or 10Gbit connectivity for one or both, and edge environments are often in remote locations where high bandwidth networking isn\u2019t possible. Third, you can review and then decline to add on data center-class features that are not required at the edge. Many solutions come with datacenter features that inevitably raise overall costs and are never used.Mistake #2: Deploying more hardware than is really needed.Since many HCI solutions come as pre-configured appliances, it\u2019s easy to fall into the trap of deploying standard nodes that have either too much CPU, networking or storage than is needed. To remain within constricted budgets, particularly for edge deployments, users should analyze their exact IO, storage and networking requirements to size hardware appropriately and reduce excess waste.IT staff that are stretched for resources turn to HCI appliances for simplicity, but numerous hidden costs can break the bank. For example, if additional storage capacity or performance is needed, customers find out too late they have to buy a whole new appliance or node \u2013 plus licensing fees \u2013 to effectively expand the cluster. This means that digging into the details of the high-availability cluster quorum management requirements and the remote witness hardware requirements are imperative. Some remote witness solutions require a 1:1 relationship (i.e. one witness for each site) and have strict hardware requirements. If users aren\u2019t careful, they can spend a large chunk of unnecessary budget on witness hardware alone.Mistake # 3: Using all-flash when it\u2019s not really needed.All-flash arrays and hyperconverged appliances are touted by vendors for \u201cextreme performance.\u201d However, not all applications require this and comes at a high cost since flash is typically 10X the cost of disk drives. Users should investigate auto-tiering or caching software that can better optimize data placement between flash, spinning disk and, in some cases, even system memory to deliver the same performance without \u00a0paying a premium.The bells, whistles and speeds of all-flash arrays makes sense for specific applications that require extremely high performance (e.g. financial services, HPC environments, reservation systems, etc.). But for everyday applications that just need good performing, a mix of storage media performs well at a fraction of the cost.Future Outlook: HCI Buying and Deployment CyclesSo what could the future hold for HCI buying and deployment cycles? According to MarketsandMarkets Research, the HCI market is expected to reach $13 billion by 2022, a CAGR of 44 percent. With a bit of homework, IT staffs can find the right balance to deploy HCI appliances in multiple locations without over-provisioning \u2013 or breaking the budget. Your vendor will be able to analyze your IO and storage requirements and recommend the appropriately sized system to meet your storage needs at the edge.Luke Pruen is technical services director at StorMagic.",
+    "title": "Memory Demand Propels Booming Chip Market",
+    "text": "Chip makers have been scrambling to find new applications for their wares, focusing on the Internet of Things, big data and emerging machine learning applications requiring more processing power. For now, it looks like they are succeeding.Driven by insatiable demand for memory chips, the global semiconductor industry had its biggest year in more than a decade. Annual revenue in 2017 jumped 21.7 percent over the previous year, according to figures released this week by IHS Markit.The market tracker credited a surge in memory demand for the banner year, which also propelled South Korea\u2019s Samsung Electronics (KRX: 005930) to the top of its chip rankings. Intel Corp. (NASDAQ: INTC)\u00a0had held the top stop for the past quarter century. Samsung\u2019s revenues jumped 53.6 percent year-on-year on the strength of robust demand for memory chips.IHS said DRAM sales soared 76.7 percent last year while NAND sales jumped 46.6 percent. Increased demand for server DRAM as new x86 platforms were rolled out added to tight supplies throughout the second half of last year. Hence, the market watcher noted that revenue jumps reflect higher prices as demand accelerated.Nevertheless, the growth rate for DRAM and NAND was the highest in a decade, the market tracker reported.The surge in memory demand also rearranged chip rankings, with memory specialists SK Hynix (KRX: 000660) and Micron Technology (NASDAQ: MU) moving up several spots to Nos. 3 and 4, respectively. Both registered annual growth rates of around 80 percent.The fabless business model in which semiconductor vendors ship designs to huge foundries for production continues to expand as demand grows for graphics and other agile processors. Mobile phone chip vendor Qualcomm (NASDAQ: QCOM0, which was being pursued by Broadcom (NASDAQ: AVGO) until the Trump administration blocked the acquisition, remains the top fabless chip marker.Cracking the top ten for the first time was graphics specialist Nvidia (NASDAQ: NVDA), recording a 42.3 percent jump in annual revenue. The GPU leader has been rolling a steady stream of high-end graphics processors for applications ranging from autonomous vehicles to HPC.The chip industry\u2019s transition away from personal to embedded computing and the growing demand for in-memory processing of huge data sets also has fueled chip integration efforts as manufacturers look to pack more functionality onto each device. Those requirements fueled last year\u2019s transition to 3-D NAND technologies such as Intel\u2019s Xpoint non-volatile memory chips aimed at datacenters.\u201cThe technology transition from planar 2-D NAND to 3-D NAND drove the market into an unbalanced supply-demand environment in 2017, driving prices higher throughout the year,\u201d said\u00a0IHS memory analyst Craig SticeStice reckons the transition to 3-D NAND flash is nearly complete, providing \u201csupply relief for the strong demand coming from the [solid-state drive] and mobile markets.\u201d That should translate into steep price declines even as demand remains strong. Either way, IHS predicts 2018 could be another record year for NAND revenues.While unusually strong demand for memory devices skewed last year\u2019s results, the chip sector\u2019s resurgence appears to be built on a strong foundation. Excluding memory sales, IHS reported the remainder of the semiconductor industry grew at a healthy 9.9 percent clip in 2017. For example, big data processing applications expanded by 33.4 percent, benefitting Intel and other server vendors.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-03-29 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Data Analytics",
+        "Datacenter",
+        "Slider: Datacenter",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "3-D NAND flash",
+        "3-D Xpoint",
+        "DRAM",
+        "GPUs",
+        "Intel",
+        "Memory",
+        "NAND",
+        "NVIDIA",
+        "Samsung",
+        "semiconductors"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/3-d-nand-flash/",
+        "https://www.enterpriseai.news/tag/3-d-xpoint/",
+        "https://www.enterpriseai.news/tag/dram/",
+        "https://www.enterpriseai.news/tag/gpus/",
+        "https://www.enterpriseai.news/tag/intel/",
+        "https://www.enterpriseai.news/tag/memory/",
+        "https://www.enterpriseai.news/tag/nand/",
+        "https://www.enterpriseai.news/tag/nvidia/",
+        "https://www.enterpriseai.news/tag/samsung/",
+        "https://www.enterpriseai.news/tag/semiconductors/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/Intel-Data-Center-370x290.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-1.49.46-PM-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-29-at-11.29.09-AM.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

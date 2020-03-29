@@ -1,10 +1,47 @@
 {
-    "title": "Big Data Drives Big Storage",
-    "author": "George Leopold",
-    "date": "2017-04-24 00:00:00",
-    "text": "The healthcare sector along with the explosion of connected devices are driving the big data storage market, according to a new survey of the global storage market that pegs annual growth over the next decade at more than 20 percent.The storage surge also is prompting more vendors to integrate predictive analytics with software-based storage options while moving storage closer to end user data to reduce latency, concludes a market survey released by Persistence Market Research.Overall, the survey forecasts that the global big data storage market will reach $61.44 billion by 2026.While hardware-based storage currently accounts for nearly half of capacity, software-based storage is expected to expand over the next decade to more than $11 billion. The survey warns \"the hefty overall cost of acquiring flash storage\" is among the macroeconomic factors that could slow the growth of hardware-based storage.Read the full story at sister web site Datanami.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "NVMe Gaining Traction For Datacenter Storage",
+    "text": "As flash based storage makes inroads in the datacenter, a growing list of IT infrastructure vendors are embracing networking technologies like Non-Volatile Memory Express, or NVMe, as a way to leverage low-latency flash solid-state drives.Among the converts are networking specialist Cavium Inc. (NASDAQ: CAVM), which announced support this week for NVMe over fabrics as a way to scale flash storage platforms. Meanwhile, IBM (NYSE: IBM) put its considerable weight behind the emerging storage protocol as part of a \"storage system stack\" strategy designed to leverage NVMe's lower latency to address growing data transfer delays in the datacenter.Cavium, San Jose, Calif., on Tuesday (May 9) announced a series of Fibre Channel and Ethernet adaptors supported by its \"NVMe over Fabrics\" technology. The company said its approach defines a mechanism for leveraging low-latency NVMe devices in enterprise storage deployments. The fabric allows storage devices to be shared and managed across Fibre Channel and Ethernet Remote Direct Access Memory (RDMA) fabrics.Fibre Channel is widely used in datacenters as a secure transport mechanism in storage area networks. Cavium and partner Brocade are promoting NVMe over Fibre Channel networks as a way of preserving billions on dollars of existing investment in the networking technology.Along with complying with current the current RDMA fabric spec, Cavium noted that its Ethernet adapter could be used to boost IT infrastructure utilization while increasing virtual machine density. The performance boost targets virtual workloads and infrastructure traffic, the company added.In announcing a new storage switch based on the sixth generation of its Fibre Channel technology, Brocade (NASDAQ: BRCD) stressed that NVMe is helping to drive \"new requirements for a modern infrastructure that can optimize application performance\u2026.\" Hence, its new storage area network aims to deliver \"non-stop availability and built-in NVMe for all-flash datacenters.\"Earlier this week, IBM fleshed out its NVMe strategy that emphasizes the storage stack from big data applications to the flash technology used to store it. The company said it plans to release storage products in the first half of 2018 that incorporate NVMe as a way to meet growing demand for low-latency data processing.Those platforms would build on its \"FlashSystem\" unveiled last year that incorporates NVMe functionality, thereby allowing applications to access flash storage directly rather than via several operating system layers.IBM unveiled a family of all-flash options earlier this year for mainframe environments, including a high-end \"analytics-class\" storage option.As established players like Brocade, Cavium and IBM back the NVMe protocol with new flash storage platforms, a growing number of storage startups are attracting investor funding to accelerate development of new storage platforms. For example, all-flash storage startup Kaminario has so far raised $218 million in venture funding it is using to integrate NVMe into its networking fabric.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-05-09 00:00:00",
+    "cats": [
+        "Datacenter",
+        "Editor's Picks: Front Page",
+        "Slider: Datacenter",
+        "Slider: Front Page",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/editors-pick/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "All-flash storage",
+        "Brocade",
+        "Cavium",
+        "Ethernet",
+        "Fibre Channel",
+        "IBM",
+        "NVMe"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/all-flash-storage/",
+        "https://www.enterpriseai.news/tag/brocade/",
+        "https://www.enterpriseai.news/tag/cavium/",
+        "https://www.enterpriseai.news/tag/ethernet/",
+        "https://www.enterpriseai.news/tag/fibre-channel/",
+        "https://www.enterpriseai.news/tag/ibm/",
+        "https://www.enterpriseai.news/tag/nvme/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_cloud_storage-370x228.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-09-at-2.05.19-PM-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

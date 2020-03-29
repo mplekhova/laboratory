@@ -1,11 +1,49 @@
 {
-    "title": "Memory Boom Propels Samsung Past Intel",
-    "author": "George Leopold",
-    "date": "2018-01-04 00:00:00",
-    "text": "The turbulent\u2014and profitable\u2014memory chip market has a new leader: Samsung Electronics has overtaken Intel Corp. as the world's largest memory supplier, ending Intel's 25-year reign.Gartner reported Thursday (Jan. 4) that the South Korean electronics giant surpassed Intel during 2017 in terms of market share and revenues. Overall, global chip revenues grew a healthy 22.2 percent, driven by soaring demand for memory devices.While memory prices are expected to stabilize, other chip analysts are forecasting a wave of new memory technology deployments over the next five years.Meanwhile, Gartner (NYSE: IT)\u00a0cited\u00a0continuing shortages of flash memory.The market watcher said Samsung (KRX: 005930) holds 14.6 percent of the $419.7 billion global semiconductor market. The Korean chipmaker's revenues grew an impressive 52.6 percent over 2016. Meanwhile, Intel's annual revenues grew a modest 6.7 percent, totaling just over $57.7 million. No. 3 chipmaker SK Hynix (KRX: 000660) grew at a brisk 79 percent, with revenues of $26.3 million.\"Memory accounted for more than two-thirds of all semiconductor revenue growth in 2017, and became the largest semiconductor category,\" noted Andrew Norwood, Gartner's research vice president.Samsung's dominance of the global chip business is not expected to continue as memory prices weaken and Chinese memory production kicks in over the next year. Gartner forecasts that NAND flash and DRAM prices have peaked and will weaken during 2018.Gartner said Intel's datacenter server revenues grew 6 percent on the strength of demand from cloud and communications service providers.Several large chip mergers and acquisitions were announced in 2017, but Gartner notes that few if any were actually completed by year's end. Among them was Western Digital's (NASDAQ: WDC) acquisition in August of Tegile Systems, a provider of flash memory storage in datacenters. The deal reflects how all-flash storage arrays are making inroads in datacenters. Western Digital and other enterprise storage vendors are vying for a larger share of growing demand for all-flash arrays.According to the Gartner rankings, Western Digital recorded the highest annual growth rate among the top ten chip suppliers, a whopping 120.2 percent, with chip revenues totaling nearly $9.2 million.Demand for all-flash storage arrays in datacenters also propelled Western Digital from 17th to ninth place in Gartner's annual rankings.While market watchers such as Gartner forecast weakening memory prices in the coming year, others note that the so-called \"next-generation memory market\" is expected to take up the slack as more data is crunched by in-memory platforms. For example, Dublin-based Markets and Research pegs the next-generation memory market at $2.35 billion, and forecasts it will grow at an annual rate of 26.5 percent to $9.68 billion by 2023.The main drivers are big data demand for in-memory processing, increasing demand for enterprise storage of big data and growing requirements for more bandwidth and scalable memory technologies for AI and Internet of Things applications.A range of emerging non-volatile memory technologies are expected to fuel demand, the market watcher said, including magneto-resistive, or MRAM, along with emerging memory technologies like 3-D XPoint memory being rolled out by Intel (NASDAQ: INTC) and development partner Micron Technology (NASDAQ: MU).\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "HPE, Portworx Partner to Speed Container Workloads",
+    "text": "The explosion of on-demand applications like ride hailing and movies is said to be fueling the shift to cloud-native and container-based application frameworks that can meet growing performance requirements. With that in mind, stateful container specialist Portworx unveiled an approach this week designed to quickly deploy and scale container workloads.Teaming with Hewlett Packard Enterprise, Portworx said Thursday (Jan. 18) their \"reference configuration\" would allow users to deploy container platforms on bare metal. Along with HPE's Synergy platform that combines computing, storage and networking as a \"composable\" unit, the configuration runs on the Portworx storage platform and the Kubernetes container orchestrator.The partnership also illustrates how on-demand applications have hastened the transition from \"stateless\" containers in which data is destroyed as each instance is shut down to stateful containers better suited to production.\"Running enterprise container workloads at scale requires compute and storage that are highly flexible, scalable and available,\" said McLeod Glass, HPE's vice president of production management. Hence, the partners combined a cloud native storage layer with the Synergy platform to scale computing services on a Kubernetes cluster.The result is simplified delivery of stateful container services that \"strikes an important balance for enterprise IT between automation and control,\" added Portworx CEO Murli Thirumale. The partners said Synergy is used to automate the provisioning of hardware while Kubernetes and the Portworx PX-enterprise storage layer designed for stateful workloads automates application management.Portworx, Los Altos, Calif., maintains that embattled DevOps teams require greater automation as they scramble to keep up with the demand for applications needed yesterday. By teaming with HPE, it is attempting to expand the user base for application containers by easing deployments that can scale to many nodes with the performance of bare metal. The partners said the new configuration runs container applications and back-end databases on either bare metal or via virtual machines based on Synergy hardware.Along with Kubernetes, the Portworx platform also runs on Docker Swarm and Mesosphere's datacenter operating system.Meanwhile, HPE (NYSE: HPE) and other IT vendors have been touting \"composable infrastructure,\" or \"infrastructure as code,\" as a software-defined platform that combines physical computing, storage and networking resources and treats them as a service. Those services can then be allocated so DevOps teams don't have to configure hardware for specific applications like container workloads.HPE's partnership with Portworx emphasizes these DevOps functions. Along with automating the provisioning of bare-metal cloud infrastructure, the new configuration is designed to ease the integration of container orchestration tools like Kubernetes while making it easier to spin up instances on demand and, HPE further claims, eliminate the need for outside service providers.Hence, the partners said their reference configuration could be deployed in 30 minutes or less to deliver container-based applications.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-01-19 00:00:00",
+    "cats": [
+        "Cloud",
+        "Slider: Cloud",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "composable infrastructure",
+        "container orchestration",
+        "DevOps",
+        "HPE",
+        "Kubernetes",
+        "on-demand apps",
+        "Portworx",
+        "Synergy"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/composable-infrastructure/",
+        "https://www.enterpriseai.news/tag/container-orchestration/",
+        "https://www.enterpriseai.news/tag/devops/",
+        "https://www.enterpriseai.news/tag/hpe/",
+        "https://www.enterpriseai.news/tag/kubernetes/",
+        "https://www.enterpriseai.news/tag/on-demand-apps/",
+        "https://www.enterpriseai.news/tag/portworx/",
+        "https://www.enterpriseai.news/tag/synergy/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-22-at-6.20.32-PM-370x290.png",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/Screen-Shot-2018-01-04-at-2.09.50-PM-300x176.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/composable-infrastructure-2-370x235.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

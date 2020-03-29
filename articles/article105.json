@@ -1,12 +1,63 @@
 {
-    "title": "At ISC18: Hyperion Reports Healthy Current & Future HPC Market Growth",
-    "author": "Doug Black",
-    "date": "2018-06-27 00:00:00",
-    "text": "Borne on the rising wave of emerging high performance data analytics (HPDA) and machine learning use cases, along with global government spending on development of exascale-class system the HPC server market grew at a healthy year-over-year rate of just under 10 percent in 2017, according to industry watcher Hyperion Research (formerly IDC\u2019s HPC analyst group).At its mid-year HPC market update breakfast at ISC18 in Frankfurt, Hyperion CEO Earl Joseph said the industry in Q1 of this year continued the momentum achieved 2017, and he expects the industry to grow at a healthy 10 percent CAGR clip through 2022. For 2017, industry server revenues totaled $12.3 billion (up from $11.2B in 2016), with the supercomputer sector leading the way at $4.8 billion, followed by divisional and departmental systems at $2.3 billion and $3.4 billion, respectively.Beyond the spurs of AI and HPDA, Joseph also pointed to HPC offerings from public cloud service providers are a source of growth.\u201cThe cloud portion is lifting the market, too,\u201d Joseph said. \u201cA big question was: Will people stop spending on-prem and spend more on the cloud. Across the market, that doesn\u2019t happen. It\u2019s like the cluster revolution of 15-20 years ago. When you can do more HPC, which really is doing more R&D in general, you\u2019re more successful. And organizations and governments tend to give you more money. We generally are seeing the cloud lifting the market as a whole and bringing more money and expenditures into organizations.\u201dAs for server vendor market share, HPE continued its big lead with $4.2 billion in HPC systems sales last year, nearly twice those of Dell EMC at $2.3 billion, followed by Lenovo at $870 million and Inspur at $740 million.\u00a0 IBM HPC systems revenues were $575 million, up from $492 reported a year ago.For the broader market, accounting for all HPC-related technologies, high performance storage revenues continued to grow faster than the server market, showing YOY expansion of 10.3 percent, totaling $4.7 billion in 2017 sales, while HPC software applications sales totaled $4 billion. The total HPC market (including servers) came to $24.3 billion last year, according to Hyperion, and is expected to reach $38.4 billion by 2022.The government, defense and university sectors purchased $5.7 billion of HPC servers last year, with industrial sectors spending $6.5 billion, led by CAE, bio-sciences, geosciences DCC and distribution and financial services.Hyperion predicts that by 2021, the HPDA market will reach $6.6 billion in technology revenues ($4 billion for servers, $2.6 billion for storage). Hyperion COO and SVP of Research Steve Conway said HPDA growth is pushed by new industrial use cases in fraud detection, BI, affinity marketing and personalized medicine.\u201cNew commercial users (are coming into the market), and we don\u2019t mean automotive, pharmaceuticals, and oil and gas,\u201d Conway said. \u201cWe\u2019re talking about moving over to the enterprise data center and plugging HPC into the live workflow there.\u201dAs HPDA evolves, so will its ability to take on increasingly sophisticated problems.\u201cToday, we\u2019re definitely in the era of machine learning \u2013 but for bounded problems,\u201d Conway said, \u201cincluding relatively less complex workloads for image and voice recognition\u2026 These are problems where lots and lots of observations (is required), but not a lot of choices have to be made in the end. Even with automated driving as it\u2019s envisioned right now\u2026, ultimately there are not a lot of choices but a heck of a lot of observations.\u201dUnbounded problems, on the other hand, \u201care the money makers,\u201d Conway said, \u201cin precision medicine, fully automated driving. There you have many observations but also many, many choices to make, so they are much more difficult.\u201dTransparency into ML decision making remains a major potential problem, Conway said, citing a fatal accident earlier this year when an Uber self-driving car hit a pedestrian.\u201cThere\u2019s great concern among the buyers in this market \u2013 the automotive companies, the healthcare companies, and so forth \u2013 that it won\u2019t take too many accidents like that for society to react and possibly slow down progress,\u201d he said.Another challenge is for organizations to access enough data required to train machine learning systems. Conway cited a statement from Marti Head, senior director at GlaxoSmithKline, who said \u201cThe amount of data available today is miniscule compared to what we need for deep learning.\u201d\u201cThe early ecosystem that we\u2019re in was first formed around social media and the web giants because they have lots of data to work with,\u201d said Conway. \u201cThat ecosystem is not particularly applicable to lots of other markets, like healthcare, so that needs to evolve\u2026 But (organizations) can still do a lot of activity. People know they\u2019ve got to get there, so they\u2019re spending a lot of money.\u201dWhile HPC in the cloud is helping to expand the HPC market, Conway said it\u2019s a \u201cphenomenon (that\u2019s) still much wider than it is deep.\u201d He said the percentage of HPC centers running some jobs in public clouds has grown quickly, \u201cthe percentage of all of their HPC jobs they\u2019re sending to HPC clouds is not growing very fast. It\u2019s still just under 10 percent at the moment.\u201dThe constraint, he said, \u201cis on the side of the cloud services providers, not so much the users. As cloud services providers make the cloud architectures friendlier toward a broader spectrum of HPC job types, then more jobs will go to those clouds. And it is happening.\u201d Conway said Hyperion expects total HPC jobs running on public clouds to grow to 15-20 percent over the next few years.He also said that during the second half of 2017, Hyperion detected growing popularity of \u201cvirtualized private clouds\u201d from several public cloud service providers offering isolated, on-demand pools of shared computing resources.",
+    "title": "Dell Founder Retains Control as it Resumes Public Trading",
+    "text": "Twenty-two months after completing its $67 billion megadeal to ingest EMC Corp., Dell Technologies has again gone public with the issuance of a publicly traded tracking stock and the buyout of earlier investors in the EMC deal. The complex transaction allows founder Michael Dell and financial partner Silver Lake to maintain majority control of the IT giant.Michael Dell and Silver Lake partnered in 2013 to take the company private in a transaction valued at about $25 billion.In its return to public trading, Dell announced it would exchange common stock for a tracking stock created to finance its September 2016 acquisition of EMC and most of VMware. The $21.7 billion deal announced Monday (July 2) is designed to buy back shares created in 2016 to acquire EMC.Dell\u00a0(NYSE: DVMT) said holders of the tracking stock, which paralleled Dell\u2019s stake in VMware, would receive either common stock in Dell or cash. The tracking stock would then be eliminated.Michael Dell owns 72 percent of Dell Technologies\u2019 common stock while Silver Lake currently holds 24 percent.The transaction \u201csimplifies capital structure and positions Dell Technologies to build on its growing strategic and financial strength,\u201d the company said. Dell will retain an 81 percent stake in VMware, which remains a separate publicly traded company.\u201cUnprecedented data growth is fueling the digital era of IT, and we are uniquely positioned with our portfolio of technologies and services to enable the digital, IT, security and workforce transformations of our customers,\u201d Dell\u2019s chairman and CEO said.Dell \u201cdid what it had to do as a private company that would have been more difficult as a public one,\u201d said Patrick Moorhead, principal analyst with Moor Insights & Strategy. Those steps included shedding its legacy services and software units along with its acquisition of storage leader EMC\u00a0 and its majority stake in VMware.\u201cThe equity markets are on fire now and given state the company's turnaround, it makes a lot of sense to me,\u201d Moorhead added.Analysts also noted that Dell\u2019s portfolio, which along with EMC and VMware includes cloud services provider Pivotal Software, RSA, Secureworks and Virtustream, positions the IT giant in market segments ranging from the Internet of Things and edge computing to AI and networking technology.Dell also remains the leading global server vendor. Moorhead said the publicly traded company also is well positioned in booming markets like storage and analytics, networking infrastructure and, eventually, machine learning.Aside from the return to public trading, observers foresee few changes in how Dell Technologies operates, noting that no new management changes were announced. Michael Dell will continue to own between 47 percent and 54 percent of the company, Moorhead estimated.For its part, the company noted: \u201cAs a public company, Dell Technologies has maintained and plans to continue to maintain the same strategic focus on long-term growth that the company had achieved while being privately managed.\u201dDell Technologies\u2019 common stock\u00a0has been trending sharply higher since the transaction was announced on Monday.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-07-03 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Data Analytics",
+        "Datacenter",
+        "Networks",
+        "Security",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Networks",
+        "Slider: Software",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/networks/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "Dell Technologies",
+        "EMC",
+        "it infrastructure",
+        "Michael Dell",
+        "tracking stock",
+        "VMware"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/dell-technologies/",
+        "https://www.enterpriseai.news/tag/emc/",
+        "https://www.enterpriseai.news/tag/it-infrastructure/",
+        "https://www.enterpriseai.news/tag/michael-dell/",
+        "https://www.enterpriseai.news/tag/tracking-stock/",
+        "https://www.enterpriseai.news/tag/vmware/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/ISC18-Hyperion-Market-Update-1-370x290.png",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/ISC18-Earl-Joseph-Hyperion-market-update-576x1024.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/ISC18-Hyperion-Market-Update-vendor-shares.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/ISC18-Hyperion-Market-Update-bounded-unbounded-AI-problems.png"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-06-at-11.01.10-AM-370x290.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

@@ -1,10 +1,54 @@
 {
-    "title": "Management Shakeup at Dell EMC Designed to Streamline Systems Development, Delivery",
-    "author": "Doug Black",
-    "date": "2018-01-26 00:00:00",
-    "text": "Reverberations from Dell\u2019s acquisition of EMC in October 2015 \u2013 at $67 billion, the biggest in the history of the technology industry \u2013 have extended into 2018 with the news that the company\u2019s core server and storage business units will absorb its Converged Platforms and Solution Division (CPSD), formerly located within Dell EMC\u2019s Infrastructure Solutions Group (ISG), according to published reports.Matt Baker, Dell EMC SVP of strategy and planning, told CRN that \u201cCPSD as we know it today as an independent organization is no longer.\u201d The goal, he said, is to move the company\u2019s hyperconverged and converged solutions \u201ccloser to our core product groups\u201d with the intent of streamlining systems development and delivery.A spokesperson for the company said Dell EMC\u2019s org chart \u201cis designed to help simplify our organization for clear lines of decision making, get our products to market faster and align our teams to our biggest priorities.\u201dThe shakeup has major implications for Dell EMC\u2019s HPC and hyperconverged infrastructure teams, which are being moved to the Server Division led by Ashley Gorakhpurwalla, divisional president and general manager; meanwhile, Gil Shneorson will remain in leadership of Dell's VMware-aligned Hyperconverged Infrastructure (HCI) products and Dan McConnell will continue as the head of its ecosystem HCI offers, and both will report to Gorakhpurwalla, according to the CRN story.Meanwhile, Dell EMC's converged infrastructure team will be folded into the company's Storage Division under the leadership of Jeffrey Boudreau, the division\u2019s SVP/GM. Observers noted that the shakeup could be designed to jumpstart Dell EMC\u2019s storage division, which company executives have conceded has lost market share of late.Baker said that Chad Sakac, formerly head of CPSD, will continue to be an infrastructure leader at Dell EMC, though he has not yet been given an official title.\u00a0 The Ready Solutions group, except for the HPC and cloud groups, will come under the leadership of Kash Shaikh, VP product management and marketing.The restructuring was carried out under the direction of ISG President\u00a0Jeff Clarke, a 30-year Dell veteran who took over for David Goulden, a former top EMC executive, four months ago.The restructuring has been favorably received by at least two industry analysts.\u201cThe reorg makes good business sense ,\u201d said Chirag Dekate, research director, HPC, machine learning, emerging compute technologies, Gartner. \u201cIt will help Dell rationalize product portfolios and cross-pollinate technologies from HPC across a broader set of market segments. With digital business initiatives gathering steam across enterprises, HPC-inspired ideas can prove to be a real differentiator in the new infrastructure stack.\u201d\u201cThis reorg is all about speed of decision making and efficiency,\u201d said Patrick Moorhead, president and principal analyst, Moor Insights & Strategy. \u201cI\u2019m looking at how it was architected, and on paper it definitely does that. There\u2019s less people in the decision making process, which is good for a company of their size.\u201dThe restructuring comes amid other reports in Bloomberg and the Wall Street Journal that Dell Technologies, which went private in 2013, may be considering going public again. The reports say that a Dell IPO would be intended to raise money to pay debt, which currently amounts to $50 billion.",
+    "title": "Chip Market Soared on Memory Demand",
+    "text": "Global spending on semiconductors jumped a hefty 17 percent in 2017, driven by demand and corresponding price hikes for memory in datacenters and early industrial deployments of the Internet of Things.While memory prices and demand are expected to stabilize this year, a new round of AI and IoT deployments could fuel continuing growth in chip consumption, market watchers predict.Industry analyst IHS Markit reported this week that global chip spending reached $292 billion in 2017, a five-year high driven by price spikes for DRAM and NAND flash memory. The chip sector was contracting just two years ago but reach $250 billion in 2016.Last year's memory shortages were driven largely by growing demand by datacenter operators as they rolled out all-flash storage options used to speed access to big data. Meanwhile, analysts predicted last summer that server memory supplies would remain tight through the end of 2017.IHS said it expects memory prices to stabilize, with chip spending returning to single-digit growth this year. Nevertheless, other analysts are forecasting a wave of new memory technology deployments over the next five years. Last month, for exampled Gartner Inc. (NYSE: IT) cited continuing shortages of flash memory.Gartner also reported that memory chips accounted for more than two thirds of all semiconductor revenue growth last year, making it the largest chip category. \"If market equilibrium between supply and demand is reestablished for those memory components this year, prices will likely normalize,\" IHS predicted.Another reason why memory prices are expected to stabilize is the ramping of Chinese memory production over the next year, Gartner said last month.On the demand side, Apple and Samsung remain the largest consumers of semiconductors, while server makers Lenovo (third) and Dell Technologies (fifth) were among the top five largest buyers of memory and other devices last year.Wireless technology still accounts for more than one-third of global chip consumption. Manufacturers of servers and other \"computer platforms\" drove about 17 percent of annual sales last year. IHS also noted that the industrial and automotive sectors also fueled last year's robust chip growth as early IoT deployments ramp up.Server maker Lenovo accounted to an estimated $15 billion in chip spending last year as it targets the Asian server market. IHS reported that the Asian Pacific region is the largest consumer of semiconductors, followed by the Americas and Europe, the Middle East and Africa.Dell's chip purchases totaled about $9 billion last year. Hewlett Packard Enterprise accounted for about $6.9 billion in chip consumption, an annual increase of 28 percent. (See chart.)As the traditional memory chip market stabilizes, other market watchers are forecasting continuing growth in the so-called \"next-generation memory market.\" The main drivers are big data demand for in-memory processing, increasing requirements for enterprise storage of big data and the need for more bandwidth and scalable memory technologies for AI and IoT applications, according to Dublin-based analyst Markets and Research.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-02-07 00:00:00",
+    "cats": [
+        "Datacenter",
+        "Manufacturing",
+        "Slider: Datacenter",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/sectors/manufacturing-sectors/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "all-flash memory",
+        "datacenters",
+        "Dell",
+        "global semiconductor consumption",
+        "HPE",
+        "IHS",
+        "Lenovo",
+        "Memory",
+        "servers"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/all-flash-memory/",
+        "https://www.enterpriseai.news/tag/datacenters/",
+        "https://www.enterpriseai.news/tag/dell/",
+        "https://www.enterpriseai.news/tag/global-semiconductor-consumption/",
+        "https://www.enterpriseai.news/tag/hpe/",
+        "https://www.enterpriseai.news/tag/ihs/",
+        "https://www.enterpriseai.news/tag/lenovo/",
+        "https://www.enterpriseai.news/tag/memory/",
+        "https://www.enterpriseai.news/tag/servers/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Dell-EMC-logo-370x290.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Michael-Dell-1017-e1507822849306-169x300.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/IBM-PCM-In-Memory-1017.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-07-at-11.13.32-AM.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

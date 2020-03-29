@@ -1,10 +1,45 @@
 {
-    "title": "Quantum Computers Threaten Data Encryption",
-    "author": "George Leopold",
-    "date": "2018-01-29 00:00:00",
-    "text": "The promise of quantum computing comes with a major downside: \"Cryptographically useful\" quantum machines will threaten public key encryption used to secure data in the cloud, a new report warns.The Cloud Security Alliance also found in a report released last week that companies are aware of the growing security risk associated with quantum computing but have so far done little to prepare. Among the reasons are the usual lack of resources and the perception that few if any security solutions exist.Only 30 percent of those surveyed by the alliance said they were confident that current security approaches would protect encrypted data while another one-third were unaware of defenses. Forty percent of those polled said they are working to \"future-proof\" data against the quantum computing threat.The Seattle-based group expects commercial quantum computers to arrive over the next decade. \"With this considerable breakthrough will come a significant threat to the security of public key cryptography and the associated challenges of securing the global digital communications infrastructure,\" said Bruno Huttner, co-chair of the alliance's quantum security working group and product manager for a Swiss-based security firm.Of particular concern is how cloud and infrastructure vendors will secure personal and financial data over time as quantum technologies hit the market. Some \"quantum-safe cryptography\" approaches have been proposed.For example, the National Security Agency has announced plans to revamp its suite of crypto algorithms to include quantum safeguards. Similarly, the National Institute of Standards and Technology is sorting through proposals for quantum-resistant, public-key encryption algorithms.Meanwhile, security specialists said they were familiar with at least some \"quantum-safe\" technologies, including longer symmetric keys and expanded cryptographic hash functions. The latter is an algorithm used to produce a checksum for verifying data integrity.\"If we want more protection, we need bigger numbers,\" said Duncan Steel, a University of Michigan engineering and computer science professor developing quantum-safe technologies.\"While there is still a tremendous amount of work to be done in convincing the industry of the importance of including the threat of quantum computing in enterprise security strategies, the good news is that there is a great deal of interest in learning more about the threat quantum presents and how it can be mitigated,\" added Jane Melia, a quantum working group co-chair and vice president of another security vendor.Still, the alliance found that many of those surveyed have done little to address security concerns raised by quantum computing. Most said they would not have a plan in place for at least three years, and few are including quantum-safe encryption as a requirement from their suppliers.\"This makes their data vulnerable to harvesting attacks, in which data is downloaded and then stored for later decryption by quantum computers,\" the report warned.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Intel Debuts Xeon SoC for Edge Applications, Addresses \u2018Spectre\u2019 and \u2018Meltdown\u2019 Fears",
+    "text": "Intel has addressed the drive for increasingly powerful processing at the edge of systems and networks with the launch this week of the Xeon D-2100 SoC, designed to support workloads that require more compute, analytics and data protection closer to endpoint devices.The announcement follows last month\u2019s revelations of \u201cSpectre\u201d and \u201cMeltdown\u201d security vulnerabilities that could force CPUs to disclose the contents of data stored in memory and which impact nearly all processor architectures developed over the last two decades. Intel said the D-2100 processors will be supported by system software updates to protect against Spectre and Meltdown. They also \u00a0include integrated QuickAssist Technology with up to 100 Gbps of built-in cryptography, decryption and encryption acceleration.The D-2100 processor extends the Intel Xeon Scalable platform, Intel said, from the data center to the network edge and web tier, where network operators and cloud service providers need greater performance and capacity without increasing power consumption. With a range of 4 to 18 \u201cSkylake-server\u201d generation Xeon processor cores, up-to 512 GB of addressable memory, the SoC has an integrated Platform Controller Hub, integrated high-speed I/O, up-to four integrated 10 Gigabit Intel Ethernet ports and a thermal design point of 60 watts to 110 watts.The new processors are designed to help communications service providers offer multi-access edge computing (MEC), which allows software applications to tap into local content and real-time information about local-access network conditions, reducing mobile core network of network congestion, supporting such use cases as 5G-connected cars, smart stadiums, and retail and medical applications.The new processors will also, according to the company, enable communications service providers to deliver higher-capacity workload-optimized networking services at lower power in virtual customer premise equipment, such as VPNs and encryption services.\u201cTo seize 5G and new cloud and network opportunities, service providers need to optimize their data center and edge infrastructures to meet the growing demands of bandwidth-hungry end users and their smart and connected devices,\u201d said Sandra Rivera, senior vice president and general manager of the Network Platforms Group at Intel. \u201cThe Intel Xeon D-2100 processor allows service providers and enterprises to deliver the maximum amount of compute intelligence at the edge or web tier while expending the least power.\u201dIntel said the new chip also is designed for power- and space-constrained use cases, including:\"As data-driven services are becoming more pervasive and complex,\" stated Jennifer Huffstetler, Intel VP/GM of data center product management, in a blog post, \"they require more compute and intelligence closer to consumer and commercial 'endpoint' devices that are both generating and acting on data at the 'edge' (e.g. smart phones, IoT sensors and autonomous cars). By expanding the capabilities of the data center outward to the network edge, solution providers can process more data closer to endpoint devices, reducing application latency and opening up a whole new world of potential services and experiences.",
+    "author": [
+        "Doug Black",
+        "https://www.enterpriseai.news/author/doug/"
+    ],
+    "date": "2018-02-09 00:00:00",
+    "cats": [
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Front Page",
+        "Slider: Networks",
+        "Slider: Security",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-security/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "edge computing",
+        "Intel",
+        "intel xeon"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/edge-computing/",
+        "https://www.enterpriseai.news/tag/intel/",
+        "https://www.enterpriseai.news/tag/intel-xeon/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_security-1-370x228.jpg",
-        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Intel-Xeon-D-2100-0218-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/xeon-d-2100-edge-computing-chart.png.rendition.intel_.web_.1280.720.png"
     ]
 }

@@ -1,10 +1,41 @@
 {
-    "title": "IBM Launches All-Flash, Multi-Cloud Storage",
-    "author": "Doug Black",
-    "date": "2018-07-10 00:00:00",
-    "text": "IBM today announced a new all flash-based entry to its storage products portfolio, a fusion of high performance storage technologies that the company said combines low latency IBM FlashCore technology integrated with multi-cloud software-defined IBM Spectrum Storage solutions. The NVMe-optimized all-flash arrays come in two models \u2013 FlashSystem 9110 and FlashSystem 9150 \u2013 in 2U enclosures that include dual array controllers, dual power supplies, redundant cooling, and hot swap capabilities.Both models have two Intel Skylake CPUs per array controller with the 9110 offering eight cores per CPU and the 9150 with 14 cores/CPU for higher throughput. IBM said the two rack units of space can provide the performance and efficiency of over a terabyte of memory and up to 2 petabytes of effective storage \u2013 \u201cmoving at NVMe speeds to tackle even the most demanding real-time analytics and AI applications and workloads.The company said a key innovation of the FlashSystem product line involves the introduction of IBM FlashCore hardware-accelerated architecture modules with NVMe interfaces that can be deployed with industry-standard NVMe flash drives.\u201cMost organizations are already moving to multi-cloud architectures. And most storage solutions are scrambling to keep up,\u201d said Steve McDowell, senior storage analyst, Moor Insights & Strategy. \u201cBut not IBM. With the latest announcement of the IBM FlashSystem 9100, their new all-flash array, which offers multiple ways to build multi-cloud storage solutions while providing NVMe speed and hardware accelerated data compression, it is clear that IBM is moving aggressively in the high performance storage marketplace.\u201dIBM touted the FlashSystem 9100\u2019s support for private, hybrid and public cloud deployments (IBM Cloud for now; AWS and other public clouds later this year, IBM CMO and VP of Worldwide Storage Channels Eric Herzog told EnterpriseTech). The solution includes embedded multi-cloud API automation, replication and secondary data orchestration software. The product\u2019s capabilities can be extended by adding IBM Spectrum Storage components in three \u201cmulti-cloud\u201d blue prints:IBM FlashSystem 9100 arrays come with Storage Insights, IBM\u2019s AI-based predictive analytics, storage resource management, and support platform delivered over the cloud. Storage Insights monitors the capacity and performance for IBM block storage and external storage under management on a single screen.\u201cEvery IT group must provide business continuity and data copy provisioning and management solutions to the larger enterprise,\u201d said Eric Burgener, research vice president of storage at industry watcher IDC. \u201cThese two related challenges can divert substantial resources and focus from other business-critical pursuits. Highly flash-optimized storage arrays that offer a full complement of enterprise-class data services and support for the latest NVMe technologies, like the IBM FlashSystem 9100, provide the performance, scalability and functionality to address these challenges for the data-driven, multi-cloud enterprise.\u201d",
+    "title": "SAP HANA Gets Intel Memory Boost on Google Cloud",
+    "text": "Intel Corp. and SAP are joining forces with Google to offer cloud virtual machines supporting persistent memory for in-memory workloads running on the SAP HANA relational database manager.The partners announced the Google cloud virtual machines would support the upcoming release of SAP HANA workloads running on Intel\u2019s Optane DC persistent memory. Google (NASDAQ: GOOGL)said the cloud virtual machines would be powered by Intel\u2019s (NASDAQ: INTC) next-generation Cascade Lake processor, the successor to its current generation Skylake scalable processor. (Google was the first cloud provider to offer Skylake.)The upgrade would allow SAP HANA (NYSE: SAP) users to expand virtual machine resource sizing, Google said Monday\u00a0(July 23).The partners said Google Compute Engine virtual machines running on Optane DC persistent memory would almost double memory capacity, helping to expand the number of use cases running in the cloud. Support for Optane was introduced in version 2.0 SPS 03 edition\u00a0of SAP HANA released in April. (SPS stands for \u201csupport package stack.\u201d)Cloud instances running on Optane persistent memory for SAP HANA and other workloads will be available later this year for testing, Google said.The cloud partnership for in-memory workloads comes as Google continues to expand its public cloud offerings\u00a0 and SAP supports a growing list of enterprise applications in the cloud. Earlier this month, SAP reported\u00a0steady annual growth in its cloud and software revenue, including a more than 30 percent jump in cloud subscriptions and support revenue.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "date": "2018-07-23 00:00:00",
+    "cats": [
+        "Cloud",
+        "Slider: Cloud",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "cloud",
+        "database",
+        "in-memory",
+        "in-memory databases",
+        "Optane",
+        "SAP HANA"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/cloud-2/",
+        "https://www.enterpriseai.news/tag/database/",
+        "https://www.enterpriseai.news/tag/in-memory/",
+        "https://www.enterpriseai.news/tag/in-memory-databases/",
+        "https://www.enterpriseai.news/tag/optane/",
+        "https://www.enterpriseai.news/tag/sap-hana/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/IBM-FlashSystem-9100-0718-370x100.png",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/IBM-logo-300x150.png"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2014/03/database-cloud-logo-370x290.jpg",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

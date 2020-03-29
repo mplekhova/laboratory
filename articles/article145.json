@@ -1,11 +1,60 @@
 {
-    "title": "Independent Hyperion Research Will Chart its Own Course",
-    "author": "John Russell",
-    "date": "2017-12-19 00:00:00",
-    "text": "Hyperion Research, formerly the HPC research and consulting practice within IDC, has become an independent company with Earl Joseph, the long-time leader of the IDC HPC team, acquiring the company as a sole proprietorship. He becomes CEO of Hyperion Research, LLC.\u00a0The year-end resolution of Hyperion\u2019s status had been expected. Under the terms of the sale of IDC to China Holding Group and IDG Capital last January, the U.S. government required the IDC HPC practice be spun out separately while a new owner was sought.Talks were held with at least nine suitors, including some vendors and other analyst firms, said Steve Conway, long-time IDC HPC executive and now Hyperion senior vice president of research. Adequate resources and independence were key factors in the eventual decision to become an independent entity. \u201cThe team and I had discussions with many potential acquirers in recent months, but none of them would have given us the same freedom-of-action and growth potential we now have as an independent company,\u201d Joseph said in the official press release.The coverage areas will largely be the same, said Conway, with growth into the enterprise segment, an increased focus on artificial intelligence and a new quantum computing practice led by IDC veteran Bob Sorensen, now vice president of technology and research. Conway said, \u201cReally we are just tracking HPC\u2019s expansion.\u201d Conway was instrumental in developing IDC high performance data analysis (HPDA) effort and said the AI effort is really a subset of that.Quantum computing is of course new but Hyperion already has clients for those services, according to Conway, and it is meeting with entities such as the national labs to help define what such a practice would encompass. He noted, \u201cQuantum is still in the hype phase but the carrot is so big [you have to pursue ].\u201d Quantum computing will be one of the main themes at the HPC User Forum (April 16-18), he said.Conway cited deep learning as another growth area. \u201cWe expect to see a ramp up in exploratory deep learning; it\u2019s still not quite there in most segments.\u201d The overall 2018 HPC outlook remains strong, he said.As described in today\u2019s announcement, \u201cHyperion helps IT professionals, business executives, and the investment community make fact-based decisions on HPC-related technology purchases and business strategy.\u201d\u201cThe team will continue all the worldwide activities that have made it the world\u2019s most respected HPC industry analyst group for more than 25 years,\u201d said Conway, \u201cThat includes sizing and tracking the global markets for HPC and high-performance data analysis. We will also continue offering our subscription services, customer studies and papers, and operating the HPC User Forum.\u201d Conway emphasized that Hyperion\u2019s business model relies more heavily on consulting relative to subscriptions.During the eight-month period between Hyperion\u2019s separation from IDC and the formation of the new company, not a single client left Hyperion, according to the release. \u201cIn fact, our business continued growing to the point where we recently hired two more people, analyst Alex Norton and our former IDC colleague Kurt Gantrish as a second sales counterpart to Mike Thorp,\u201d said Joseph, adding that the firm plans to add more analysts to address expected demand.\u201cOn behalf of our entire team,\u201d Joseph said, \u201cI deeply thank IDC for making it possible for us to continue the HPC business practice we all worked so hard to build while at IDC.\u201d For more about Hyperion Research, see www.HyperionResearch.com and www.hpcuserforum.com.",
+    "title": "Juggling Security With Greater Data Access",
+    "text": "Securing critical data while simultaneously making it more accessible is the challenge for enterprise IT departments, a new vendor survey finds.In a report released Wednesday (Jan. 10), big data integration specialist Syncsort said it examined what data protection and IT strategies companies are deploying to counter hackers, data breaches, service disruptions linked to natural disasters along with \"escalating storage and data accessibility needs.\"Nearly half the more than 5,600 respondents to the survey said they expect to pursue new security initiatives over the next two years as data threats increase and grow in sophistication. (Security efforts will likely expand with last week's disclosure of fundamental chip design flaws dubbed \"Meltdown\" and \"Spectre\".)In the meantime, security strategies include more aggressive patch management, virus and malware protection as well as improved intrusion detection and prevention.Despite growing threats and greater emphasis on threat detection, the survey found relatively lax security audits: While nearly two-thirds of those polled said they perform security audits, most do so only on an annual basis. Those percentages were slightly higher for IBM Power architecture users, Syncsort reported.Cloud migrations are among the factors driving security concerns, especially as more enterprise applications are shifted to hybrid clouds. Forty-three percent of those polled said cloud security was their top concern.Syncsort said 47 percent of respondents cited \"business continuity\" and \"high availability\" as top priorities.\"IT leaders are under immense pressure to provide an enterprise infrastructure that can sustain severe threats and secure vital information while enabling data accessibility and business intelligence,\" Terry Plath, Syncsort's vice president of global services, noted in a statement.All this is occurring as businesses struggle to come up with better ways to securely share data. More than half (53 percent) of those surveyed said they are supporting multiple databases to share data and boost business intelligence. Most are broadening access through scripting or file sharing.As companies upgrade outdated systems or seek to boost data platform performance, nearly half of respondents said they have withstood system migration failures. Sixty-eight percent said their IT systems were down for as much as 48 hours during their last platform migration.As a result, big data integration software vendors such as Syncsort argue that data-driven enterprises must bolster their disaster recovery plans. \"Only half of businesses are meeting their recovery time objective, and, despite known risks, 85 percent of respondents had no recovery plan or were less than 100 percent confident in their plan,\" the report warned.Another Syncsort survey released in December found uncovered growing concerns about data quality and regulatory compliance as companies brace for new European Union data privacy rules that take effect in May. Syncsort reported that 40 percent of survey respondents\u2014mostly in the financial and insurance sectors\u2014said unreliable data is continuing problem, contributing to the steady shift to data lakes as a way to improve data quality.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-01-10 00:00:00",
+    "cats": [
+        "Cloud",
+        "Data Analytics",
+        "Datacenter",
+        "Security",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Security",
+        "Slider: Software",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-security/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "big data integration",
+        "data access",
+        "data security",
+        "disaster recovery",
+        "resilience",
+        "Syncsort",
+        "system migration"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/big-data-integration/",
+        "https://www.enterpriseai.news/tag/data-access/",
+        "https://www.enterpriseai.news/tag/data-security/",
+        "https://www.enterpriseai.news/tag/disaster-recovery/",
+        "https://www.enterpriseai.news/tag/resilience/",
+        "https://www.enterpriseai.news/tag/syncsort/",
+        "https://www.enterpriseai.news/tag/system-migration/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/globe-map-shutterstock_608837984-675x380-370x290.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/IDC-Earl-Joseph-SC16-169x300.jpg",
-        "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Steve.Conway.IDC_.jpg"
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

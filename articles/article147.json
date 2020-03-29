@@ -1,9 +1,45 @@
 {
-    "title": "At SC17: Silicon, Systems and Science \u2013 the Good News and the Bad",
-    "author": "Doug Black",
-    "date": "2017-12-06 00:00:00",
-    "text": "We interviewed Karl Freund, lead analyst for deep learning and HPC at Moor Insights & Strategy, at SC17 in Denver to discuss the fertile crossover between AI and HPC \u2013 specifically, how new machine learning techniques are rapidly evolving to take on previously unsolvable business and scientific problems. He also reviewed major new developments spanning, in his words, \"silicon, systems and science,\" including good and bad news regarding ARM, AMD, Intel and Nvidia.Here's a link to interview.",
+    "title": "Microsoft Extends Hybrid Cloud Push With Avere Deal",
+    "text": "Microsoft continued its foray into the high-end cloud storage sector with a deal this week to acquire hybrid cloud data storage and management vendor Avere Systems.The deal announced on Wednesday (Jan. 3) follows Microsoft's acquisition last August of Cycle Computing to bolster its \"big compute\" initiatives on the Azure cloud. Microsoft (NASDAQ: MSFT) said the Cycle and Avere deals are part of its strategy to bring high-end computing to hybrid cloud deployments.Terms of the deal for Pittsburgh-based Avere Systems were not disclosed.Avere's scalable cloud storage platform dubbed FXT Edge Filers targets enterprises trying to integrate applications requiring file systems into the cloud. Along with data storage access, the platform helps scale computing and storage depending on application requirements.Jason Zander, vice president of Microsoft Azure, said the acquisition gives the public cloud vendor a combination of file system and caching technologies. Avere works with animation studios that run computing intensive workloads, and the deal is expected to give Microsoft entr\u00e9e into those media and entertainment sectors.\"By bringing together Avere\u2019s storage expertise with the power of Microsoft\u2019s cloud, customers will benefit from industry-leading innovations that enable the largest, most complex high-performance workloads to run in Microsoft Azure,\" Zander asserted in a blog post announcing the deal.Avere Systems CEO Ron Bianchini added that the acquisition would expand the reach of its data storage technology from datacenters and public clouds to hybrid cloud storage and \"cloud-bursting environments.\"Along with the entertainment sector, Avere Systems' customers include the Library of Congress, Johns Hopkins University and automated test equipment manufacturer Teradyne (NYSE: TER). Its customer base also includes financial services customers along with the healthcare and manufacturing sectors.Last year, Avere Systems announced an investment round that included Microsoft cloud rival Google (NASDAQ: GOOGL). It also disclosed partnerships with private cloud storage vendors, including support for Dell EMC's (NYSE: DVMT) Elastic Cloud Storage platform. The partners said the software-defined object storage approach would allow private cloud customers to consolidate content archives and file storage systems in a central repository.Meanwhile, Microsoft's August 2017 acquisition of Cycle Computing combined the startup's orchestration technology for managing Linux and Windows computing and data workloads with Microsoft's Azure cloud computing infrastructure. Avere and Cycle then announced a technology integration designed to enable hybrid high-performance computing capabilities on public cloud platforms.Observers praised Microsoft's acquisition of Avere Systems, noting that its storage technology could help Microsoft boost its Azure revenues by allowing customers to use the public cloud while keeping some data on-premises.--Editor's note: This story has been updated to include Avere Systems-Cycle Computing partnership.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-01-03 00:00:00",
+    "cats": [
+        "Cloud",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Front Page",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "acquisiiton",
+        "Avere Systems",
+        "cloud storage",
+        "Hybrid Cloud",
+        "Microsoft Azure"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/acquisiiton/",
+        "https://www.enterpriseai.news/tag/avere-systems/",
+        "https://www.enterpriseai.news/tag/cloud-storage/",
+        "https://www.enterpriseai.news/tag/hybrid-cloud/",
+        "https://www.enterpriseai.news/tag/microsoft-azure/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/Karl-Freund-SC17-video-interview-1-370x290.png"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/digital-cloud-shutterstock_105017696-800x-370x290.jpg",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

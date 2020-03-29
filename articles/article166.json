@@ -1,12 +1,45 @@
 {
-    "title": "IBM Storage Breakthrough Paves Way for 330TB Tape Cartridges",
-    "author": "Tiffany Trader",
-    "date": "2017-08-04 00:00:00",
-    "text": "IBM has announced a new record for magnetic tape storage that it says will keep tape storage density on a Moore\u2019s Law-like path far into the next decade. In collaboration with Sony, IBM scientists recorded 201 gigabits on one square inch of prototype magnetic tape, achieving a 20x improvement over the areal density used in current state of the art enterprise tape drives. This works out to a potential standard cartridge capacity of 330 terabytes (TB) of uncompressed data.The demonstration device combines Sony\u2019s new magnetic tape technology with IBM Research\u2019s newly developed write/read heads and its next-generation servo and signal processing technologies, detailed in the IBM announcement:+ Innovative signal-processing algorithms for the data channel, based on noise-predictive detection principles, which enable reliable operation at a linear density of 818,000 bits per inch with an ultra-narrow 48nm wide tunneling magneto-resistive (TMR) reader.+ A set of advanced servo control technologies that when combined enable head positioning with an accuracy of better than 7 nanometers. This combined with a 48nm wide (TMR) hard disk drive read head enables a track density of 246,200 tracks per inch, a 13-fold increase over a state of the art TS1155 drive.+ A novel low friction tape head technology that permits the use of very smooth tape media.It\u2019s the first time that IBM has used sputtered magnetic tape instead of the traditional barium ferrite technology.As explained by IBM Scientist Mark Lantz (see video at end of article) \u201csputter tape uses several layers of thin metal films that are coated onto the tape using vacuum sputter technology that\u2019s similar technology as is that used for integrated circuits.\u201dIn current generation tape drives, a thin film of nanoscale barium ferrite particles are applied to the tape in liquid form, like a thin layer of paint.\u201cWhile sputtered tape is expected to cost a little more to manufacture than current commercial tape that uses Barium ferrite (BaFe), the potential for very high capacity will make the cost per TB very attractive,\u201d\u00a0said IBM Fellow Evangelos Eleftheriou.IBM envisions tape becoming a viable storage media for cloud, both as a back-up application and an archival tier for infrequently-accessed data. Of course, spinning disc and flash storage have their advantages, but tape\u2019s economics for massive data archives are hard to argue with.IBM believes that this latest achievement puts the company on track to continue scaling tape technology at near-historic rates, doubling the storage capacity every two years for at least the next ten years.IBM\u2019s legacy of tape storage innovations stretches back more than 60 years. The company launched its first commercial tape product, the 726 Magnetic Tape Unit, in 1952, providing a speed and capacity advantage over existing cathode ray tube and drum storage devices. The 726 used an oxide-coated, non-metallic tape, approximately a half-inch wide with a density of 100 bits per linear inch.IBM and Sony presented\u00a0the results of their collaboration\u00a0this week at the 28th Magnetic Recording Conference in Japan.\u00a0Neither company indicated when we might actually see a 330 TB tape drive in the wild. Leading conventional technology can only handle 15 TB per data cartridge.Feature image caption:\u00a0IBM scientist Dr. Mark Lantz holds a one square inch piece of Sony Storage Media Solutions sputtered tape, which can hold 201 Gigabytes (Photo credit: IBM Research)With over a decade\u2019s experience covering the HPC space, Tiffany Trader is one of the preeminent voices reporting on advanced scale computing today.",
+    "title": "Western Digital Buys Flash Vendor Tegile",
+    "text": "Consolidation in the enterprise storage sector continues with Western Digital Corp.'s acquisition of Tegile Systems, a provider of flash and persistent memory storage in datacenters.The deal announced Tuesday (Aug. 29) is expected to close during the week of Sept. 4. Others terms of the transaction were not disclosed.Western Digital (NASDAQ: WDC) currently offers a range of storage products under the HGST, SanDisk and WD brands to OEMs and cloud infrastructure providers. (SanDisk acquired flash memory specialist Fusion-io in 2014.) The Tegile acquisition would expand its enterprise portfolio with a range of flash storage options, including its IntelliFlash storage platform.The partners said the acquisition would position San Jose-based Western Digital to meet growing demand in hyper-scale datacenters for scalable platforms that include persistent storage, a key requirement for emerging micro-services based on application container technology.As Western Digital targets big data and fast data applications, it said Tegile's product line would allow it to expand its flash memory-based storage options. The deal also gives the buyer more than 1,700 new customers for its enterprise and cloud-based storage platforms.Western Digital is among the world's largest disk drive manufacturers along with main competitor Seagate Technology (NASDAQ: STX). With its heavy focus on big data storage, Western Digital argues that Tegile's \"fast data\" approach would complement its enterprise datacenter efforts by speeding access to stored data.Phil Bullinger, general manager of Western Digital's Data Center Systems unit, said the Tegile acquisition would allow it to \"expand our product offerings in the fast-growing solid-state and hybrid array segments.\" As all-flash storage arrays make their way into datacenters, the company also said the deal would help it capture a larger share of flash array demand.Western Digital has previously invested in Tegile, Newark, Calif., and the partners have collaborated on engineering integration, disk drive supply chains and joint marketing.The deal for Tegile is the latest in the storage sector. In March, Hewlett Packard Enterprise (NYSE: HPE) acquired flash specialist Nimble Inc. for about $1 billion. HPE said Nimble\u2019s predictive flash offerings would complement its 3PAR data storage systems. HPE is integrating Nimble Storage's predictive analytics platform across its current storage offerings.Other storage players such as Dell Technologies' (NYSE: DVMT) EMC storage unit also have made flash storage acquisitions as they compete against a group of agile storage startups such as Pure Storage (NYSE: PSTG).Earlier this week, Western Digital announced its acquisition of Upthere Inc., a consumer-oriented cloud storage service provider.Meanwhile, the deal for Tegile addresses the growing enterprise requirement for flexible storage options as data volumes soar. \"It\u2019s critical that a storage system today supports both block and file storage protocols and accommodate different types of storage mediums, whether it\u2019s all flash, a mixture of flash and disk, or a mixture of high-performance flash and high-density flash,\" Tegile stressed in releasing an industry storage survey.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-08-30 00:00:00",
+    "cats": [
+        "Cloud",
+        "Data Analytics",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "acquisition",
+        "flash storage",
+        "hybrid storage",
+        "Tegile Systems",
+        "Western Digital"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/acquisition/",
+        "https://www.enterpriseai.news/tag/flash-storage/",
+        "https://www.enterpriseai.news/tag/hybrid-storage/",
+        "https://www.enterpriseai.news/tag/tegile-systems/",
+        "https://www.enterpriseai.news/tag/western-digital/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/IBM-magnetic-tape-3-370x290.jpg",
-        "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Sony-sputter-tape-2017-1152x.png",
-        "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/IBM-tape-innovation-slide-Aug-2017.png",
-        "https://secure.gravatar.com/avatar/710729879b3d3843127577cf720a1382?s=80&r=g"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-09-at-2.05.19-PM-370x290.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

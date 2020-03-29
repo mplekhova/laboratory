@@ -1,10 +1,35 @@
 {
-    "title": "Avere Systems Adds Google as Investor",
-    "author": "George Leopold",
-    "date": "2017-03-22 00:00:00",
-    "text": "Avere Systems, the hybrid cloud data storage and management vendor, announced its latest funding round this week that included new investor Google Inc.The $14 million Series E round included existing investors Lightspeed Venture Partners, Menlo Ventures, Norwest Venture Partners, Tenaya Capital and Western Digital Capital. Avere has so far raised $97 million, and said Tuesday (March 21) it would used the latest cash infusion to expand its hybrid cloud offerings as more enterprises shift to public clouds.The Pittsburgh-based vendor's scalable cloud storage platform dubbed FXT Edge Filers targets enterprises trying to integrate applications requiring file systems into the cloud. Along with data storage access, the platform helps scale computing and storage depending on application requirements.The company claimed cloud customers accounted for nearly half its bookings in 2016, helping to nearly double the growth of its cloud business on an annual basis. That has expanded Avere System's customer base to include financial services customers along with media and entertainment as well as healthcare and manufacturers.The addition of Google (NASDAQ: GOOGL) as an investor comes as the public cloud vendor is seeking to differentiate its offerings in the cutthroat public cloud market. Recent moves have included expanded support for Windows Server on the Google Compute Engine as well as the introduction of custom Intel Xeon chips to boost cloud performance.Meanwhile, Avere Systems has also announced partnerships with private cloud storage vendors. In February, the company announced support for Dell EMC's (NYSE: DVMT) Elastic Cloud Storage platform. The partners said the software-defined object storage approach would allow private cloud customers to consolidate content archives and file storage systems in a central repository.The combination lets Dell EMC customers use the Avere Systems file storage platform and accompanying operating system to move stored data between network-attached and object storage resources, including \"bi-directional translation of object APIs to NAS protocols,\" they noted.The partners are betting that the influx of unstructured data will continue to drive requirements for object storage while eliminating the need to rewrite existing enterprise applications to support new interfaces.Among the industry sectors struggling to cope with the rise of unstructured data is financial services. Those requirements are driving hybrid cloud offerings from Avere Systems and other vendors.\"Inevitably, you\u2019ll get faster servers over time, but it seems to me the demand profile will only increase, and the sophistication of the [financial] models is only going to increase, and certainly the data available to process from diverse sources is only going to increase,\" Scott Jeschonek, Avere System's director of cloud products, noted during a recent company webinar.\"Not only that but if you\u2019re a large enough firm you probably have multiple sites [based in] Europe, Asia/Pacific, looking to consume all that.\"George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Seagate Seeks to Drive Down Flash Costs",
+    "text": "The number of all-flash storage options continues to grow as datacenters burst at the seams and operators look for ways to connect legacy and flash storage while reducing cost.The latest entry comes from Seagate Technology (NASDAQ: STX), which like other purveyors of all-flash arrays claims to have made the performance gains of all-flash storage arrays more affordable. The storage specialist rolled out its latest series of all-flash storage and hybrid storage arrays this week, positioning them as \"complementary to existing [hard-disk drive] investments\u2026.\"Seagate, Cupertino, Calif., cites market research on the critical price points for all-flash storage, noting that systems priced at under $100,000 have yet to take off even as analysts peg the all-flash array market at nearly $9.3 billion by 2020.Pricing for Seagate's RealStor arrays with 20 Tb of flash storage capacity and 300,000 IOPS starts at less than $50,000, the company said Monday (April 3). The vendor also emphasizes backward compatibility with legacy hard drive storage, noting that its new flash arrays use \"auto-tiering\" to move data to either flash or hard drives depending on application requirements.That approach, the company noted in a blog post, underscores \"the complementary nature of flash and HDDs in enterprise and cloud deployments.\"The latest RealStor series includes an entry-level version available in what the company calls \"three personalities\": an all-flash version, a hybrid array that mixes flash with hard drive storage and an all-HDD array. The hybrid variant automatically \"promotes\" data to flash storage if faster access is required, otherwise maintaining storage in cheaper hard drives.Seagate's high-end version targets demanding datacenter workloads requiring speed and low latency (as much as sub-300 microseconds for 300,000 IOPS). Performance can be ramped to as much as 400,000 IOPS with 1-millisecond latency, the company added.Seagate's RealStor 5 series is available now.The company followed the all-flash storage rollout with the release a white paper that attempts to quantify the global data explosion. The IDC study commissioned by Seagate predicts a ten-fold boom in global data reaching 163 zettabytes by 2025.Among the drivers of storage requirements are embedded systems and the Internet of Things, streaming and real-time data along with the emergence of machine learning as a data analytics tool. Seagate and other data storage specialist see data analytics as the next big opportunity that could further drive down the cost of all-flash arrays.\"The value of data is really not in the \u2018known\u2019, but in the \u2018unknown\u2019 where we are vastly underestimating the potentials today,\" noted Seagate CEO Steve Luczo.Added IDC's Dave Reinsel: \"Technology innovation will be vitally important to evaluate and fully activate the intricacies of what\u2019s contained within this large volume of data\u2014and storage in particular will continue to grow in importance.\"George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2017-04-04 00:00:00",
+    "cats": [
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "all-flash arrays",
+        "Big Data",
+        "hybrid arrays",
+        "Seagate",
+        "storage"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/all-flash-arrays/",
+        "https://www.enterpriseai.news/tag/big-data/",
+        "https://www.enterpriseai.news/tag/hybrid-arrays/",
+        "https://www.enterpriseai.news/tag/seagate/",
+        "https://www.enterpriseai.news/tag/storage-2/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_cloud_storage-370x228.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/shutterstock_cloud_storage-370x228.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }
