@@ -1,10 +1,49 @@
 {
-    "title": "Kubernetes Adds API, Windows Upgrades",
-    "author": "George Leopold",
-    "date": "2019-09-18 00:00:00",
-    "text": "As the de facto standard Kubernetes cluster orchestrator moves deeper into enterprise IT infrastructure, version updates are coming a faster pace. The third release in 2019 comes with a grand total of 31 \u201cenhancements\u201d in various stages of production readiness ranging from \u201calpha\u201d to \u201cstable.\u201dMany of the latest upgrades target API management and Windows-based containers, allowing Windows workloads to be attached to existing cluster much in the same way as Linux nodes.Kubernetes 1.16 released on Wednesday (Sept. 18) emphasizes the general availability of custom resource definitions (CRD) used to extend orchestrator capabilities by specifying storage and other resources. \u201cThe hard-won lessons of API evolution in Kubernetes have been integrated,\u201d developers noted. \u201cAs we transition to [general availability], the focus is on data consistency for API clients.\u201dThe addition of CRD and other API development tools \u201care enough to build stable APIs that evolve over time, the same way that native Kubernetes resources have changed without breaking backwards-compatibility,\u201d they added.Upstream Kubernetes contributors such as Google (NASDAQ: GOOGL)\u00a0and Red Hat helped marshal the resource manager to production. CRDs \u201care a main extension point for building cloud native applications on Kubernetes,\u201d the IBM (NYSE: IBM) unit said in a blog post. Red Hat has supported CRDs in recent releases of OpenShift and expects to integrate the latest Kubernetes enhancements into its container application platform.The latest release also includes better metrics and the ability to adjust volumes in the Kubernetes container storage interface\u00a0(CSI) introduced last year. The latter allows users to automatically create storage and make it available to application containers whenever they are scheduled for production. Storage can then be deleted when no longer needed.The Kubernetes release team said volume resizing in support of CSI would move up to beta, allowing any CSI-specified volume plugin to be adjusted.Among the beta enhancements for Kubernetes are improved workload options for Windows-based containers, including the ability to carry a container \u201cidentity\u201d across a network while communicating with computing and storage resources. Hence, Windows containers would gain authenticated access to those external resources, developers said.Meanwhile, Kubernetes upgrades moving to alpha include support of the administrator tool\u00a0used to create Kubernetes clusters. For example, the administrator could spin up and add a Windows node to a cluster. The alpha release also includes supports for other Windows container identity steps.Another new feature called \u201cEndpoint Slices\u201d is designed to scale Kubernetes services across enterprise infrastructure. The new feature splits network endpoints into multiple resources, decreasing the amount of updated data as production scales. The result would be a 200-fold decrease in the amount of data transferred in an update.Kubernetes 1.16 is available for download on GitHub.Lately, security vulnerabilities\u00a0have plagued the cluster orchestrator as it handles more production workloads. Most recently, a flaw in a Kubernetes server API allowed intruders to gain unauthorized access to cluster-wide custom resources via standard role-based permissions.While the CRD enhancements announced this week do not specifically address those vulnerabilities, Kubernetes project leaders highlighted formation of a Security Audit Working Group\u00a0as part of \u201can effort to improve the overall security of the ecosystem.\u201dAmong the working group\u2019s duties was identifying third-party vendors to complete a Kubernetes security audit. The Cloud Native Computing Foundation announced last month that two companies were selected:\u00a0Trail of Bits and Atredis Partners.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Amazon Pulls Plug on Oracle Databases",
+    "text": "Amazon Web Services declared victory in its latest skirmish with cloud rival and database leader Oracle, announcing this week it has completed the migration of its consumer business to its internal database services while pulling the plug on its final Oracle database.The migration announced Tuesday (Oct. 15) completes the lift and shift of 75 petabytes of internal data stored in nearly 7,500 Oracle databases to multiple Amazon database services. They include its Aurora, DynamoDB, Redshift and the cloud giant\u2019s Relational Database Service.Jeff Barr, Amazon\u2019s chief evangelist, used the milestone to return fire at Oracle, who\u2019s brash co-founder, executive chairman and CTO Larry Ellison has for example claimed its cloud platform was 100 times faster for database analytics than Amazon Redshift.\u201cOver the years we realized that we were spending too much time managing and scaling thousands of legacy Oracle databases,\u201d Barr noted in a blog post. \u201cInstead of focusing on high-value differentiated work, our database administrators spent a lot of time simply keeping the lights on while transaction rates climbed and the overall amount of stored data mounted.\u201dEllison has boasted that Amazon (NASDAQ: AMZN) was paying Oracle (NYSE: ORCL) $60 million annually for database support and licensing fees\u2014proof Ellison asserted that Amazon\u2019s own database services weren\u2019t up to the task of shifting its operations to the cloud.Barr countered this week that Amazon administrators spent much time \u201cdealing with complex and inefficient hardware provisioning, license management and many other issues that are now best handled by modern, managed database services.\u201dAmazon said the migration included its consumer services, including Alexa, Prime Video, Twitch and Zappos, along with backend fulfillment and transaction services. Those services have been moved to AWS relational, graph and in-memory databased along with key-value stores, in-memory platforms and data warehouses.Along with reducing latency on consumer applications by 40 percent, Barr claimed the migration reduces Amazon\u2019s database costs by more than 60 percent, a metric along with its sheer scale that Amazon claims could save current database customers 90 percent when switching from Oracle to Amazon platforms.In response, Oracle has been restructuring its operations by laying off workers in its legacy sectors while beefing up its cloud operations. In an effort to keep up with cloud leaders AWS and Microsoft (NYSE: ORCL), Oracle announced it was adding about 2,000 new employees to its cloud database operations. During the summer, it began a reorganization by laying off workers in its flash storage and other on-premise units.Oracle, Amazon, IBM (NYSE: IBM) and others are jockeying to dominate a global cloud database market recently pegged at more than $2 billion. According to market forecast released this week by Report Consultant, the cloud database market is forecast to approach $69 billion by 2027.Hence, it\u2019s a good bet the war of words between Amazon and Oracle will continue as more enterprises shift databases to the cloud.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2019-10-17 00:00:00",
+    "cats": [
+        "Cloud",
+        "Data Analytics",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "Amazon",
+        "Amazon Redshift",
+        "AWS",
+        "cloud databases",
+        "Jeff Barr",
+        "Larry Ellison",
+        "Oracle"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/amazon/",
+        "https://www.enterpriseai.news/tag/amazon-redshift/",
+        "https://www.enterpriseai.news/tag/aws/",
+        "https://www.enterpriseai.news/tag/cloud-databases/",
+        "https://www.enterpriseai.news/tag/jeff-barr/",
+        "https://www.enterpriseai.news/tag/larry-ellison/",
+        "https://www.enterpriseai.news/tag/oracle/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/Kubernetes_conductor-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2014/03/database-cloud-logo-370x290.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

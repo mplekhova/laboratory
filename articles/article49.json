@@ -1,10 +1,65 @@
 {
-    "title": "NetApp Stresses Consistency in Hybrid Deployments",
-    "author": "George Leopold",
-    "date": "2019-06-18 00:00:00",
-    "text": "Cloud providers seeking to cash in on the accelerating shift to hybrid and multi-cloud deployments are emphasizing their ability to provide consistent performance across in-house and public cloud installations. That feature, for example, allows developers to migrate and access data regardless of where it is stored.NetApp Inc. is taking the consistency theme a step further with the release this week of data fabric approach that links hybrid and multiple public cloud deployments while allowing customers to use its cloud data services on a consumption basis.The company (NASDAQ: NTAP) said Tuesday (June 18) its new \u201chybrid multi-cloud\u201d offering that includes cloud data services running on its hyperconverged infrastructure is being offered on a consumption basis. Users, for example, running application containers, could tweak persistent storage across public clouds.Persistent storage\u00a0has been identified as a key requirement for adoption of software containers. Hence, storage must be configured to handle those stateful applications. As part of its consistency pitch, NetApp said it is extending that capability to datacenters via is hyperconverged infrastructure.Application developers are grabbing data from a variety of on-premises and cloud platforms, \u201cso consistency becomes a very important construct,\u201d Anthony Lye, general manager of NetApp\u2019s cloud unit, noted in an interview.As it offers developers the ability to work either on-premises or in the public cloud, NetApp also is offering a new Kubernetes cluster orchestrator serviceNetApp also expanded its partnership with public cloud vendors with the beta release of a cloud volumes service running on Google Cloud (NASDAQ: GOOGL). Previously, Microsoft (NASDAQ: MSFT) announced support for a service called Azure NetApp FilesMeanwhile, NetApp is among the cloud vendors promoting the Istio service mesh\u00a0intended to link application components, thereby boosting the capabilities of Kubernetes and the micro-services it orchestrates.Based on that model, NetApp also unveiled a data fabric this week designed to provide a framework for hybrid and multi-cloud deployments. The data fabric is intended to customize everything from data integration to security. \u201cIt\u2019s really about the life cycle of data,\u201d Lye said.Data fabric services include an orchestration tool kit for managing data stored in-house or aboard public clouds as well as a pair of consumption options for on-premise systems or data storage in the cloud.Also this week, Hewlett Packard Enterprise (NYSE: HPE) announced an expansion of its competing GreenLake\u00a0hybrid cloud service that also includes pay-as-you-go pricing.Lye said NetApp\u2019s hybrid multi-cloud services are being launch in public preview, during which potential customers can test them. The new services are scheduled for general availability during the summer of 2019.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "At ISC19: HPC on Pace for 5-Year 6.8% CAGR; Guess Which Hyperscaler Spent $10B+ on IT Last Year?",
+    "text": "In the neck-and-neck horse race for HPC server market share, HPE has hung on to a slim, shrinking lead over Dell EMC \u2013 but if server and storage market shares are combined, Dell EMC has taken a three-plus point lead (29.8 vs 26.5 percent), according to analyst firm Intersect360 Research\u2019s latest HPC market update.Overall, the HPC industry grew by 3.2 percent YoY to $36 billion in 2018, according to the firm, driven by the enterprise sector, now comprising 58 percent of the market, and by the server product category, which captured 35 percent of HPC spending and grew by 9.1 percent.Growth was weighted toward the higher end of the market, with supercomputing-class systems (above $1.5 million expenditures) outpacing all categories, and entry-level systems (under $50,000) trailing. Cloud HPC grew 16 percent to more than $1.2 billion and HPC storage rose by slightly more than 1 percent to $5.7 billion.Countering scattered concerns of another AI winter, Intersect360 reported that $8 billion was spent on machine learning 2018, a whopping 90 percent by hyperscale companies. Within HPC markets, most advanced AI use cases were in the financial services industry, while 56 percent of HPC organizations are running machine learning \u2013 usually with the same hardware as HPC but often with configuration changes (i.e., GPUs). \u201cAI workloads are sweeping through all types of enterprises and research, which is affecting both the HPC and Hyperscale markets. In HPC, we\u2019re seeing not only a measurable effect on top-line budget expectations, but also different technology choices being made to accommodate machine learning workloads.\u201d\u201cThe growth (in HPC) was concentrated in the server market\u2026,\u201d said Addison Snell, Intersect360 Research CEO during a presentation on the floor of the ISC High Performance conference in Frankfurt yesterday. \u201cWhat that means is people were buying heavier nodes \u2013 in this case the biggest effect came from machine learning, with people configuring in more GPUs as part of their server nodes, which made the node relatively more expensive. We also saw storage components getting pulled back into the server, mostly in the form of flash... Now storage is coming back into the node again, but instead of with spinning disk, we see it with flash and NVME components.\u201dLooking ahead, Intersect360 foresees an HPC market CAGR of 6.8 percent over the next five years, surpassing $50 billion in 2023, \u201cbased on strong market fundamentals and increases in machine learning and analytics workloads.\u201dSome of Intersect360\u2019s most interesting findings were in the hyperscale sector, which the firm places in a different category from HPC. Overall, the hyperscale market grew by 30 percent last year to $57 billion, with 11 tier 1 hyperscalers spending more than $1 billion each on IT infrastructure and comprising 81 percent of all hyperscale spending \u2013 with one of them, which Snell declined to name, breaking through the $10 billion barrier for IT spending in a single year. In fact, Snell said, that company spent \u201cwell over\u201d $10 billion.\u201cIf you think people (vendors) are paying attention to hyperscale companies ahead of, say, HPC, consider that a large supercomputer costs on the order of $100 million or more,\u201d Snell said, \u201cbut there are 11 companies that spent more than $1 billion on hyperscale infrastructure in one year, so that\u2019s an order of magnitude greater. So if you get one of those companies, that\u2019s a lot of chips or NICs that you sell.\u201dLooking at HPC revenues by verticals, Intersect360 found that commercial sectors now total 58 percent of the market, led by financial services at 13 percent followed by large product manufacturing and bio-sciences, both at 8 percent, and energy, consumer product manufacturing and retail, each at 5 percent.On the research, or \u201ctraditional HPC,\u201d side of the industry, Intersect360 said the academic/not-for-profit sector had 17 percent of HPC market last year, followed by national security at 11 percent and national research labs at 10 percent.As for HPC server market shares, Dell EMC continues to close on HPE\u2019s lead, now less than a percentage point, Snell said. He added that HPC servers are selling well relative to the rest of HPE server products. \u201cThis is actually about the highest pull through HPE has ever gotten as a proportion of their entire server business,\u201d said Snell, noting that HPE has lost business in the hyperscale sector, including servers sold to Microsoft Azure.\u201dBased on Intersect360 survey results, the \u201ctop named\u201d system suppliers for 2018 were HPE, Dell EMC and Lenovo, accounting for 43 percent share of all mentions, with HPE continuing to account for about one-third of the reported installations, Snell said. Supermicro continues to gain share, according to Intersect360, with 5.2 percent of the systems reported, up from 4.4 percent the previous year.HPE's recent acquisition of Cray will add to HPE's server market share (though Snell said that, according to his latest research, when server and storage market shares are combined, Dell would remain ahead of HPE combined with Cray).\"The HPE-Cray deal puts together two powerhouses in high-performance computing,\" Snell said. \"In 2018, HPE was the market leader for worldwide HPC server revenue for the sixth consecutive year. Meanwhile Cray had the greatest percentage growth in the same category from 2017 to 2018, in addition to its massive exascale wins looking forward. The combination will add to HPE\u2019s position in market revenue while establishing HPE as an elite provider at the apex of the supercomputing market.\"Among storage system suppliers, Snell said DDN, Dell EMC and HPEs\u2019 share of reported storage systems, based on its HPC site census survey, increased slightly from 2017. He said 49 of all active storage systems have 1 petabyte or more of storage capacity.",
+    "author": [
+        "Doug Black",
+        "https://www.enterpriseai.news/author/doug/"
+    ],
+    "date": "2019-06-20 00:00:00",
+    "cats": [
+        "Academia",
+        "AI/ML/DL",
+        "Datacenter",
+        "Energy",
+        "Financial Services",
+        "Government",
+        "Manufacturing",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Front Page",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/sectors/academia-sectors/",
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/sectors/energy-sectors/",
+        "https://www.enterpriseai.news/category/sectors/financial-services-sectors/",
+        "https://www.enterpriseai.news/category/sectors/government-sectors/",
+        "https://www.enterpriseai.news/category/sectors/manufacturing-sectors/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "AI",
+        "dell emc",
+        "HPE",
+        "Intersect360",
+        "isc",
+        "Lenovo",
+        "Machine Learning"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/ai/",
+        "https://www.enterpriseai.news/tag/dell-emc/",
+        "https://www.enterpriseai.news/tag/hpe/",
+        "https://www.enterpriseai.news/tag/intersect360/",
+        "https://www.enterpriseai.news/tag/isc/",
+        "https://www.enterpriseai.news/tag/lenovo/",
+        "https://www.enterpriseai.news/tag/machine-learning/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NetApp-logo.png",
-        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/ISC19-Snell-Server-share-feature-image-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/ISC19-Snell.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/ISC19-Snell-Server-market-share.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/ISC19-Snell-HPC-market-sectors.png"
     ]
 }

@@ -1,10 +1,52 @@
 {
-    "title": "Google, VMware Partner on Hybrid Cloud Tools",
-    "author": "George Leopold",
-    "date": "2018-07-20 00:00:00",
-    "text": "Google and VMware are collaborating on a new cloud plug-in connecting a pair of VMware tools designed to enable provisioning of virtual machines and storage on the search giant\u2019s cloud.The partners this week released a preview version of a Google cloud plug-in for VMware\u2019s vRealize orchestrator and support for the public cloud on the VMware\u2019s platform for automated provisioning. The combination addresses hybrid cloud customers using VMware software on-premises.The partners said Thursday (July 19) the orchestration and automation tools would allow Google users to deploy and manage cloud resources within the vRealize automation tool, including the provisioning of Google Compute Engine virtual machines.Along with reaching new cloud regions and leveraging Google\u2019s load balancing and automatic scaling features, other use cases enabled by the plug-in include tapping into Nvidia (NASDAQ: NVDA) Tesla P100 GPUs running on the Google cloud. (Google began offering the Nvidia GPUs in May\u00a0through its infrastructure-as-a-service offering Compute Engine and on Kubernetes Engine, its\u00a0managed environment for deploying containerized applications.)VMware said the capability could be used for scenarios such as accelerating training of machine learning models.The cloud connection also would allow VMware users to replicate and scale in-house distributed applications in the cloud. \u201cThis plug-in allows you to start provisioning VMs and storage to [the Google cloud] as well as publish blueprints that include Google Compute Engine VMs and storage buckets in your self-service catalog,\u201d Colby Heiner, a VMware cloud product marketing manager, added in a blog post.The plug-in will be available shortly on VMware\u2019s marketplace. VMware (NYSE: VMW) also said it plans to link to more Google cloud services.\u201cWe\u2019re working together with VMware to add support for additional [Google cloud] products such as cloud TPUs,\u201d or Tensor processing units, Shan Kulandaivel, a Google cloud product manager, noted in a separate blog post\u00a0announcing the collaboration.The VMware plug-in is the latest addition to the Google cloud tool chest. Along with a series of tools based on its Kubernetes Engine, Google (NASDAQ: GOOGL) has been steadily adding new cloud features as it strives to keep pace with public cloud leaders Amazon Web Services (NASDAQ: AMZN)and Microsoft Azure (NASDAQ: MSFT). Among them is a new data orchestrator dubbed Cloud Composer, a managed service based on Google\u2019s distribution of the Apache Airflow workflow management tool.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Supercomputer-Powered Enterprise AI Platform from NetApp and Nvidia",
+    "text": "Bestowing the blessings of AI, machine learning and deep learning upon more than the 1 percent means easing entry into the mysteries of AI. This requires new combinations of technologies with capabilities otherwise possessed only by data scientists, those AI-capable unicorns worth their body weights in gold and who are so often lured by bags of gold from the FANG companies and hyperscalers, to the exclusion of the bottom 99 percent. The idea with many new AI solutions is to leapfrog and truncate the agonies of AI initiatives for organizations that have normally intelligent IT staffs, not abnormally.NetApp and Nvidia, two hot-growth Wall Street darlings, have partnered on such an offering, called NetApp Ontap AI, that combines NetApp\u2019s hybrid cloud data services and AFF A800 cloud-connected all-flash storage with Nvidia\u2019s GPU-powered DGX supercomputers.The offering also includes NetApp Data Fabric, a data management technology designed to create an edge-core-cloud data pipeline that integrates diverse data sources and attacks the challenges of controlling distributed data stores so that current and accessible data is available for AI projects.\u201cUnfortunately, many organizations still underestimate how much AI depends on an ability to marshal and manage vast quantities of data,\u201d said Octavian Tanase, SVP of NetApp\u2019s Data ONTAP operating system group, in a blog. \u201c\u2026Ontap AI lets you simplify, accelerate, and scale the data pipeline needed for AI to gain deeper understanding in less time.\u201dOntap AI is driven by Nvidia\u2019s DGX-1, launched in April 2017 and billed as the industry\u2019s first AI supercomputer optimized for deep learning. The system, capable of 1 PFLOP of throughput, includes as many as 256B of GPU RAM and eight Nvidia Tesla V100s Tensor Core GPUs in a hybrid cube-mesh topology using NVIDIA NVLink.\u201cWe\u2019ve worked with NetApp to distill hard-won design insights and best practices into a replicable formula for rolling out an optimal architecture for AI and deep learning,\u201d said Jim McHugh, DGX vice president and general manager at Nvidia. \u201cIt\u2019s a formula that eliminates the guesswork of designing infrastructure, providing an optimal configuration of GPU computing, storage and networking.In his blog, Tanase cited a hypothetical Ontap AI workload: better treatments for asthma, of which there are 25 million sufferers in the U.S. Adding sensors to an asthma inhaler opens a huge opportunity to correlate usage and location information among patients, said Tanase.\u201cCombining patient data with information on weather, air quality, pollen counts, and so on in real time can help patients avoid potential triggers, thereby minimizing risk and improving overall health,\u201d he said. \u201c\u2026The smart inhaler example is a good model for thinking about the requirements of AI at scale. Data flows from thousands of devices at the edge. That data is combined with outside data sets during training in a core on-premises data center with GPU acceleration. The resulting inference model is deployed in the cloud to analyze new data points and identify and act on trigger events.\u201dBut a bottleneck anywhere in the schema idles expensive infrastructure, increases costs and wastes the time of data scientists troubleshooting infrastructure, he said \u2013 and it puts patients at risk. The combination of the NetApp Data Fabric and Nvidia compute have been designed for non-disruptive data access at scale.According to Tanase, Cambridge Consultants, a NetApp customer and AI partner, is\u00a0exploring the potential of smart inhalers using the same technologies in Ontap AI:\u201cIAS is excited to be a launch partner for the Ontap AI proven architecture,\u201d said Amy Rao, CEO of IAS, a VAR. \u201cMoving large datasets from edge to core or core to cloud is becoming impractical, and customers are looking for ways to maximize data value independent of location. The Data Fabric\u2014combined with NetApp cloud-connected all-flash technology and Nvidia GPU-assisted compute and all packaged in a pre-validated configuration\u2014gives customers the choice, control, efficiency, and availability required for deep learning environments.\u201d",
+    "author": [
+        "Doug Black",
+        "https://www.enterpriseai.news/author/doug/"
+    ],
+    "date": "2018-08-03 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Datacenter",
+        "Slider: Front Page",
+        "Slider: Software",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "AI",
+        "data fabric",
+        "GPU computing",
+        "NetApp",
+        "NVIDIA"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/ai/",
+        "https://www.enterpriseai.news/tag/data-fabric/",
+        "https://www.enterpriseai.news/tag/gpu-computing/",
+        "https://www.enterpriseai.news/tag/netapp/",
+        "https://www.enterpriseai.news/tag/nvidia/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/shutterstock_hybrid_cloud-370x228.jpg",
-        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/NetApp-Nvidia-Ontop-AI-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/netapp-logo-300x160.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/NetApp-Nvidia-AI-Cambridge-Consultants.png"
     ]
 }

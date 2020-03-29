@@ -1,10 +1,52 @@
 {
-    "title": "Container Storage Goes Native",
-    "author": "George Leopold",
-    "date": "2019-07-24 00:00:00",
-    "text": "Persistent storage emerged as an early requirement for shifting application containers to full production. Industry standards groups have since taken up the cause by launching so-called \u201ccloud-native\u201d storage projects around key components like the Kubernetes cluster orchestrator.Among those efforts is Rook, an open-source (Apache 2.0) storage effort launched recently by the Cloud Native Computing Foundation (CNCF). Rook is billed as a production-ready storage orchestrator designed to extend Kubernetes while targeting block, file and object storage for platforms like Apache Cassandra.In a phrase, Rook is described as a framework for \u201cstorage resource normalization,\u201d according to Jared Watts, a Rook senior maintainer with Upbound, a Kubernetes vendor targeting multi-cloud platforms.Rook emerged in response to the realization that storage must be tailored to cloud-native environments as application containers and other micro-services shift to production. As container technology gained traction over the last several years, it quickly became apparent that persistent storage was a\u00a0barrier to wider adoption\u00a0of containers in production.CNCF launched Rook as a standard cloud-native storage technology that would allow users to exploit the full potential of container architectures. A stable 1.0 version was released in May.Hence, the storage orchestrator is designed to automate a range of tasks, including storage deployment, configuring, provisioning, scaling and disaster recovery. Running on top of Kubernetes, Rook\u2019s automation tools are intended to manage containers delivering cloud-native applications.Along with the Cassandra database management system, organizers said Rook can orchestrate a variety of storage platforms, including Ceph, CockroachDB and EdgeFS, allowing all to run consistently on Kubernetes. Version 1.0 includes support for the Nautilus, the latest version of Ceph. Other upgrades included EdgeFS adding storage protocol support with OpenStack Swift.Rook proponents note that the cloud-native storage orchestrator allows users to hyper-scale or -converge their storage clusters. It also provisions block, file and object storage among multiple storage providers.CNCF said Rook has been deployed in production \u201cacross multiple industries. As an example of how emerging storage technologies are entering the mainstream, CNCF noted that Rook was used to support a season premiere of HBO\u2019s widely popular Game of Thrones.Further enhancements to the Rook framework are expected to include dynamic provisioning of new storage resources via integration with Crossplane, an open-source controller for multi-cloud deployments.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Xilinx vs. Intel: FPGA Market Leaders Launch Server Accelerator Cards",
+    "text": "The two FPGA market leaders, Intel and Xilinx, both announced new accelerator cards this week designed to handle specialized, compute-intensive workloads and unburden already overworked CPUs in data center servers.Xilinx today announced the Alveo U50 accelerator card, which the company said delivers between 10 and 20x improvements in throughput, latency and power efficiency for \u201cdomain-specific acceleration\u201d of compute, network and storage workloads.The U50 utilizes Xilinx\u2019s UltraScale+ architecture and is the first Alveo product offered in a half-height, half-length form factor and 75-watt power envelope, according to Xilinx. The card has 8GB of high-bandwidth memory (HBM2), more than 400 GBps data transfer speeds, 100 gigabit/second networking connectivity and support for the PCIe Gen 4 and CCIX interconnects.\u201cBy fitting into standard PCIe server slots and using one-third the power, the Alveo U50 significantly expands the scope in which adaptable acceleration can be deployed\u2026,\u201d the company said. \u201cThe high-speed networking I/O also supports advanced applications like NVMe-oF solutions (NVM Express over Fabrics), disaggregated computational storage and specialized financial services applications,\u201d such as electronic trading and financial risk modeling, along with machine learning inference.Salil Raje, EVP/GM of Xilinx\u2019s Data Center Group, said \u201cgrowing demands on the data center are pushing existing infrastructure to its limit, driving the need for adaptable solutions that can optimize performance across a broad range of workloads and extend the lifecycle of existing infrastructure, ultimately reducing TCO.\u201dFor deep learning speech translation inferencing, Xilinx said the Alveo U50 delivers up to 25x lower latency, 10x higher throughput and lower power usage per node compared to GPU-only performance. When running the TPC-H Query benchmark for database query, Xilinx said the U50 delivers 4x higher throughput per hour and reduced operational costs by 3x compared to in-memory CPU performance.In computational storage, Xilinx said the product delivers 20x more compression/decompression throughput and more than 30 percent less cost per node compared to CPU-only nodes, and for network acceleration of electronic trading, the U50 delivers 20x lower latency and sub-500ns trading time compared to CPU-only latency of 10us. Running Monte Carlo financial modeling grid computing simulations, Alveo U50 delivers 7x greater power efficiency compared to GPU-only performance.\u201cWith the smaller design and advanced features of the Alveo U50, Xilinx is well positioned to expand the markets for acceleration with configurable logic,\u201d said Karl Freund, senior analyst, HPC and deep learning, Moor Insights & Strategy. \u201cThe new Alveo U50 should allow them to break through the market noise with demonstrated and dramatic performance advantages in high-growth use cases.\u201dXilinx industry partners AMD, IBM and Western Digital announced support for the product. Xilinx said OEMs are sampling the U50, general availability is scheduled for this fall.Meanwhile, Intel has added the FPGA PAC D5005, the second card in its Programmable Acceleration Card portfolio, and announced that HPE is the first OEM to pre-qualify the card for use with HPE\u2019s ProLiant DL3809 Gen 10 server. The card is based on an Intel Stratix 10 SX FPGA and is designed to provide workload acceleration to servers based on Intel Xeon Scalable processors using the Intel Acceleration Stack, which includes acceleration libraries and development tools.Intel said the FPGA PAC D5005, when compared with Intel Arria 10 GX FPGA, delivers three times the programmable logic, up to 32 GB of DDR4 memory (a 4x increase) and faster Ethernet ports (two 100GE ports versus one 40GE port). \u201cWith a smaller physical and power footprint, the Intel PAC with Intel Arria 10 GX FPGA fits a broader range of servers, while the Intel PAC D5005 is focused on providing a higher level of acceleration,\u201d the company said.To make that happen, Intel needed to beef up the FPGA PAC D5005\u2019s power and form factor. Whereas the single-slot Arria 10 GX FPGA is full height/half-length with a peak power rating of 70W, the two-slot PAC D5005 is full height/three-quarter length with a power rating of 215W.The FPGA PAC D5005 targets compute-intensive applications such as streaming analytics, artificial intelligence (including speech to text), and media transcoding. \u201cData center customers use hardware accelerators for specific workloads that can most benefit from FPGA-based hardware acceleration,\u201d the company said. \u201cDiverting such tasks to tailored hardware accelerators offloads suitable workloads and frees a server\u2019s CPU cycles for higher-value workloads. Offloading appropriate workloads lowers the data center operator\u2019s total cost of ownership.\u201dWhile it\u2019s been estimated that Xilinx has a roughly 60-40 FPGA market share lead over Intel, the overall market as of last year was sized at $1.8 billion,\u00a0according to industry watcher Market Research Future,\u00a0and is expected to rise at a CAGR of nearly 11 percent through 2025.",
+    "author": [
+        "Doug Black",
+        "https://www.enterpriseai.news/author/doug/"
+    ],
+    "date": "2019-08-06 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Front Page",
+        "Slider: Silicon",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-silicon/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "FPGAs",
+        "HPE",
+        "HPE ProLiant",
+        "Intel FPGA",
+        "Xilinx FPGA"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/fpgas/",
+        "https://www.enterpriseai.news/tag/hpe/",
+        "https://www.enterpriseai.news/tag/hpe-proliant/",
+        "https://www.enterpriseai.news/tag/intel-fpga/",
+        "https://www.enterpriseai.news/tag/xilinx-fpga/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/Rook_storage_CNCF-370x290.png",
-        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/FPGA-shutterstock_497763238-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Xilinx-Alveo-U50-0819.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Intel-FPGA-PAC-D5005-0819.jpg"
     ]
 }

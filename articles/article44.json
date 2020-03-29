@@ -1,10 +1,59 @@
 {
-    "title": "Cloudian, Seagate Partner on AI Cloud Storage",
-    "author": "George Leopold",
-    "date": "2019-06-25 00:00:00",
-    "text": "Data storage technology vendors Cloudian and Seagate Technology are teaming on a private cloud storage platform aimed at AI and network edge workloads.The storage partners said they are delivering exabyte scale private cloud storage with much greater densities in a system aimed at \u201ccapacity-intensive\u201d workloads requiring tens of petabytes of storage. Cloudian specializes in object storage platforms while Seagate (NASDAQ: STX) provides high-density storage drives.Looking to outdo emerging storage-as-a-service vendors, the partners said Tuesday (June 25) their scale-out storage package delivers up to 83 percent greater density. It combines Cloudian\u2019s object storage software that is compatible with Amazon Web Services\u2019 (NASDAQ: AMZN)\u00a0Simple Storage Service (S3) with Seagate\u2019s high-density data storage drives.Seagate, Cupertino, Calif., noted that the emergence of the S3 API as a de facto standard for cloud storage motivated its partnership with Cloudian.The storage vendors are betting more customers will shift to private clouds as AI, machine learning, edge and other demanding workloads drive demand for ready access to large data sets. They cited estimates that IT infrastructure spending will jump more than 50 percent between now and 2023 as traditional datacenter spending declines.The partners also make the case the current storage-as-a-service offerings lack the scaling capacity required for \u201csuper-capacity\u201d uses cases while traditional storage cannot keep pace with data access requirements.\u201cPrivate clouds are quickly becoming a viable data storage option in the quest to provide faster data collection and analysis for connected devices,\u201d Seagate noted in a blog post. \u201cPrivate clouds are critical to enabling the real-time information collected by trillions of devices.\u201dThe partners noted that private clouds are speeding data processing at the edge, a configuration requiring faster input and output speeds. Hence, Seagate developed application platforms that store large amounts of unstructured data using object-based storage. Its high-capacity drive bays handle up to 1.6 petabytes of data storage in four rack units \u201cwhile presenting all storage as a single pool,\u201d the partners said.Storage costs are estimated to be half a cent per gigabyte a month.For its part, Cloudian said its software-defined storage technology would expand access to Seagate\u2019s high-density capabilities previously available to only a few hyperscale storage users.Cloudian, San Mateo, Calif., said the private clouds storage platform will be released next month through the company and its resellers.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Mellanox Partners with Storage Startups",
+    "text": "As GPU leader Nvidia closes its $6.9 billion acquisition\u00a0of Mellanox Technologies announced earlier this year, the HPC network interconnect specialist\u2019s venture arm remains active, investing in two storage startups.Mellanox Capital did not disclose the amounts of its investments in storage startups CNEX Labs\u00a0and Pliops, but did announced strategic partnerships with both companies.Pliops, which is developing a storage processor aimed at accelerating database performance. Earlier this year, Israel-based Pliops raised $30 million in a funding round led by SoftBank (OTCMKTS: SFTBY), Intel and Western Digital Corp. (NASDAQ: WDC) are also early investors.Founded in 2017 by flash storage veterans from M-Systems, Samsung (KRX: 005930) and XtremIO, Pliops is developing storage processing technology that would enable cloud and enterprise customers to access data as much as 100 times faster while reducing computational loads and power consumption. That capability would help upgrade datacenter infrastructure to better handle cloud as well as data-intensive machine learning workloads.Pliops describes its proprietary technology as combining several \u201cinefficient layers\u201d in the stack into a single storage processor.The partnership with Mellanox Technologies\u2019 (NASDAQ: MLNX) would combine its high-end networking technologies with Pliops\u2019 processors to boost networked storage efficiency, the partners said this week.Mellanox said the Pliops investment would allow it to accelerate deployment of \u201cscale-out storage and data-intensive analytics tools\u201d based on its distributed computing and disaggregated storage approach used to improve the performance of AI and analytics applications.Launched in 2013, CNEX Labs specializes storage ASICs and related software used in enterprise datacenters. Prior to the Mellanox investment, CNEX had raised more than $85 million from funders that include Dell Technologies Capital, according to the website Crunchbase.com.San Jose-based CNEX said its partnership with Mellanox would combine its next-generation flash storage controllers with low-latency networked storage from Mellanox.The motivation for the investments and technology partnership is to \u201cbring compute closer to storage to access and monetize the business value of data,\u201d Mellanox said.Nvidia (NASDAQ: NVDA) reportedly outbid Intel and Microsoft to acquire Mellanox Technologies in March. The networking specialist\u2019s Ethernet and InfiniBand interconnects are used in more than half of the world\u2019s most advanced HPC systems.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2019-07-10 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Networks",
+        "Silicon",
+        "Slider: Cloud",
+        "Slider: Networks",
+        "Slider: Silicon",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/networks/",
+        "https://www.enterpriseai.news/category/silicon/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-silicon/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "AI",
+        "ASICs",
+        "CNEX Labs",
+        "flash storage",
+        "Machine Learning",
+        "Mellanox",
+        "networking",
+        "Nividia",
+        "Pliops",
+        "storage"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/ai/",
+        "https://www.enterpriseai.news/tag/asics/",
+        "https://www.enterpriseai.news/tag/cnex-labs/",
+        "https://www.enterpriseai.news/tag/flash-storage/",
+        "https://www.enterpriseai.news/tag/machine-learning/",
+        "https://www.enterpriseai.news/tag/mellanox/",
+        "https://www.enterpriseai.news/tag/networking-2/",
+        "https://www.enterpriseai.news/tag/nividia/",
+        "https://www.enterpriseai.news/tag/pliops/",
+        "https://www.enterpriseai.news/tag/storage-2/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-28-at-9.34.16-AM-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/data-storage-generic-big-data-systems-shutterstock_409479163--370x290.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

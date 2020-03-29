@@ -1,11 +1,49 @@
 {
-    "title": "HPE Guarantees 100% Uptime with Primera Storage",
-    "author": "no author",
-    "date": "2019-06-19 00:00:00",
-    "text": "Enterprises will no longer need to compromise between agility and reliability when it comes to their high-end storage environments according to Hewlett Packard Enterprise, which today unveiled Primera, a new high-end storage array that\u2019s essentially self-managing and uses AI techniques to deliver 100% reliability guaranteed.HPE\u00a0 has no shortage of tier-one, enterprise-class storage options, with Nimble, 3PAR, and XP7 product lines. The new Primera offering borrows some technology from those existing product, including the InfoSight AI capabilities developed by Nimble and the underlying distributed storage architecture of 3PAR.When it becomes available for order in August, Primera will become the company\u2019s number one enterprise-class storage option going forward, HPE executives said today at HPE Discover, the company\u2019s annual user conference, which is taking place this week in Las Vegas, Nevada.Primera will be best utilized on enterprise workloads that are both mission critical and unpredictable. Currently, enterprises must sacrifice simplicity for their storage network if they want the reliability that critical applications require.\u201cBut what if you could get both?\u201d asks Sandeep Singh, HPE\u2019s vice president of storage marketing. Companies are looking to accelerate \u201cpretty much everything,\u201d Singh says. \u201cThe challenge is as they do this the IT is tied down with complexity\u2026but the business and developers are demanding agility across the board.Digital transformation is driving higher levels of complexity into the storage environments of enterprises, HPE says. While traditional business applications have always demand enterprise-class storage with high uptime guarantees, they haven\u2019t been overly complex.That relative level of stability is changing as these critical business applications are broken up into services, served via containers, and hosted on constantly changing compostable infrastructures. Emerging big data use cases, such as machine learning, are also giving enterprises unpredictable workloads.These are targets for Primera, says Milan Shetti, senior vice president and general manager of storage and big data at HPE. \u201cWe want to organize the complex and unpredictable workloads of the world using intelligence,\u201d Shetti says. \u201cThat\u2019s the core philosophy of what we\u2019re trying to do.\u201dThe key organizational element underlying Primera is InfoSight, the machine learning-powered service developed by Nimble, which HPE\u00a0acquired back in 2017. HPE says InfoSight has analyzed quadrillions of data points over the past decade as it learned what sorts of activities and events in the network, storage, servers, virtual machines, and application layers can impact the availability of the storage array. Along the way, it has helped customers avoid 1.5 million hours of downtime in their storage arrays.InfoSight, which is backed by 25 data scientists at HPE who utilizes common big data components, like Spark, Hadoop, and Juptyer, is the core element that HPE is counting on to enable Primera to be mostly self-managing. When InfoSight detects a potential problem, HPE will take action that addresses the situation and hopefully resolves it, which HPE says makes Primera a core component of its \u201cIntelligent Data Platform.\u201dHPE says more than 90% of the problems that arise with storage arrays originate above the storage layer \u2014 specifically, in the network, server, and virtualization layers. That\u2019s one of the reasons why HPE is so confident that customers will avoid downtime with Primera that it\u2019s attaching a 100% availability guarantee to the product.Other storage systems may offer six nines, but that\u2019s not 100%, says Philip Davis, president of hybrid IT and chief sales officer for HPE. \u201cNot 99.9%, not six 9s. 100% availability on Primara,\u201d he says. \u201cThat\u2019s pretty available.\u201dIt\u2019s amazing how many outages you see because the fiber optic cable has too much of a bend in it and started introducing too much noise, Davis says. \u201cSilly things like that. We\u2019ve greatly simplified that. There\u2019s only six cables now in total. Plug in six cables, literally click a button, and you go from rack to applications running in less than 20 minutes. So a very different user experience.\u201dIf customers do experience an outage with Primera, they will receive an outage credit that\u2019s worth up to 20% of the value that can be utilized for future upgrades and purchases, HPE says. To be eligible, they must have Infosight and be signed up for HPE Proactive Care or higher.When it\u2019s available, customers will be able to deploy Primera either on-premise or as a cloud service through the HPE GreenLake.This article first appeared on sister site\u00a0Datanami.",
+    "title": "Vulnerabilities Surface as Kubernetes is Upgraded",
+    "text": "The second release this year of the upgraded Kubernetes cluster orchestrator includes no less than 26 enhancements, including three deemed to be \u201cstable.\u201dMeanwhile, another security issue has turned up in a Kubernetes interface used to run commands against Kubernetes clusters.Community leaders noted that the latest Kubernetes upgrade focuses on easing installation, configuring and upgrading the cluster orchestrator widely used to deliver applications and other micro-services. For example, a tool called kubeadm graduated to beta, enabling users to become more familiar with configuring and deploying so-called \u201chigh-availability\u201d clusters.The new version also delivers greater functionality for the Kubernetes container storage interface, including a new capability called \u201cvolume cloning\u201d that can be used when provisioning a new storage volume.As Kubernetes gains traction as an enterprise de facto standard, project managers stressed the latest release also looks beyond new features to unsure greater stability. Kubernetes developers \u201chave been working on improving test coverage, ensuring the basics stay reliable and stability of the core feature set and working on maturing existing features and cleaning up the backlog,\u201d the group said in a blog post.Kubernetes 1.15 is available for download on GitHub. The exploding Kubernetes community recommends using the kubeadm\u00a0tool, defined as a \u201clifecycle building block,\u201d to launch an initial production Kubernetes cluster conforming with best practices.A blog detailing Kubernetes 1.15 upgrades is available here.Broader use of the cluster orchestrator has also attracted security threats as hackers probe for weaknesses. Another vulnerability was disclosed over the weekend affecting the kubectl command interface. The security gap could, for example, allow an intruder to install a malicious container that could replace or create files on an infected machine. The client-side defect is listed as \u201chigh severity,\u201d and users of older versions are urged to upgrade their systems. Installation instructions are here.Container security specialists said Monday (June 24) the vulnerability likely stems from incomplete fixes to a previously disclosed security threat. \u201cThis vulnerability is concerning because it would allow an attacker to overwrite sensitive file paths or add files that are malicious programs, which could then be leveraged to compromise significant portions of Kubernetes environments,\u201d said Wei Lien Dang, co-founder and vice president of products at StackRox, a container and Kubernetes security vendor.\u201cWe expect that this vulnerability is one of several that will be disclosed as a result of the security audit\u201d sponsored by the Cloud Native Computing Foundation, StackRox added.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2019-06-24 00:00:00",
+    "cats": [
+        "Cloud",
+        "Security",
+        "Slider: Cloud",
+        "Slider: Security",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-security/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "CNCF",
+        "containers",
+        "Kubeadm",
+        "kubectl",
+        "Kubernetes",
+        "StackRox"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/cncf/",
+        "https://www.enterpriseai.news/tag/containers/",
+        "https://www.enterpriseai.news/tag/kubeadm/",
+        "https://www.enterpriseai.news/tag/kubectl/",
+        "https://www.enterpriseai.news/tag/kubernetes/",
+        "https://www.enterpriseai.news/tag/stackrox/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/HPE-Storage_Primera_FrontTop_Bezel-300x248.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/HPE-Storage_Primera_FrontTop_Bezel-300x248-300x248.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/Primera_architecture-295x300.png"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-16-at-12.05.38-PM-370x290.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

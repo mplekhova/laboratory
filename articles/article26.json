@@ -1,10 +1,57 @@
 {
-    "title": "Hybrid Approach Emerges for AI Workloads",
-    "author": "George Leopold",
-    "date": "2019-09-24 00:00:00",
-    "text": "The discussion surrounding enterprise adoption of AI technologies is shifting from if to when, and what mix of IT infrastructure will be required to deploy and scale machine learning and other workloads.HPC vendors that have been making inroads in the enterprise market view AI as another opportunity. Among them is supercomputer leader Cray Inc. (NASDAQ: CRAY) which released an industry survey earlier this month that claims a growing shift toward HPC platforms to handle AI workloads. Much of the AI-dedicated hardware is on-premise as early adopters hustle to keep pace with growing computing and storage demands, the vendor survey found.Few would doubt Cray\u2019s assertion that HPC will play a leading role in enterprise adoption of AI. How that infrastructure is configured and whether, as Cray asserts, much of it will remain on-premise in the form of supercomputers and HPC clusters remains to be seen.The Cray survey of more than 300 IT administrators notes that nearly 40 percent are using in-house systems to crunch AI workloads. Among the priorities are better performance and what the survey calls \u201cdata locality [and] security.\u201dWhat\u2019s more, the survey found that 65 percent of respondents with AI applications plan to expand in-house infrastructure to meet performance requirements.Those findings run counter to recent efforts by cloud partners to make AI workload processing more widely available. For example, Amazon Web Services (NASDAQ: AMZN) and GPU leader Nvidia (NASDAQ: NVDA) are teaming to make the latest graphics accelerators available via the public cloud for AI workloads such as machine learning inference. AWS announced last week it was offering new G4 cloud instances that combine Nvidia T4 Tensor Core GPUs, second-generation Intel Xeon Scalable processors along with increased network bandwidth and local storage to handle enterprise machine learning applications.Hence, it appears a hybrid approach to running enterprise AI workloads is emerging, a trend the Cray survey acknowledges. While a majority of respondents are staying in-house with AI workloads, more than 50 percent said they are currently running AI workloads on public cloud services. That number could increase as major vendors offer more cloud instances that include graphics acceleration and other AI-oriented infrastructure.Nevertheless, the Cray survey found that 36 percent of those polled are seeking to move at least some of the cloud workloads to on-premise infrastructure, much of it presumably powered by HPC systems. Cray\u2019s takeaway is that more IT managers will seek to keep critical AI applications in-house running on exascale-class systems such as its Shasta platform.\u201cThe use of cloud-based solutions for AI has garnered much public attention,\u201d the enterprise AI survey notes. Still, it concludes, \u201ccloud is not the only choice for enterprise AI workflows. A large percentage of organizations are utilizing on-premises infrastructure for their AI projects and many see the need to expand these on-premises systems in order to keep up with growing performance demands.\u201dThe Cray AI survey is available here.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Gartner: As AI Goes Mainstream, So Do New Security Threats",
+    "text": "As if there weren\u2019t enough security challenges, a forecast for the coming year warns the brave new world of AI and machine learning brings with it a whole new set of threats as microservices, the Internet of Things and multi-cloud deployments expand attack surfaces for hackers constantly probing for weaknesses.Market analyst Gartner\u2019s list of key technology trends for 2020 includes a compelling list of emerging trends, ranging from \u201chyper-automation\u201d to the \u201cdemocratization of expertise.\u201d Still, these emerging capabilities come with a price: As AI and machine learning add another layer of technological complexity, \u201cSecurity generalists cannot address the wide spectrum of risks efficiently in the current\u00a0risk landscape,\u201d Gartner has warned.The connection of platforms, edge devices and users expecting instant access to data\u2014structured and unstructured\u2014has raised the stakes for security as AI and machine learning enter the enterprise mainstream. \u201cSecurity and risk leaders should focus on three key areas \u2014 protecting AI-powered systems, leveraging AI to enhance security defense and anticipating nefarious use of AI by attackers,\u201d the market analyst warned in its rankings of AI-centric emerging technologies.Despite those heightened security concerns, a range of new technologies appear headed to wider enterprise adoption, Gartner said. Along with hyper-automation\u2014defined as the combination of machine learning, software and automation tools geared to performing specific tasks--Gartner foresees \u201cmulti-experience\u201d platforms including virtual, augment and mixed reality entering the mainstream in 2020.Technical expertise in the form of machine learning and application development is expected to fuel business segments ranging from economic analysis to sales and marketing, Gartner said in a survey of promising technologies released this week. Citizen data scientists are among the prime examples, but others including the \u201cevolution of citizen developers\u201d leveraging no-code models are also expected to emerge in 2020.Those efforts are driven by the ability to download open-source code and frameworks from platforms like GitHub. The problem, veteran software developers note, is that ease-of-use comes with a price in terms of security, reliability and other considerations.Meanwhile, edge computing and evolving cloud services are pushing ever-greater computing and storage capabilities deeper into enterprises. \u201cEdge computing will become a dominant factor across virtually all industries and use cases as the edge is empowered with increasingly more sophisticated and specialized computing resources and more data storage,\u201d said Brian Burke, a Gartner research vice president. \u201cComplex edge devices, including robots, drones, autonomous vehicles and operational systems will accelerate this shift.\u201dThe uptake in public cloud services is also expected to gain momentum as multi-cloud deployments give way to what Gartner dubs the \u201cdistributed cloud.\u201d That architecture is expected to transform deployments as public cloud providers take greater \u201cresponsibility for the operation, governance, updates to and evolution of the services,\u201d Gartner forecasts.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2019-10-21 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Data Analytics",
+        "Edge/IOT",
+        "Security",
+        "Slider: Edge/IOT",
+        "Slider: Front Page",
+        "Slider: Security",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/edge-iot/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/slider-edge-iot/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-security/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "AI",
+        "distributed cloud",
+        "Gartner",
+        "hyper-automation",
+        "Machine Learning",
+        "multi-experience platforms"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/ai/",
+        "https://www.enterpriseai.news/tag/distributed-cloud/",
+        "https://www.enterpriseai.news/tag/gartner/",
+        "https://www.enterpriseai.news/tag/hyper-automation/",
+        "https://www.enterpriseai.news/tag/machine-learning/",
+        "https://www.enterpriseai.news/tag/multi-experience-platforms/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/HPE-Cray_530x-370x255.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-13-at-12.09.11-PM-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

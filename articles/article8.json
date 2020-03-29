@@ -1,10 +1,59 @@
 {
-    "title": "Container Storage Link Adds Persistence in a Flash",
-    "author": "George Leopold",
-    "date": "2020-01-16 00:00:00",
-    "text": "As application containers took off in the mid-2010s, persistent storage emerged as a key barrier to adoption. With containers now entering the mainstream for handling machine and deep learning applications, more vendors are focusing on storage interfaces that can link huge data volumes along with flash memory to container orchestration platforms.Among them is VAST Data, which this week announced general availability of a container storage interface designed to deploy and manage storage services across a range of standard container platforms. Along with making the shift to flash memory more affordable, the company said Thursday (Jan. 16) its storage interface enables \u201cprogrammatic provisioning\u201d of persistent storage volumes on container orchestration platforms like Kubernetes and Red Hat OpenShift.VAST Data\u2019s interface builds on the New York-based storage vendor\u2019s \u201cuniversal storage architecture\u201d released in February 2019. The framework incorporates 3D Xpoint and quad-level cell flash memories along with NVMe-over-fabric.The company said its storage algorithms are designed to reduce the cost of transferring data to those flash technologies, thereby enabling all-flash applications running in containers.Read the full story here at sister web site Datanami.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Dell at the Edge: Servers, Data Centers and Software for Deployment Anywhere",
+    "text": "Dell Technologies launched servers, a modular data center, telemetry management and streaming analytics software this week designed for the growing volumes of enterprise-generated data created and processed outside of data centers and the cloud \u2013 at the edge.Dell has long touted its integrated edge-core-cloud strategy, with the ultimate goal of supporting a future in which data emanates from virtually any object (Gartner: within two years, more than half of enterprise-generated data will be created and processed at the edge), is processed and produces analytics insights in near time. The \u201cAI Everywhere\u201d future will be enabled by the \u201choly trinity\u201d of high performance computing, high speed networks and rapid machine learning.The challenges in achieving all this are many, particularly at the edge, whose demanding characteristics include high bandwidth, IT and security skills, space constraints, extreme weather, efficient power consumption and low latency, with the overriding need to deploy applications and infrastructure close to the point of data creation.With its announcement this week, Dell \u2013 one among many companies building out technologies to support this vision \u2013 showed how its approach is taking form.Leading its new edge products and available starting next month, the Dell EMC PowerEdge XE2420 is a dense, \u201cshort depth,\u201d high-performance server designed for space-constrained and challenging operating conditions, the company said. Capable of supporting 5G implementations, it\u2019s a two-socket system with capacity for up to four accelerators and 92TB of storage, and it has a ruggedized, Network Equipment-Building System certification with extended temperature tolerance and a filtered bezel for dusty locations, according to the company.The Dell EMC Modular Data Center Micro 415 is shorter and narrower than a parking spot, Dell said, and offers pre-integrated, enterprise-level data center IT, power, cooling and remote management. Available in the second half of this year, the company said complete details on the product are not yet available. Conceptually, the MDC Micro is designed for non-data center locations, such as the base of a telecommunications cell tower, Dell said, and \u201cprovides enhanced physical protection for IT equipment at the edge with extreme temperature-resistant enclosures, key lock doors and option for smoke detection and fire suppression.\u201d Its enclosure supports up to 17U of compute and storage, it can operate in temperatures ranging from -40\u00b0C to 55\u00b0C, is compatible with short-depth and standard servers and utilizes integrated closed-loop cooling for environmental control.Available now, the Dell EMC iDRAC9 Data Center software is intended to provide remote access \u201cfor a consistent, more secure server management experience from the edge to the core to the cloud,\u201d the company said. Its embedded management technology delivers streaming data analytics for understanding edge operations with up to 20 metric reports providing nearly 2.9 million data points per server, according to Dell, significantly reduce administrator-attended time per server compared to manual deployments. \u201cWith streaming telemetry on iDRAC9, customers can discover trends, fine tune operations, and create predictive analytics to help ensure peak performance, reduce downtime and prevent risk,\u201d Dell said.The Dell EMC Streaming Data Platform, for ingestion and analysis of edge streaming data, is designed to simplify infrastructure management and to enable improvements in the data infrastructure. Able to handle streaming and non-streaming data, the platform provides auto-scaling ingestion, tiered storage with historical recall on-demand and unified analytics for both real-time and historical business insights, Dell said.\u201cAs we enter the next data decade, the challenge moves from keeping pace with volumes of data to gaining valuable insights from the many types of data and touchpoints across various edge locations to core data centers and public clouds,\u201d said Jeff Boudreau, president, Infrastructure Solutions Group, Dell Technologies. \u201cWe offer a portfolio that\u2019s engineered to help customers address the constraints of edge operations and deliver analytics for greater business insights wherever their edge may be.\u201d",
+    "author": [
+        "Doug Black",
+        "https://www.enterpriseai.news/author/doug/"
+    ],
+    "date": "2020-02-20 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Datacenter",
+        "Edge/IOT",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Edge/IOT",
+        "Slider: Software",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/edge-iot/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-edge-iot/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "AIoT",
+        "dell emc",
+        "Gartner",
+        "iot",
+        "PowerEdge"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/aiot/",
+        "https://www.enterpriseai.news/tag/dell-emc/",
+        "https://www.enterpriseai.news/tag/gartner/",
+        "https://www.enterpriseai.news/tag/iot/",
+        "https://www.enterpriseai.news/tag/poweredge/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-07-at-12.25.11-PM.png",
-        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Dell-EMC-edge-IoT-slide-0220-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Dell-EMC-Poweredge-XE2420.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Dell-EMC-MDC-Micro.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Dell-EMC-edge-IoT-slide-0220.png"
     ]
 }

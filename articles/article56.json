@@ -1,9 +1,63 @@
 {
-    "title": "\u2018Computational Storage\u2019: Edge Intelligence for Next-Gen IoT",
-    "author": "no author",
-    "date": "2019-04-30 00:00:00",
-    "text": "The intelligent edge has gained much buzz recently, including interesting comments from Microsoft CEO Satya Nadella during a keynote at Mobile World Congress. But as IoT devices and applications become more advanced, producing more data and demanding greater speed and power, the need arises for a more efficient edge computing approach.Consider a common IoT product, such as a connected refrigerator. It can link with your phone or laptop to let you see temperature, adjust ice settings and even stream music or video. That\u2019s pretty awesome, but a truly intelligent refrigerator can do far more, telling you how much milk is left, estimate calories or gauge spoilage. Early edge computing platforms leveraged common server and storage technology as sufficient for supporting the traditional type of IoT devices and apps. However, intelligent edge platforms are needed to support more advanced functions, which involve far more data. To become intelligent, edge platforms require major innovations to introduce new efficiencies and help manage how to analyze and manage the date in the most effective way.The example above and other next-generation IoT use cases involve moving large quantities of data, which is always challenging. Even with the advent of 5G, moving big data sets to and from edge networks creates major bottlenecks, since these datasets are approaching petabyte scale. This challenges existing edge platforms as they utilize a typical Von Neumann computing architecture. Due to the size and power constraints of edge platforms, adding core CPU processing to an edge platform hasn\u2019t been feasible. Simply increasing the number of systems in a deployment is impossible because of the same size and power limits.For edge platforms to bridge this gap and become intelligent they need innovative architectures. Vendors are attempting to address the challenge of data movement by delivering disaggregated solutions, such as NVMe-oF fabrics, composable architectures and GPU and FPGA accelerators. While these can speed up the process to some degree, they don\u2019t move the needle enough to make next-generation IoT use cases work smoothly. All these solutions involve space and power needs that may not exist, and they are not innovating the way to move and manage the stored data itself.But what if you didn\u2019t need to move all that data?\u201cComputational storage\u201d is a new approach that minimizes data movement and creates intelligent edge computing with intelligent storage. In-situ processing is the key to computational storage. It creates data processing capabilities within storage devices, such as NVMe SSDs, eliminating the need for total data movement. In-situ processing solves the problem outlined above by bringing compute capabilities to the where the data resides. This allows you to pre-process data rather than move all the data for host CPU processing, which will be\u00a0faster and more efficient. Overall, computational storage has the capability to reduce the time to process a petabyte of data for high capacity-driven, read-intensive analytics applications.And it\u2019s not hard to deploy. Computational storage does not require a true ground-up approach and instead can be implemented by modifying existing edge platforms, making adoption easier and more scalable. \u00a0In essence, the concept is to take a host-driven and memory-limited application and execute that workload in each device installed on the storage bus. In one case, where 4 cores are present, if you have a system with 10 drives, you have effectively added 40 cores of parallel processing to the system with no net physical changes or adds, save using computational storage SSDs instead of the traditional ones. The ability to move compute into storage, where the data resides, saves host CPU and memory from the traditional round robin (data from storage into memory, analyze, dump, repeat) data management. Instead the host CPU simply has to aggregate the results from all the parallel paths.By eliminating most data movement, computational storage and in-situ processing remove a major bottleneck that has prevented more advanced IoT applications from taking off. This method ensures that the data gathered by these platforms can deliver on its promise of improving analytics and enabling important new use cases.Imagine a commercial jet that can determine in seconds rather than\u00a0hours what its maintenance needs are as it sits outside the gate before its next takeoff. Another great example of an edge implementation is object tracking in surveillance. Consider a remote camera platform that can analyze and track a single person in a stadium in real time by running the AI-based search algorithm while the data is being stored on cameras. No need to \u2018look back\u2019 over the data. We can even take this to the Autonomous \u201canything,\u201d in which telemetry, statistics and use parameters are all stored locally to the machine and only the truly valuable bits are sent \u201cover the air\u201d via 5G, saving bandwidth and allowing for faster aggregation of data from all the inputs. The next generation of advanced IoT will rely on an intelligent edge infrastructure that\u2019s powered by computational storage.Scott Shadley is principal technologist, NGD Systems.",
+    "title": "Kubernetes Seen Driving Bare-Metal Comeback",
+    "text": "Hardware vendors are betting the transition to 5G wireless networks supporting myriad connected consumer and industrial devices also will accelerate the shift to heavy-duty bare-metal servers as a way to provision cloud-native tools like the Kubernetes cluster orchestrator.The expansion of the Kubernetes ecosystem as a de facto standard for managing application containers is reflected in adoption of the micro-services framework by cloud vendors and, now, networking specialists designing new hardware approaches to break network bottlenecks.Among them is high-performance interconnect specialist Mellanox Technologies (NASDAQ: MLNX), which is pitching a smart network integration card as a way for service providers and companies switching to cloud-native operations to provision Kubernetes on emerging bare-metal clouds.The soon-to-be-Nvidia (NASDAQ: NVDA) unit is rolling out a programmable network adapter that integrates its architecture with a set of Arm processors. The combination of programmable hardware acceleration engines with new networking capabilities and a dash of networking software is intended as a platform for bare-metal provisioning of Kubernetes clusters along with storage virtualization.Mellanox noted in a blog post\u00a0that companies and service providers are turning to bare-metal Kubernetes as they deploy more workloads at the network edge, especially industrial Internet of Things applications. \u201cBare-metal servers that provide direct hardware access, coupled with a leading-edge computing software stack, typically outperform hypervisor-based platforms at the edge,\u201d said Itay Ozery, senior product manager at Mellanox.That approach dovetails with Nvidia CEO Jensen Huang\u2019s assertion in March when Nvidia acquired Mellanox\u00a0that \u201cfuture datacenters of all kinds will be built like high performance computers,\u201d especially as IoT and other edge deployments accelerate.The bare metal approach also is being touted as a way to simplify virtualized storage. Mellanox said its proprietary NVM Express technology would allow cloud operators to virtualize Kubernetes bare-metal storage without sacrificing application performance.Those enhancements illustrate how virtualization is advancing in parallel with Kubernetes adoption, observers note. Virtual machine \u201cusage is evolving across multiple layers of the Kubernetes stack,\u201d Joe Fernandes, Red Hat\u2019s vice president of products and cloud platforms, noted in a recent commentary.Among the drivers of bare-metal provisioning of Kubernetes are the demands placed on infrastructure struggling to handle high-end workloads like big data analytics and machine learning. \u201cThese are driving system architects and cloud operators to take the hypervisor out of the equation and achieve better application performance straight on metal,\u201d Mellanox said.As cloud-native applications are built from the ground up, Kubernetes is increasingly seen the preferred micro-services framework for handling AI application workloads. Among the advantages is its ability to abstract infrastructure, allowing data scientists and developers to focus on applications while infrastructure runs in the background.Red Hat (NYSE: RHT) and others also see a resurgence in bare-metal provisioning of Kubernetes. A recent OpenStack survey\u00a0found growth in bare-metal infrastructure in production deployments. The poll found that Kubernetes is driving the shift, with 37 percent of those using Kubernetes on OpenStack doing do via a bare-metal provisioner.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2019-05-21 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Datacenter",
+        "Edge/IOT",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Edge/IOT",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/edge-iot/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-edge-iot/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "bare metal",
+        "edge",
+        "interconnects",
+        "iot",
+        "Kubernetes",
+        "Mellanox",
+        "network integration card",
+        "NVMe",
+        "OpenStack",
+        "Virtualization"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/bare-metal/",
+        "https://www.enterpriseai.news/tag/edge/",
+        "https://www.enterpriseai.news/tag/interconnects/",
+        "https://www.enterpriseai.news/tag/iot/",
+        "https://www.enterpriseai.news/tag/kubernetes/",
+        "https://www.enterpriseai.news/tag/mellanox/",
+        "https://www.enterpriseai.news/tag/network-integration-card/",
+        "https://www.enterpriseai.news/tag/nvme/",
+        "https://www.enterpriseai.news/tag/openstack/",
+        "https://www.enterpriseai.news/tag/virtualization/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/the-future-AI-IoT-big-data-networks-shutterstock_1173049735-370x290.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2013/10/bare-metal-cloud-370x290.jpg",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

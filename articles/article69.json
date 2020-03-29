@@ -1,10 +1,41 @@
 {
-    "title": "Nvidia Aligns with Colo Partners in AI Democratization Push",
-    "author": "Tiffany Trader",
-    "date": "2019-02-01 00:00:00",
-    "text": "AI is all the rage and so is AI democratization. Having developed an AI stack only science-level technologists could love, vendors are now courting customers with integrated hardware that would otherwise require a computer scientist and enormous data center investment, and with software that automates data science tasks.In the thick of AI democratization is GPU leader and AI evangelist Nvidia, which has aligned with several server, storage, networking and software vendors to build integrated and pre-qualified offerings intended to jumpstart AI journeys among non-FAANG and bottom 99 percent organizations that lack science-level techies and/or the infrastructure needed for machine and deep learning at scale.Along these lines, Nvidia has announced the DGX-Ready Data Center program aimed at enabling customers \u201cto deploy AI with ease\u201d in an op-ex model via a network of nine colocation partners.In a blog post, Tony Paikeday, director of product marketing for Nvidia\u2019s DGX product family, said DGX-Ready is aimed at compute-intensive businesses for which \u201ca fundamental challenge exists: they don\u2019t have modern data center facilities that can support accelerated computing operations.\u201d\u201cThrough colocation, these customers can avoid getting mired in the challenges of facilities planning and instead focus on gaining insights from and innovating with their data,\u201d he said.Nvidia\u2019s DGX-1 and DGX-2 are positioned as AI supercomputers; DGX-1 servers contain eight Tesla V100 GPUs and deliver a petaflops of mixed-precision throughput, with 256 GB of system memory. DGX-2 systems provide more than two petaflops of deep learning computing powered by 16 Tesla V100 Tensor Core GPUs interconnected with NVSwitch technology. In addition, the DGX software stack is designed for GPU-accelerated training, including the RAPIDS framework, adoption of which is simplified by the container model supported by the Nvidia NGC container repository of applications, according to the company.Using the infrastructure of qualified partner data centers, businesses in the U.S. and Canada can deploy Nvidia\u2019s DGX-1 and DGX-2 servers and recently announced DGX reference architecture solutions from DDN, IBM Storage, NetApp and Pure Storage.\u201cCustomers will continue to order DGX servers and/or DGX POD/Reference Architectures through\u00a0Nvidia\u2019s Partner Network\u00a0(NPNs), and can utilize the DGX-Ready Data Center program to engage with our colocation partners,\u201d Paikeday told\u00a0HPCwire\u00a0in an email exchange.At launch, there are nine North American data center operators: Aligned Energy, Colovore, Core Scientific, CyrusOne, Digital Reality, EdgeConneX, Flexential, Scale Matrix, and Switch. Nvidia says it is planning to roll out the program globally later this year and may also expand its North American network of partners.With the launch of DGX-Ready, Nvidia is creating another avenue to sell its top-line Tesla parts and DGX systems, which target the HPC and AI marketplaces. The chipmaker is coming off a disappointing fourth quarter, where data center revenue in particular came up short. \u201cA number of deals in the company\u2019s forecast did not close in the last month of the quarter as customers shifted to a more cautious approach,\u201d noted a statement from the company. \u201cDespite these near-term headwinds, Nvidia has a large and expanding addressable market opportunity in AI and high performance computing, and the company believes its competitive position is intact.\u201dWith over a decade\u2019s experience covering the HPC space, Tiffany Trader is one of the preeminent voices reporting on advanced scale computing today.",
+    "title": "In Stock Market Return, Dell Delivers Revenue Growth, Operating Loss",
+    "text": "In its return to publicly traded markets, Dell Technologies announced a mixed bag of final quarter and fiscal year financial results: fourth quarter (period ending February 1) revenue totaled $23.8 billion, up 9 percent YoY, with earnings of $331 million versus an operating loss of $69 million for the prior fourth quarter.For the fiscal year ended the first day of this month, Dell reported revenue of $90.6 billion, up 15 percent, with an operating loss of $191 million. Cash flow from operations was $7.0 billion.\u00a0 For the year, the company said its net loss decreased 25 percent to $2.1 billion.The company ended the year with a cash and investments balance of $10.7 billion. In a press announcement, the company said that since the closing of its purchase of EMC in 2015, \u201cDell Technologies has paid down approximately $14.6 billion in gross debt, excluding Dell Financial Services related and subsidiary debt.\u201dSummarizing the results, Dell Technologies CFO Tom Sweet emphasized the company\u2019s revenue growth.\u201cI am pleased with our strong fourth quarter and fiscal 2019 velocity and financial performance, including double-digit revenue growth for the year across all three business units and profitable share gains across our portfolio,\u201d said Sweet. \u201cIn fiscal 2020 we\u2019ll continue to run the business in a disciplined way. We will remain focused on generating long-term relative growth, share gain and cash flow while driving long-term value for shareholders and serving our customers\u2019 full range of needs.\u201dDell said its Infrastructure Solutions Group delivered Q4 revenue of $9.9 billion, up 10 percent YoY driven in large part by $5.3 billion in servers and networking revenue, a 14 percent increase, and $4.6 billion in storage revenue, up 7 percent. Full year revenue for the group was $36.7 billion, up 19 percent, with servers and networking revenue of $20.0 billion, up 28 percent, and storage revenue of $16.7 billion, up 9 percent. Operating income was $1.3 billion for the fourth quarter, up 21 percent, and $4.2 billion for the full year, up 35 percent year over year.Client Solutions Group revenue for the fiscal fourth quarter was $10.9 billion, up 4 percent. Commercial revenue grew 9 percent to $7.8 billion, and Consumer revenue was down 6 percent to $3.1 billion. Client Solutions Group revenue for the full year was $43.2 billion, up 10 percent, with operating income of $555 million for the fourth quarter.VMware revenue was $2.6 billion for the quarter, up 17 percent, and $9.1 billion for the full year, up 14 percent. Operating income for the quarter was $872 million, or 33 percent of VMware revenue, and $3.0 billion for the full year, or 33 percent of VMware revenue.Fourth quarter revenue from other businesses, including Pivotal, Secureworks, RSA Security, Virtustream and Boomi, was $593 million, up 5 percent year over year. Revenue from other businesses for the full year was $2.3 billion, up 6 percent.\u201cFiscal 2019 was a year of great progress and momentum. We advanced our leading portfolio through a focus on innovation, added new customers through both direct and channel growth, and delivered solutions from the edge to the core to the cloud,\u201d said Jeff Clarke, vice chairman, Products & Operations, Dell Technologies. \u201cAs data growth continues to explode alongside technology trends like 5G, AI and machine learning, we\u2019ll continue to drive a wave of innovations to unlock the power of our customers\u2019 data capital.\u201d",
+    "author": [
+        "Doug Black",
+        "https://www.enterpriseai.news/author/doug/"
+    ],
+    "date": "2019-02-28 00:00:00",
+    "cats": [
+        "Cloud",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "Dell Technologies",
+        "EMC"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/dell-technologies/",
+        "https://www.enterpriseai.news/tag/emc/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Jensen-Huang-GTC18-DGX-2-server-370x290.jpg",
-        "https://secure.gravatar.com/avatar/710729879b3d3843127577cf720a1382?s=80&r=g"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Dell-Technologies-logo-416x416-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Dell-Q4-19-earnings-022818-1024x476.png"
     ]
 }

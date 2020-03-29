@@ -1,10 +1,53 @@
 {
-    "title": "DoD Will Revisit JEDI Cloud Contract",
-    "author": "George Leopold",
-    "date": "2020-03-13 00:00:00",
-    "text": "The Pentagon will reboot its department-wide cloud contract after a federal judge refereeing a protest filed by Amazon Web Services indicated the cloud giant was likely to succeed in making its case on technical and legal grounds.The Defense Department petitioned a federal judge on Thursday evening (March 12) to pause legal proceedings while it reworks the solicitation for the Joint Enterprise Defense Infrastructure (JEDI) contract. The cloud contract awarded to Microsoft (NASDAQ: MSFT) last October could be worth up $10 billion over the next decade.The reevaluation in response to the AWS (NASDAQ: AMZN)\u00a0protest means DoD would accept \u201climited proposal revisions\u201d for a reworked JEDI solicitation that would allow cloud vendors to submit new bids. Among the technical issues identified in a February injunction halting the JEDI contact were DoD errors in evaluating a \u201cnoncompliant storage\u201d framework in Microsoft\u2019s JEDI proposal.A federal court blocked the JEDI rollout last month in response to an AWS discovery motion alleging political interference and resulting bias in the contract award. It also seeks to depose President Trump and DoD officials.AWS also has alleged evaluation errors and bias in six of eight categories used in selecting a single JEDI contractor.\u201cWe are pleased that the DoD has acknowledged \u2018substantial and legitimate' issues that affected the JEDI award decision, and that corrective action is necessary.\u00a0We look forward to complete, fair, and effective corrective action that fully insulates the reevaluation from political influence and corrects the many issues affecting the initial flawed award,\u201d and AWS spokesperson said.\u201cWe believe the Department of Defense made the correct decision when they awarded the contract,\u201d countered Microsoft spokesman Frank Shaw. \u201cHowever, we support their decision to reconsider a small number of factors as it is likely the fastest way to resolve all issues and quickly provide the needed modern technology to people across our armed forces.\u201cThroughout this process, we\u2019ve focused on listening to the needs of the DoD, delivering the best product, and making sure nothing we did delayed the procurement process. We are not going to change this approach now,\u201d Shaw added.A revised JEDI solicitation raises the possibility that DoD would abandon its sole-source approach and select multiple cloud vendors. On the earlier assumption AWS was the front-runner to win the JEDI contract, previous JEDI protests by IBM (NYSE: IBM)\u00a0and Oracle (NYSE: ORCL) argued that enterprise cloud deployments were trending toward multiple cloud providers as a way to avoid vendor lock-in and infrastructure downtime.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Kubernetes Gains Stability, New Features",
+    "text": "This year\u2019s first update of the de facto standard Kubernetes cluster orchestrator includes 38 enhancements, of which nearly half have been declared \u201cstable\u201d features.Kubernetes 1.18 released this week is billed by maintainers as a \u201cfit and finish\u201d release that includes 15 stable enhancements, 11 moving to beta testing and 12 at the \u201calpha\u201d stage of development and testing. They emphasized the orchestrator\u2019s growing reliability for handling production workloads as well as a steady stream of enhancements designed to \u201cexpand existing functionality.\u201dThe flourishing Kubernetes community has been averaging about four version releases a year. Earlier versions released last year addressed issues like installation and configuration. Meanwhile, enterprise adoption of Kubernetes has also exposed security vulnerabilities.Among the new beta features is a topology manager designed to align so-called non-uniform memory access between CPU cores and networked devices. Previously, resource allocation among CPUs and devices was done independently.The topology manager \u201cwill allow [a] workload to run in an environment optimized for low-latency,\u201d the Kubernetes release team noted in a blog post.Among the new \u201calpha\u201d features is a container storage interface proxy for Windows. The CSI proxy allows \u201cnon-privileged\u201d (but pre-approved) application containers to perform privileged storage operations on Windows. Hence, drivers for those container storage interfaces are now supported on Windows via the new proxy.Kubernetes 1.18 releases notes are here.The latest version is available for download on GitHub.As the Kubernetes ecosystem prepares its next quarterly release, other parts of the community are addressing lingering security concerns within cloud-native platforms built around Kubernetes. For example, Aqua Security released an open source tool earlier this month designed to scan image registries running on Docker and the enterprise version of Mirantis Docker.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2020-03-27 00:00:00",
+    "cats": [
+        "Cloud",
+        "Datacenter",
+        "Edge/IOT",
+        "Security",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Edge/IOT",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/edge-iot/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-edge-iot/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "CSI proxy",
+        "Kubernetes",
+        "Kubernetes 1.18",
+        "topology manager",
+        "Windows"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/csi-proxy/",
+        "https://www.enterpriseai.news/tag/kubernetes/",
+        "https://www.enterpriseai.news/tag/kubernetes-1-18/",
+        "https://www.enterpriseai.news/tag/topology-manager/",
+        "https://www.enterpriseai.news/tag/windows/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/DoD_cloud_mil_JEDI-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/K_1.18-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

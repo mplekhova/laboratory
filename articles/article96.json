@@ -1,9 +1,55 @@
 {
-    "title": "Google, Iron Mountain Take on the Data Growth-Analytics Gap",
-    "author": "Doug Black",
-    "date": "2018-07-26 00:00:00",
-    "text": "There\u2019s an institutionalized, seemingly intractable and ever widening gap in enterprise IT between data growth and HPDA\u2019s (high performance data analytics) ability to access more than a small piece of it and convert it into \u201cactionable insight.\u201d Sadly, there\u2019s plenty of life left in the trite, tiresome old truism about \u201cdrowning in data and starving for insight.\u201d As things stand today, organizations still only leverage about 10 percent of their data, and data volume growth (and the emergence of new data types) continues to outpace the development of HPDA technology.Same as it ever was.However, immense effort and investment is targeting the treasure trove in the totality of corporate data. We hear talk of future systems that will contain a decade \u2013 yes, a decade \u2013 of data in active memory, and we see the upward climb in machine learning/deep learning algorithms capable of taking on bigger and increasingly complex problems. As with complex systems (see related story), the challenge cries out for the power of AI.This is the basis of a content analytics partnership announced this week by archival storage veteran Iron Mountain and Google Cloud. The goal: deliver \u201cAI-powered SaaS solutions on (Google Cloud Platform) to help organizations analyze their vast physical and digital information and data repositories, to unlock insights, improve decision making and create new revenue streams.\u201dBoston-based Iron Mountain, founded in 1951 and with 650 million cubes of archived information from 95 percent of the Fortune 1000 in 1,400-plus facilities around the world, said it expects to deliver new subscription-based content analytics services built on GCP this September.Jim O\u2019Dorisio, a 30-year veteran of the storage industry, was hired by Iron Mountain last year as SVP of emerging commercial solutions to help lead the company\u2019s digital strategy development. \u201cWe\u2019re known for data management solutions relative to compliance, governance, policy and records management,\u201d he told EnterpriseTech, \u201cand we started looking at those elements and at information and customer needs, and we realized we wanted to find a way to help customers monetize all that information.\u00a0 So we started defining a platform that would combine what Iron Mountain is known for doing with the ability to unlock insights in the information and enable revenue streams for our customers.\u201dHe said Google\u2019s AI technology and cloud service made the tech giant a good fit, and that the platform will run on Google Cloud and interoperate with other public cloud services along with the company\u2019s own Iron Cloud.Keys to the new offering at its ability ingest content from multiple sources and leverage metadata for search. \u00a0And metadata contained in massive stores of object-based data is a critical enabler for high performance, machine learning-based analytics.\u201cObject storage was uniquely designed to store metadata with an object,\u201d said O\u2019Dorisio. \u201cIt\u2019s very difficult to store metadata in flat file systems. So object storage itself lends itself to storing metadata. And in our case we have an extensible database that allows us to store lots of metadata.\u201dOn the ingestion side, O\u2019Dorisio cited the platform\u2019s ability to take in not just digital data but data by scanning physical documents, along with content off tape. \u201cA key thing for us is the extraction of metadata, such as the legend off of a map, and store the content of that legend as metadata. That information is not available electronically. So the trick is our ability to use the machine learning algorithms to extract the metadata that can then be used to search for those assets later.\u201dSearch can be conducted based on multiple metadata fields, such as by asset type, by date, author, location. \u201cAll that content is brought up in a thumbnail so you can easily search and open the content, it\u2019s very responsive, easy to access and customizable.\u201dThe platform will be offered by market verticals. \u201cIt\u2019s very important to classify the content, so if we\u2019re in mortgage, for example, there might be 20 different forms, our ability to classify each of those forms and to know how to extract metadata from those forms is key,\u201d said O\u2019Dorisio.He also cited the seismic industry and accessing data regarding subsurface access, such as core samples, well logs, drilling reports. \u201cThe ability to ingest that content, classify and extract metadata from it and give the user the ability to search and sort all that content easily has huge value as they try to understand the value of their assets.\u201dThe goal of the platform, O\u2019Dorisio said, is to combine storage, data management and AI capabilities that would otherwise pose major obstacles for organizations trying to build home-grown solutions. \u201cIt\u2019s pretty difficult for our customers to do this,\u201d he said. \u201cMany of them hired data scientists and they\u2019re looking to use machine learning but it\u2019s not easy and those skill sets are hard to come by.\u201d\"We've heard from many companies about the challenges of trying to manage data and utilize information for insights,\" said Holly Muscolino, research vice president, content technologies and document workflow, at analyst firm IDC. \"They have too much of it to analyze, and when they try to, it's highly complex and resource-intensive to do on their own. The combined expertise, technology and customer relationships that Iron Mountain and Google Cloud bring to the table is well positioned to unlock this potential.\"",
+    "title": "Dell EMC\u2019s New Servers for Transition to the \u2018Disaggregated,\u2019 Software-Defined Data Center",
+    "text": "Dell EMC today launched a new high-performance server line, the PowerEdge MX, that the company said sits squarely in the middle of traditional and next-generation AI-oriented workloads, supporting both with a composable infrastructure that simplifies adoption of data- and compute-intensive technologies (read: GPUs and FPGAs) as they become available. The no-mid-plane design of the PowerEdge MX is built for what Dell EMC calls the disaggregated, or \u201ckinetic,\u201d infrastructure, enabling \u201coptimal use of various IT resources, dynamically adjusting as workload and business needs change.\u201d The company said the new servers will support next generations of technology releases (microprocessors, new storage types and new connectivity), making PowerEdge MX \u201cready to support fully disaggregated components, down to memory-centric devices such as storage class memory, GPUs and FPGAs, to offer full composability.\u201d\"Computing platforms continue their fundamental transformation in line with the digital transformation journey that most firms have embarked on,\u201d said Matt Eastwood, SVP, enterprise datacenter, cloud Infrastructure and developers, at industry watcher IDC. \u201cDell EMC PowerEdge MX is a poster child for this transformation as customers look for highly efficient and agile architectures that can easily adapt to a multitude of workloads and future technology advances.\"Designed for the software-defined data center, the PowerEdge MX ecosystem includes a newly designed chassis and \u201cresource blocks\u201d of servers and storage that connect to the infrastructure through a smart I/O fabric. The idea, the company said, is to support \u201ca combination of dense virtualization, software-defined storage, software-defined networking, artificial intelligence and big data projects.\u201d With support for low latency NVMe drives and native 25GbE connectivity, the PowerEdge MX can be configured by customers \u201cto their own requirements and benefit from shared pools of disaggregated resources to respond to changing needs as they happen,\u201d the company said. \u201cBy creating on-the-fly hardware capacity, overprovisioning and stranded assets are reduced as performance and efficiency are optimized.\u201dThe absence of a mid-plane enables direct compute to I/O module connections, according to Dell EMC, allowing for future technology upgrades without disrupting operations and without a mid-plane upgrade. PowerEddge MX components include: \"While emerging technologies, such as artificial intelligence, IoT and software-defined storage and networking, offer competitive benefits, their workloads can be difficult to predict and pose new challenges for IT departments,\" said Ashley Gorakhpurwalla, president and GM, Dell EMC Server and Infrastructure Systems. \"PowerEdge MX enables a modular approach to flexibly build and combine compute, storage and networking, so organizations can transform their IT in a way that optimizes resources and offers investment protection for future generations of technological advances.\"Dell EMC PowerEdge MX will be available globally beginning Sept. 12.\"The benefits of the new PowerEdge MX mirror our focus on innovation to simplify IT for our customers,\u201d said Francisco Perez, Sr., information technology administrator, Masergy, a technology consultant. \u201cThis new architecture includes many features that reduce complexity, such as profile-based deployment and management and intelligent switch configurations. Its future-proof architecture, with a 'no mid-plane' design, eliminates bottlenecks and opens the door to easily accommodate future demands and technology.\"",
+    "author": [
+        "Doug Black",
+        "https://www.enterpriseai.news/author/doug/"
+    ],
+    "date": "2018-08-21 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Front Page",
+        "Slider: Software",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "dell emc",
+        "FPGAs",
+        "GPUs",
+        "intel xeon",
+        "PowerEdge"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/dell-emc/",
+        "https://www.enterpriseai.news/tag/fpgas/",
+        "https://www.enterpriseai.news/tag/gpus/",
+        "https://www.enterpriseai.news/tag/intel-xeon/",
+        "https://www.enterpriseai.news/tag/poweredge/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Iron-Mountain-logo.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Dell-VMware-EMC-0818-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Dell-EMC-logo-0818.jpg"
     ]
 }

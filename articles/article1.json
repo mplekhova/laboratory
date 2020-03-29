@@ -1,10 +1,63 @@
 {
-    "title": "NetApp Eyes Unstructured Data with Storage Deal",
-    "author": "George Leopold",
-    "date": "2020-03-09 00:00:00",
-    "text": "As companies consolidate storage infrastructure in public clouds, market consolidation among storage vendors continues apace as vendors offer expanded offerings designed to boost cloud access to growing data volumes.The latest example is NetApp\u2019s (NASDAQ:\u00a0NTAP) deal announced on Monday (March 9) to acquire Talon Storage, which specializes in software-defined cloud storage that among other scenarios makes data accessible to branch offices.NetApp, Sunnyvale, Calif., said the acquisition would combine its Cloud Volumes framework with Talon\u2019s software-defined storage platform designed to centralized data storage in the cloud while allowing consistent access at remote locations.The result, said Anthony Lyle, general manager of NetApp\u2019s Cloud Data Services unit, is \u201ca unified footprint of unstructured data that all users access seamlessly, regardless of where in the world they are, as if all users and data were in the same physical location.\u201dTerms of the acquisition were not disclosed.The deal for Talon would add new remote capabilities to NetApp\u2019s portfolio of\u00a0cloud data services, including its file storage service running on Microsoft Azure and other public clouds. The company notes that its Azure NetApp File service handles cloud workloads without code modification.Along with the file storage service, NetApp said Talon\u2019s storage software will be integrated with its Cloud Volumes offerings.NetApp was among the early hybrid cloud vendors to endorse the Kubernetes cluster orchestrator with its acquisition of StackPointCloud, developer of a Kubernetes cluster orchestration service for multiple clouds. The September 2018 deal gave NetApp a Kubernetes service to support the application orchestration framework of its Data Fabric platform.Among other features, that combination enabled multi-cloud application orchestration with\u00a0persistent storage\u00a0for stateful applications.The acquisitions are designed to bolster NetApp\u2019s efforts to help customers consolidate unstructured data in the cloud that can be organized in files shared across enterprises. Along with Azure, the company\u2019s file sharing service also runs on Amazon Web Services and Google Cloud.NetApp and Talon Storage previously partnered to create a data fabric for managing unstructured data. The platform unveiled last year incorporated Talon\u2019s software-defined data storage fabric as a way to consolidate unstructured data into an enterprise-wide directory structure visible to all users. Active data sets are cached locally to reduce latency.The file caching capability \u201cautomatically updates the active data set on the local storage volume based on actual usage patterns and typically reduces storage capacity requirements by 70 to 80 percent at the [network] edge,\u201d the partners said in a blog post describing their data storage partnership.\u201cThe future of data storage is not just in cloud storage or virtualization,\u201d added Jaap van Duijvenbode, Talon Storage\u2019s product director, in a separate post. \u201cTo future-proof data storage, an intelligent file management system is needed.\u201dGeorge Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Undeterred, VCs Bet on Cloud, Data Startups",
+    "text": "If the global economy is to recover from a pandemic that has so far killed tens of thousands while disrupting supply chains and causing widespread unemployment, the technology sector must play a key role. Investors are beginning to put more of their money where their mouth is, at least for now.This week brought a spate of sizeable venture investments in increasingly important cloud-based technologies, signaling perhaps that those disruptive platforms could help lead a post-pandemic recovery.Here\u2019s a sampling.Dremio, the data lake and analytics specialist, said Thursday (March 26) it closed a hefty $70 million Series C funding round that included new investor Insight Partners. Existing investors include Cisco Investments,\u00a0Lightspeed Venture Partners,\u00a0\u00a0Norwest Venture Partners\u00a0and\u00a0Redpoint Ventures.The Silicon Valley startup said it will use the cash infusion to scale operations centered around its flagship data lake engine. The platform is based on the open-source, in-memory, columnar data format Apache Arrow, designed to make it easier for data scientists and analysts to query data located in multiple locations.The goal is to leave data in place, then provide a semantic data access layer atop it. That capability is billed as providing the benefits of a data warehouse without the time, expense, and complexity of engineering ETL scripts and data warehouse assembly.The platform \u201cmakes analytics directly on data lake storage fast, efficient and secure, which drives down cloud infrastructure costs,\u201d Dremio CEO Billy Bosworth said.Other hybrid infrastructure-related investments announced this week included Humio, the log management platform developer, and SoftIron, the U.K.-based datacenter appliance vendor.Humio closed a $20 million Series B funding round this week led by Dell Technologies Capital. The startup has so far raised $32 million.Humio\u2019s log management platform is used to collect real-time data on the health of enterprise infrastructure, including application down-time and security threats. The startup\u2019s approach allows users to sift through huge volumes of log and event data by integrating structured and unstructured data logs in real time.The company also this week announced a cloud plan for ingesting unlimited amounts of data as a complement to a self-hosted scheme introduced nearly two years ago. The intent is to allow users to scale access to larger data volumes. As an adjunct, Humio\u2019s \u201cbucket storage\u201d boosts data ingestion and retention beyond 1 petabyte.Elsewhere, SoftIron announced a $34 million equity funding round by a group of existing investors led by co-founder Norman Fraser. The London-based company said this week it will use the funds to expand its portfolio of datacenter appliances based on open source software.SoftIron recently released the latest version of its network switch based on an network operating system called Sonic, as in Software for Open Networking in the Cloud. Cisco System (NASDAQ: CSCO) and cloud partner Microsoft (NASDAQ: MSFT) launched the open source initiative to manage network devices as operators encounter bottlenecks spawned by the exponential growth of data storage and raw computing power required for data-driven enterprise applications.SoftIron\u2019s target market includes \u201corganizations looking to leverage open source and transition their mission-critical computing away from proprietary vendor lock-in,\u201d said Harry Richardson, SoftIron\u2019s chief scientist.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2020-03-26 00:00:00",
+    "cats": [
+        "Cloud",
+        "Data Analytics",
+        "Datacenter",
+        "Networks",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Networks",
+        "Slider: Software",
+        "Slider: Storage",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/networks/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "Analytics",
+        "cloud",
+        "data lake",
+        "Dremio",
+        "Humio",
+        "investment",
+        "log management",
+        "network appliances",
+        "SoftIron"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/analytics/",
+        "https://www.enterpriseai.news/tag/cloud-2/",
+        "https://www.enterpriseai.news/tag/data-lake/",
+        "https://www.enterpriseai.news/tag/dremio/",
+        "https://www.enterpriseai.news/tag/humio/",
+        "https://www.enterpriseai.news/tag/investment/",
+        "https://www.enterpriseai.news/tag/log-management/",
+        "https://www.enterpriseai.news/tag/network-appliances/",
+        "https://www.enterpriseai.news/tag/softiron/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/data-storage-shutterstock-1085748272-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/tech_investment-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

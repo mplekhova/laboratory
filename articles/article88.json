@@ -1,11 +1,49 @@
 {
-    "title": "Fujitsu Builds Big Data Processor on Ceph",
-    "author": "George Leopold",
-    "date": "2018-09-20 00:00:00",
-    "text": "Addressing the growing need for speedier processing in big data storage systems that handle everything up to data analytics, Japan\u2019s Fujitsu Laboratories has come up with a technology said to provide high-speed data processing of big data in distributed storage systems.Tokyo-based Fujitsu Labs said this week its platform implemented on the Ceph distributed storage framework addresses the current bottleneck created when processing servers read data from bulging storage systems. The huge volumes flowing between storage and servers is steadily increasing system latency. Further, Fujitsu engineers said, processing data in storage speeds things up because data need not be moved between storage and server.\u201cNonetheless, this makes it difficult to analyze unstructured data distributed across the storage system, and to maintain stable operations in the system's original storage functionality,\u201d they notedFujitsu Lab\u2019s approach, dubbed \u201cDataffinic Computing,\u201d seeks to accelerate big data processing by reducing data movement. The architecture targets distributed storage by connecting multiple servers via a network while maintaining original storage functionality, the company said Thursday (Sept. 20).Much of the focus is on the growing volumes of unstructured video and log data that is quickly filling distributed storage systems. The Dataffinic approach breaks down unstructured data along the connections within the data, storing it in a state where individual pieces can be more readily accessed and crunched.\u201cThis means that the pieces of data scattered across the distributed storage can be processed individually, maintaining the scalability of access performance and improving the system performance as a whole,\u201d Fujitsu claimed.The system also predicts storage resource requirements for maintaining data such as automatic recovery processing after an error. The approach is designed to monitor data processing requirements and timely allocation of those resources. The result is high-speed processing without sacrificing storage functionality.Fujitsu Labs said it implemented Dataffinic on Ceph, the open source object storage framework implemented in a distributed computing cluster. The prototype consisted of five storage nodes and five servers linked via a 1-Gbps network. Data processing performance was measured by extracting objects from 50 gigabytes of video data.Conventional processing takes about 500 seconds. The Fujitsu engineers claim their approach in which data processing was completed on storage nodes, thereby eliminating the need to \u201cbring the data together, yielded a ten-fold increase in processing performance, or 50 seconds.\u201cThis technology enables scalable and efficient processing of explosively increasing amounts of data,\u201d they asserted.Next steps include verifying the big data processing platform for commercial applications. Fujitsu Ltd. (OTCMKTS: FJTSY) currently plans to release a product based on the architecture in 2019.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Oracle Offers Cloud GPU Simulation Service",
+    "text": "Oracle and high-end simulation specialist Altair are expanding their partnership to offer computational fluid dynamics (CFD) services on the Oracle cloud. The HPC simulations would tap into GPU cloud instances and data pipelines recently announced by Oracle and Nvidia.Earlier this month, Oracle (NYSE: ORCL) became the first public cloud vendor to support GPU specialist Nvidia\u2019s HGX-2 \u201cmulti-precision computing platform.\u201d That\u2019s a reference to the ability to throttle the GPU for either precision or speed depending on the application.Altair (NASDAQ: ALTR), Troy, Mich., on Wednesday (Oct. 23) released a new CFD service running on the Oracle cloud that packages its vehicle aerodynamics and powertrain simulators. The cloud partnership with Oracle \u201cprovides customers the ability to use GPU-based solvers in the cloud for accelerated performance without the need to purchase expensive hardware,\u201d said Sam Mahalingam, CTO of Altair\u2019s for Enterprise Solutions unit.GPU instances are increasingly being offered public cloud vendors for high-end workloads like flow simulations, reducing the time to run complex simulations from days or hours. Along with the ability to use GPU-based solvers in the cloud, Altair noted that Oracle\u2019s cloud storage capabilities based on SSD-based NVMe technology helps reduce the movement of large data volumes.Nvidia\u2019s (NASDAQ: NVDA) GPUs also implement NVSwitch interconnect technology designed to reduce the data bottlenecks often encountered with HPC workloads such as simulations.Altair said its CFD solvers are tuned to Oracle\u2019s cloud to deliver \u201covernight simulation results\u201d on a single server. The product design software applies simulation and machine learning capabilities used to predict the aerodynamic properties of cars and trucks as well as the performance of rotating gears and shafts in vehicle powertrains.The CFD simulations would leverage Oracle\u2019s recently announced cloud HPC capabilities that include bare-metal GPU instances that include Nvidia\u2019s Tesla Volta V100 and Tesla P100 GPUs along with collaboration with the GPU maker on the new open-source RAPIDS data science training pipeline libraries.RAPIDS is available now on Oracle\u2019s cloud infrastructure via Nvidia\u2019s GPU cloud service.Oracle previously supported Nvidia\u2019s Pascal GPU architecture cloud instances and, more recently, offered bare-metal instances of its\u00a0Tesla V100 Tensor Core GPUs. Those chips were used to accelerate deep learning workloads.The HPC simulation partnership with Altair is among the latest efforts by Oracle to beef up its cloud offerings as it jockeys for position with other leading public cloud vendors. Earlier this week, Oracle announced support for cloud instances of AMD\u2019s EPYC processor, with immediately availability in Oracle cloud\u2019s eastern U.S. region.\u00a0\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-10-24 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Manufacturing",
+        "Slider: Cloud",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/sectors/manufacturing-sectors/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "Altair",
+        "cloud GPUs",
+        "cloud HPC",
+        "computational fluid dynamics",
+        "GPU",
+        "NVIDIA",
+        "Oracle",
+        "simulation"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/altair/",
+        "https://www.enterpriseai.news/tag/cloud-gpus/",
+        "https://www.enterpriseai.news/tag/cloud-hpc/",
+        "https://www.enterpriseai.news/tag/computational-fluid-dynamics/",
+        "https://www.enterpriseai.news/tag/gpu/",
+        "https://www.enterpriseai.news/tag/nvidia/",
+        "https://www.enterpriseai.news/tag/oracle/",
+        "https://www.enterpriseai.news/tag/simulation/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/big-data-digital-shutterstock-675x-370x290.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Dataffinic-1024x513.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/Altair_simulation_800x-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

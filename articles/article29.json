@@ -1,10 +1,73 @@
 {
-    "title": "Enterprise Networks Still Falling Short",
-    "author": "George Leopold",
-    "date": "2019-09-16 00:00:00",
-    "text": "Network bandwidth and overall performance remain concerns for digital enterprises as they roll out data analytics and edge computing efforts.Nearly two-thirds of companies surveyed by management consultant Accenture (NYSE: CAN) said their enterprise networks are not up to the task of handling big data and Internet of Things deployments. A key reason is a \u201cmisalignment between IT and business needs\u201d that is stymying those rollouts.Only 43 percent of those companies polled said their networks are ready to support cloud and other digital technologies.Network bottlenecks continue to grow as data volumes soar and companies seek to deploy analytics and other big data technologies to make sense of it all. Hence, the Accenture survey\u00a0found that bandwidth demands were not being met while current network performance continues to fall short in terms of what users require. (Both were cited by 45 percent of respondents as ongoing issues.)Accenture reported that most companies surveyed are deploying software-defined networks to address bandwidth and performance challenges. As they embrace a \u201cunified enterprise network\u201d approach, the survey said \u201cit was clear that the majority continue to see their networks in pieces and parts.\u201dMost said they are already using IoT, edge computing and big data analytics technologies along with cloud-based customer and employee tools.\u00a0While most are generally satisfied with network reliability and security, bandwidth and \u201coverall capability\u201d continue to fall short.The disconnected over network performance was reflected in the diverging views of users and IT teams. CIOs and CTOs were generally satisfied with network performance; executives and hands-on users were not. Nevertheless, IT specialists were relatively sanguine about the ability to boost network bandwidth over the next 18 to 24 months.Among the reasons are emerging technologies like NVM Express over storage network fabrics\u00a0and a vibrant developer community coalescing around emerging technologies like service meshes. Meanwhile, the HPC network fabric\u00a0 market in which computing extends into the network is pushing InfiniBand and other networking technologies into enterprise applications for both HPC and AI workloads.Along with \u201cmisalignment\u201d between IT and users, which was cited by 58 percent of CIOs and CTOs, the survey revealed concerns about the \u201cinherent complexities\u201d of running demanding AI and other workloads and the ability of operational teams to support them. Those concerns were cited by 57 percent of \u201cline of business\u201d vice presidents.Bandwidth demands (54 percent) and aging equipment (49 percent) were not far behind.Accenture said it surveyed 300 IT and business executives at companies with revenues of more than $1 billion. Ten industries in seven countries were represented. Network vendor Cisco Systems (NASDAQ: CSCO)\u00a0collaborated on the report.Hence, it is not surprising that a key recommendation of the network survey is broader application of software-defined technologies to overcome bottlenecks between legacy and virtualized networks.Concludes the survey: \u201cSuch networks lack the security, automation and analytics needed to manage business applications, leverage the cloud and interface with a proliferation of devices.\u201dGeorge Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Hybrid Approach Emerges for AI Workloads",
+    "text": "The discussion surrounding enterprise adoption of AI technologies is shifting from if to when, and what mix of IT infrastructure will be required to deploy and scale machine learning and other workloads.HPC vendors that have been making inroads in the enterprise market view AI as another opportunity. Among them is supercomputer leader Cray Inc. (NASDAQ: CRAY) which released an industry survey earlier this month that claims a growing shift toward HPC platforms to handle AI workloads. Much of the AI-dedicated hardware is on-premise as early adopters hustle to keep pace with growing computing and storage demands, the vendor survey found.Few would doubt Cray\u2019s assertion that HPC will play a leading role in enterprise adoption of AI. How that infrastructure is configured and whether, as Cray asserts, much of it will remain on-premise in the form of supercomputers and HPC clusters remains to be seen.The Cray survey of more than 300 IT administrators notes that nearly 40 percent are using in-house systems to crunch AI workloads. Among the priorities are better performance and what the survey calls \u201cdata locality [and] security.\u201dWhat\u2019s more, the survey found that 65 percent of respondents with AI applications plan to expand in-house infrastructure to meet performance requirements.Those findings run counter to recent efforts by cloud partners to make AI workload processing more widely available. For example, Amazon Web Services (NASDAQ: AMZN) and GPU leader Nvidia (NASDAQ: NVDA) are teaming to make the latest graphics accelerators available via the public cloud for AI workloads such as machine learning inference. AWS announced last week it was offering new G4 cloud instances that combine Nvidia T4 Tensor Core GPUs, second-generation Intel Xeon Scalable processors along with increased network bandwidth and local storage to handle enterprise machine learning applications.Hence, it appears a hybrid approach to running enterprise AI workloads is emerging, a trend the Cray survey acknowledges. While a majority of respondents are staying in-house with AI workloads, more than 50 percent said they are currently running AI workloads on public cloud services. That number could increase as major vendors offer more cloud instances that include graphics acceleration and other AI-oriented infrastructure.Nevertheless, the Cray survey found that 36 percent of those polled are seeking to move at least some of the cloud workloads to on-premise infrastructure, much of it presumably powered by HPC systems. Cray\u2019s takeaway is that more IT managers will seek to keep critical AI applications in-house running on exascale-class systems such as its Shasta platform.\u201cThe use of cloud-based solutions for AI has garnered much public attention,\u201d the enterprise AI survey notes. Still, it concludes, \u201ccloud is not the only choice for enterprise AI workflows. A large percentage of organizations are utilizing on-premises infrastructure for their AI projects and many see the need to expand these on-premises systems in order to keep up with growing performance demands.\u201dThe Cray AI survey is available here.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2019-09-24 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Data Analytics",
+        "Datacenter",
+        "Security",
+        "Silicon",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Front Page",
+        "Slider: Networks",
+        "Slider: Security",
+        "Slider: Silicon",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/silicon/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-security/",
+        "https://www.enterpriseai.news/category/slider-silicon/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "AI",
+        "AWS",
+        "cloud",
+        "Cray",
+        "G4",
+        "HPC",
+        "hybrid",
+        "Intel",
+        "Machine Learning",
+        "NVIDIA",
+        "supercomputers"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/ai/",
+        "https://www.enterpriseai.news/tag/aws/",
+        "https://www.enterpriseai.news/tag/cloud-2/",
+        "https://www.enterpriseai.news/tag/cray/",
+        "https://www.enterpriseai.news/tag/g4/",
+        "https://www.enterpriseai.news/tag/hpc/",
+        "https://www.enterpriseai.news/tag/hybrid/",
+        "https://www.enterpriseai.news/tag/intel/",
+        "https://www.enterpriseai.news/tag/machine-learning/",
+        "https://www.enterpriseai.news/tag/nvidia/",
+        "https://www.enterpriseai.news/tag/supercomputers/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/the-future-AI-IoT-big-data-networks-shutterstock_1173049735-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/HPE-Cray_530x-370x255.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

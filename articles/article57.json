@@ -1,10 +1,53 @@
 {
-    "title": "Dell EMC\u2019s Powerhouse Machine Learning Server: up to 10 GPUs",
-    "author": "Doug Black",
-    "date": "2019-04-30 00:00:00",
-    "text": "Dell EMC has launched a thoroughbred machine learning server for the data center and at the edge, its most powerful in the company\u2019s line of AI servers, with four, eight or 10 Nvidia Tesla V100 GPUs (14 single-precision teraflops or 112 mixed-precision \"AI\" teraflops per processor) and up to eight NVMe local storage drives.In short: a lot of data, a lot of power.Announced this morning on day two at Dell Technologies World, the Dell EMC DSS 8440 is a two-socket, 4U server designed for ML applications and other demanding workloads. The server isn\u2019t for machine learning rookies \u2013 it\u2019s built for organizations whose AI journeys have proceeded to the point of using more sophisticated, complex models utilizing greater amounts of data for which faster training, and quicker training iterations, is critical.\u201cMost people starting in AI don\u2019t need eight GPUs,\u201d said Dell EMC Senior Quality Engineer David Hillenmeyer at a pre-announcement event yesterday in Las Vegas. \u201cIt\u2019s an extremely powerful box, but it\u2019s not a starting point. Depending on where customers are on their journey, if they\u2019re trying to understand where machine learning will help them, there are a variety of products, servers and accelerators that a customer can deploy.\u201dSuch as Dell EMC\u2019s 740 and 7425 servers, which support up to three GPUs, and the 4140, supporting up to four accelerators.Hillenmeyer said the DSS 8440 is designed to deliver machine learning processing capability driven by development of cloud-native applications that process massive amounts of data. Beyond high performance processing capability, the server has high-speed I/O, with four Micro-Semi 96-lane PCIe switches and eight x4 NVMe PCIe slots.Performance does not scale precisely linearly as the number of GPUs in the server increases from four to 10, Hillenmeyer said, though it comes close. He shared data showing that for image recognition workloads, using a single Tesla V100, training can take roughly 1000 minutes while with 8 V100s takes about 180 minutes; for language translation, training with one v100 requires 275 minutes while with eight Nvidia processors the time is cut to 50 minutes, and so forth.The server also supports the most powerful Intel Xeon Scalable CPUs with up to 24 cores per processor.For storage, the DSS 8440 can support up to 10 2.5 inch devices, or 32 terabytes of NVMe storage, \u201cso you can have a large sample of training data, and fast access to it, to reduce your training times,\u201d Hillenmeyer said.The company said the DSS 8440 has an open architecture, based on industry-standard PCIe fabric, allowing for customization of accelerators, storage options and network cards. \u201cThis platform is designed to be open to support new technologies coming in this area,\u201d said Hillenmeyer, including the Graphcore machine learning IPU processor, developed jointly with Dell EMC, due for release during the second half of this year, along with FPGAs, he said.Hillenmeyer said the server can be used in the core data center or out at the edge for workloads requiring low latency. \u201cWhen we\u2019re talking about generation of a large amount of data we can take this box out to where the data is being generated, as opposed to having to transport all of the data back to the core.\u201dIt is set to ship this quarter.",
+    "title": "NVMe Fabrics Enter Express Lane",
+    "text": "As the volume and velocity of data grows exponentially, storage vendors are increasingly promoting NVM Express as a device interface for accessing non-volatile storage media.Enterprise storage vendors such as Western Digital describe the challenge this way: transforming the currently two-lane country road based on conventional serial-attached hard drives \u201cto a fast, 12-lane divided highway driven by NVMe.\u201d Extending that metaphor, NVMe is touted as the \u201croadway\u201d to access emerging storage technologies like NAND flash.Storage vendors also assert the time is ripe for adopting NVMe technology as some early technical wrinkles are worked out and the maturing networking technology retains plenty of headroom to improve as enterprise deployments accelerate.NVMe proponents insist the storage protocol that leverages high-speed flash storage and persistent memory media will greatly reduce datacenter latency through direct memory access to stored data. NVMe storage arrays are designed to bring data closer to computing resources, accelerating workloads such as real-time analytics and machine learning applications.That approach promises to transform the datacenter from an application- to a data-centric architecture, said Erik Ottem, senior director of datacenter systems at Western Digital (NASDAQ: WDC). \u201cTraditionally, [users have] been in siloed environments where data was used for a single application. Now, it\u2019s time to look at that data in other ways,\u201d Ottem noted in a recent company webcast.The \u201cmultiple lanes\u201d of data delivered by NVMe represent a better way to \u201cextract value from [existing] infrastructure to support this data need,\u201d he added.Along with higher PCI Express bandwidth, NVMe is increasingly seen as enabling the multiple lanes of the storage fabric\u00a0 in enterprise datacenters, Western Digital argues. \u201cNVMe is certainly changing the way the storage looks, and it going to improve the way data gets used, Ottem added. \u201cSo, it\u2019s a really important technology in the datacenter.\u201dWestern Digital also argues that traditional serial-attached storage protocols are \u201ccrippling\u201d the potential of flash-based solid-state drives. One way that NVMe reduces latency for \u201cactive data\u201d to boost application performance is by scaling data access performance from SATA\u2019s 32 commands per queue to NVMe\u2019s 64K queues and commands.For those and other data-driven reasons, NVMe has emerged as the storage protocol of choice for high-end workloads, analysts agree.\u201cFlash [storage] still has room to grow, as storage decision makers currently perceive that solid-state-level performance is only required by a subset of their workloads,\u201d market tracker Enterprise Storage Group noted in a recent survey of the NVMe landscape.\u201cLooking ahead, the industry is anticipating NVMe-based solid-state implementations, with the expectation that these new storage offerings will overtake not only the more traditional solid-state...but possibly even the larger storage networks themselves,\u201d the analyst added.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2019-05-06 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Data Analytics",
+        "Datacenter",
+        "Edge/IOT",
+        "Networks",
+        "Slider: Datacenter",
+        "Slider: Edge/IOT",
+        "Slider: Front Page",
+        "Slider: Networks",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/data-analytics/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/edge-iot/",
+        "https://www.enterpriseai.news/category/networks/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-edge-iot/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "flash storage",
+        "NAND flash",
+        "NVMe",
+        "storage fabrics",
+        "Western Digital"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/flash-storage/",
+        "https://www.enterpriseai.news/tag/nand-flash/",
+        "https://www.enterpriseai.news/tag/nvme/",
+        "https://www.enterpriseai.news/tag/storage-fabrics/",
+        "https://www.enterpriseai.news/tag/western-digital/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/Dell-EMC-DSS-8440-ML-Server-10-Nvidia-GPUs-0419-370x290.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Dell-EMC-logo-0818.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/data-storage-shutterstock-1085748272-370x290.jpg",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

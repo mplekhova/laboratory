@@ -1,10 +1,56 @@
 {
-    "title": "Dell EMC\u2019s New Servers for Transition to the \u2018Disaggregated,\u2019 Software-Defined Data Center",
-    "author": "Doug Black",
-    "date": "2018-08-21 00:00:00",
-    "text": "Dell EMC today launched a new high-performance server line, the PowerEdge MX, that the company said sits squarely in the middle of traditional and next-generation AI-oriented workloads, supporting both with a composable infrastructure that simplifies adoption of data- and compute-intensive technologies (read: GPUs and FPGAs) as they become available. The no-mid-plane design of the PowerEdge MX is built for what Dell EMC calls the disaggregated, or \u201ckinetic,\u201d infrastructure, enabling \u201coptimal use of various IT resources, dynamically adjusting as workload and business needs change.\u201d The company said the new servers will support next generations of technology releases (microprocessors, new storage types and new connectivity), making PowerEdge MX \u201cready to support fully disaggregated components, down to memory-centric devices such as storage class memory, GPUs and FPGAs, to offer full composability.\u201d\"Computing platforms continue their fundamental transformation in line with the digital transformation journey that most firms have embarked on,\u201d said Matt Eastwood, SVP, enterprise datacenter, cloud Infrastructure and developers, at industry watcher IDC. \u201cDell EMC PowerEdge MX is a poster child for this transformation as customers look for highly efficient and agile architectures that can easily adapt to a multitude of workloads and future technology advances.\"Designed for the software-defined data center, the PowerEdge MX ecosystem includes a newly designed chassis and \u201cresource blocks\u201d of servers and storage that connect to the infrastructure through a smart I/O fabric. The idea, the company said, is to support \u201ca combination of dense virtualization, software-defined storage, software-defined networking, artificial intelligence and big data projects.\u201d With support for low latency NVMe drives and native 25GbE connectivity, the PowerEdge MX can be configured by customers \u201cto their own requirements and benefit from shared pools of disaggregated resources to respond to changing needs as they happen,\u201d the company said. \u201cBy creating on-the-fly hardware capacity, overprovisioning and stranded assets are reduced as performance and efficiency are optimized.\u201dThe absence of a mid-plane enables direct compute to I/O module connections, according to Dell EMC, allowing for future technology upgrades without disrupting operations and without a mid-plane upgrade. PowerEddge MX components include: \"While emerging technologies, such as artificial intelligence, IoT and software-defined storage and networking, offer competitive benefits, their workloads can be difficult to predict and pose new challenges for IT departments,\" said Ashley Gorakhpurwalla, president and GM, Dell EMC Server and Infrastructure Systems. \"PowerEdge MX enables a modular approach to flexibly build and combine compute, storage and networking, so organizations can transform their IT in a way that optimizes resources and offers investment protection for future generations of technological advances.\"Dell EMC PowerEdge MX will be available globally beginning Sept. 12.\"The benefits of the new PowerEdge MX mirror our focus on innovation to simplify IT for our customers,\u201d said Francisco Perez, Sr., information technology administrator, Masergy, a technology consultant. \u201cThis new architecture includes many features that reduce complexity, such as profile-based deployment and management and intelligent switch configurations. Its future-proof architecture, with a 'no mid-plane' design, eliminates bottlenecks and opens the door to easily accommodate future demands and technology.\"",
+    "title": "Hybrid Infrastructure Gets Composable",
+    "text": "Growing demand for distributed applications delivered by micro- and other agile services are fueling the shift to composable and disaggregated infrastructure as enterprises look for new ways to provision and manage on-premise and cloud infrastructure.A new forecast by market tracker IDC predicts a surge of disaggregate hardware and composable software as digital transformation efforts accelerate. (Composable/disaggregated infrastructure, or CDI, refers to the ability to select resources like computing and storage for a given set of requirements, thereby eliminating the need to configure those resources for a specific application.)IDC expects the global market for these emerging infrastructure tools to grow at a compound annual rate of 58.2 percent through 2022 to more than $3.38 billion.\u201cNew IT on-premises infrastructure deployments, mostly in the form of private cloud, will fuel aggressive investments in composable [and] disaggregated infrastructure,\u201d said Ashish Nadkarni, vice president of IDC\u2019s worldwide infrastructure practice. \u201cThe maturity of newer low-latency and high-bandwidth fabrics and interconnects will accelerate the development of newer CDI products and solutions.\u201dAs demand for CDI heats up, so, too, does the competition among key vendors such as Hewlett Packard Enterprise (NYSE: HPE)\u00a0and Dell EMC. HPE claims the first composable infrastructure platform, Synergy, released in 2016. It has since doubled down on its software-defined infrastructure push with moves like the May acquisition of hyperconverged networking specialist Plexxi\u00a0and its January 2017 deal for Simplivity.HPE said in May the Plexxi deal would help extend its mix-and-match infrastructure offerings marketed under its flagship Synergy platform.Dell EMC launched its MX series in May as a direct competitor to HPE\u2019s Synergy, following that up with the release of its PowerEdge MX\u00a0server line last month. Other CDI players included Lenovo (HKG: 0992), Nvidia\u2019s (NASDAQ: NVDA) HGX-1 reference architecture and the Gen-Z Consortium\u00a0that includes several vendors developing standards for the disaggregation of memory and computing resources.IDC said CDI market growth is expected to spring from datacenter operators looking to replace existing on-premises infrastructure with what the market researcher calls \u201cfull-stack CDI.\u201d In that sense, CDI is viewed as the next step in the evolution of datacenter hardware after hyper-converged platforms as micro-services and other agile application tools enter the mainstream.The market analyst also stressed the need for CDI vendors to support the steady enterprise shift to multiple cloud deployments. \u201cThe CDI fabric must hook into cloud deployments and enable transparent movement between the private, on-premises cloud and other public cloud resources,\u201d IDC noted in its market forecast released last month.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2018-09-05 00:00:00",
+    "cats": [
+        "Cloud",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Networks",
+        "Slider: Software",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "CDI",
+        "composable software",
+        "disaggregated hardware",
+        "HPE",
+        "IDC",
+        "Synergy"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/cdi/",
+        "https://www.enterpriseai.news/tag/composable-software/",
+        "https://www.enterpriseai.news/tag/disaggregated-hardware/",
+        "https://www.enterpriseai.news/tag/hpe/",
+        "https://www.enterpriseai.news/tag/idc/",
+        "https://www.enterpriseai.news/tag/synergy/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Dell-VMware-EMC-0818-370x290.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Dell-EMC-logo-0818.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/composable-infrastructure-2-370x235.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/CDI_IDC-300x286.png",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

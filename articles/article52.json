@@ -1,10 +1,51 @@
 {
-    "title": "Qualcomm Invests in RISC-V Startup SiFive",
-    "author": "George Leopold",
-    "date": "2019-06-07 00:00:00",
-    "text": "Investors are zeroing in on the open standard RISC-V instruction set architecture and the processor intellectual property being developed by a batch of high-flying chip startups.Last fall, Esperanto Technologies\u00a0announced a $58 million funding round. The chip IP vendor is incorporating more than 1,000 RISC-V cores onto a single 7-nm chip. Data storage specialist Western Digital (NASDAQ: WDC) is an early investor in Esperanto, Mountain View, Calif.This week, another RISC-V startup, SiFive, announced a $65.4 million funding round that included new investor Qualcomm Ventures. SiFive, San Mateo, Calif., has so far raised more than $125 million, and is seen as a challenger to chip IP leader Arm.Observers note that wireless modem leader Qualcomm is among Arm\u2019s biggest customers, making its investment in SiFive intriguing. Also participating in the Series D round were existing investors Chengwei Capital of Shanghai along with Sutter Hill Ventures and Spark Capital. Intel Capital and Western Digital also were early investors.Western Digital serves on the board of the RISC-V Foundation\u00a0along with representatives of Google (NASDAQ: GOOGL), Nvidia (NASDAQ: NVDA) and the University of California at Berkeley.Founded in 2015, SiFive is developing RISC-V core IP with the goal of expanding access to custom silicon. The chip startup claims more than 100 design wins\u00a0based on its system-on-chip (SoC) templates. The template allows customers to accelerate the fabrication of RISC-V processors and custom SoCs, moving from design to prototyping to the delivery of sample chips \u201cwithin weeks,\u201d the company claims.During the prototyping phase, customers can run application code on virtualized chips to tweak performance before chips are taped out, the company notes.The Silicon Valley startup has design facilities in: Beaverton, Ore., near Intel\u2019s Hillsboro campus; Austin, Texas; Boston; Bangalore and Pune, India; Shanghai; the global chip manufacturing hub in Hsinchu, Taiwan; and Seoul, South Korea.Qualcomm\u2019s participation in SiFive\u2019s latest funding round attracted notice since the wireless chip maker is a long-time customer of Arm. \u201cSiFive has established itself as a leader in the RISC-V space, making significant contributions to the broader semiconductor industry through its unique design methodology,\u201d said Quinn Li, who heads Qualcomm Ventures.Qualcomm is a founding member of the RISC-V Foundation.Industry watchers note that SoC designs increasingly require a portfolio of IP cores to accelerate chip design. \u201cYou can't build an SoC with just the CPU,\u201d Mike Demler, a semiconductor technology analyst with The Linley Group, noted in a tweet. \u201cBut it's just one small step toward building a comprehensive IP ecosystem. That is Arm\u2019s biggest advantage.\u201dHence, SiFive positions itself as an Arm competitor able to deliver custom silicon \u201cas device manufacturers rapidly adopt domain-specific application processor designs in response to the point of compute migrating to the [network] edge.\u201d Those edge applications require extremely low power consumption.SiFive\u2019s key differentiator is its claimed ability to compress the design, prototyping and chip sampling steps, enabling the delivery of custom silicon in a few weeks.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "NetApp Stresses Consistency in Hybrid Deployments",
+    "text": "Cloud providers seeking to cash in on the accelerating shift to hybrid and multi-cloud deployments are emphasizing their ability to provide consistent performance across in-house and public cloud installations. That feature, for example, allows developers to migrate and access data regardless of where it is stored.NetApp Inc. is taking the consistency theme a step further with the release this week of data fabric approach that links hybrid and multiple public cloud deployments while allowing customers to use its cloud data services on a consumption basis.The company (NASDAQ: NTAP) said Tuesday (June 18) its new \u201chybrid multi-cloud\u201d offering that includes cloud data services running on its hyperconverged infrastructure is being offered on a consumption basis. Users, for example, running application containers, could tweak persistent storage across public clouds.Persistent storage\u00a0has been identified as a key requirement for adoption of software containers. Hence, storage must be configured to handle those stateful applications. As part of its consistency pitch, NetApp said it is extending that capability to datacenters via is hyperconverged infrastructure.Application developers are grabbing data from a variety of on-premises and cloud platforms, \u201cso consistency becomes a very important construct,\u201d Anthony Lye, general manager of NetApp\u2019s cloud unit, noted in an interview.As it offers developers the ability to work either on-premises or in the public cloud, NetApp also is offering a new Kubernetes cluster orchestrator serviceNetApp also expanded its partnership with public cloud vendors with the beta release of a cloud volumes service running on Google Cloud (NASDAQ: GOOGL). Previously, Microsoft (NASDAQ: MSFT) announced support for a service called Azure NetApp FilesMeanwhile, NetApp is among the cloud vendors promoting the Istio service mesh\u00a0intended to link application components, thereby boosting the capabilities of Kubernetes and the micro-services it orchestrates.Based on that model, NetApp also unveiled a data fabric this week designed to provide a framework for hybrid and multi-cloud deployments. The data fabric is intended to customize everything from data integration to security. \u201cIt\u2019s really about the life cycle of data,\u201d Lye said.Data fabric services include an orchestration tool kit for managing data stored in-house or aboard public clouds as well as a pair of consumption options for on-premise systems or data storage in the cloud.Also this week, Hewlett Packard Enterprise (NYSE: HPE) announced an expansion of its competing GreenLake\u00a0hybrid cloud service that also includes pay-as-you-go pricing.Lye said NetApp\u2019s hybrid multi-cloud services are being launch in public preview, during which potential customers can test them. The new services are scheduled for general availability during the summer of 2019.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2019-06-18 00:00:00",
+    "cats": [
+        "Cloud",
+        "Datacenter",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "applications",
+        "data fabric",
+        "HCI",
+        "HPE",
+        "Hybrid Cloud",
+        "Istio",
+        "Kubernetes",
+        "NetApp",
+        "service mesh"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/applications/",
+        "https://www.enterpriseai.news/tag/data-fabric/",
+        "https://www.enterpriseai.news/tag/hci/",
+        "https://www.enterpriseai.news/tag/hpe/",
+        "https://www.enterpriseai.news/tag/hybrid-cloud/",
+        "https://www.enterpriseai.news/tag/istio/",
+        "https://www.enterpriseai.news/tag/kubernetes/",
+        "https://www.enterpriseai.news/tag/netapp/",
+        "https://www.enterpriseai.news/tag/service-mesh/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/generic-system-chip-processor-shutterstock-530410393-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NetApp-logo.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

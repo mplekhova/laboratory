@@ -1,10 +1,61 @@
 {
-    "title": "IBM Claims No. 1 Commercial Supercomputer with Total Oil & Gas System",
-    "author": "no author",
-    "date": "2019-06-19 00:00:00",
-    "text": "IBM can now boast not only the two most powerful supercomputers in the world, it also has claimed the top spot for a supercomputer used in a commercial setting. The Pangea III, which leverages IBM's Power9 CPU-GPU architecture, will be used by French energy conglomerate Total Group (NYSE: TOT) for oil exploration and \u201cassociated revenue opportunities\u201d such as predicting future oil and gas production.In industry rankings, Pangea III achieved 17.9 Linpack petaflops (out of 25 theoretical petaflops), making it the 11th-fastest publicly benchmarked supercomputer. Total said that the new system expands the group\u2019s computing power by almost five -- to 31.7 petaflops -- while boosting system storage capacity by a factor of three, to 76 petabytes. The new IBM powerhouse now becomes Total's most powerful Pangea supercomputer, displacing a 2015 system from SGI (which was acquired by HPE in 2016) as the energy giant's most powerful.As HPC systems increasingly proliferate in commercial markets (industry analyst Addison Snell of Intersect360 Research, said in his recent market update that commercial sectors comprise 58 percent of the HPC market), the energy sector has aggressively embraced supercomputing-class systems. Early last year, soon after HPE announced that one of its systems used by BP was the most powerful commercial supercomputer, Italian energy company Eni took the top spot for commercial supercomputing with an 18.6 petaflops (peak) cluster, called HPC4, also built by HPE -- and, like IBM's Power9 architecture, also incorporating Nvidia GPUs.The new system will help the company \u201creduce geological risks in exploration and development, accelerate project maturation and delivery and increases the value of our assets through optimized field operations,\u201d said Arnaud Breuillac, president of Total Exploration & Production.IBM Power9-based HPC architecture was used to develop the U.S. Department of Energy\u2019s Sierra\u00a0and Summit supercomputers, the two most powerful systems in the world (see HPCwire: \"Top500 Purely Petaflops; US Maintains Performance Lead\"); the architecture leverages attached Nvidia GPU accelerators to boost performance while reducing power consumption.IBM was among several bidders seeking to build Pangea III. It teamed with GPU leader Nvidia (NASDAQ: NVDA) to develop a link between Power9 CPUs and Nvidia\u2019s Tesla V100 Tensorcore GPUs. The NVLink connection enabled a 5.6-fold increase in memory bandwidth between CPU and GPU when compared with x86-based machines, the partners said.Total said it would use the added computing horsepower, combined with new algorithms that can handle larger data sets, to produce higher resolution images used to locate energy deposits.\u00a0Pangea III also will be used by Total to run reservoir simulation methods that integrate data sets on production history to identify additional reserves from a given site. The system also can be used for early evaluation of potential sites for further energy exploration.As IBM targets its Power9 architecture at more commercial customers, David Turek, the company's VP of exascale systems, asserted that \u201cPangea III demonstrates that IBM Power Systems are not just for the large government or research organizations.\u201d--Editor's note: This story has been updated to include benchmarking results.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Cloudian, Seagate Partner on AI Cloud Storage",
+    "text": "Data storage technology vendors Cloudian and Seagate Technology are teaming on a private cloud storage platform aimed at AI and network edge workloads.The storage partners said they are delivering exabyte scale private cloud storage with much greater densities in a system aimed at \u201ccapacity-intensive\u201d workloads requiring tens of petabytes of storage. Cloudian specializes in object storage platforms while Seagate (NASDAQ: STX) provides high-density storage drives.Looking to outdo emerging storage-as-a-service vendors, the partners said Tuesday (June 25) their scale-out storage package delivers up to 83 percent greater density. It combines Cloudian\u2019s object storage software that is compatible with Amazon Web Services\u2019 (NASDAQ: AMZN)\u00a0Simple Storage Service (S3) with Seagate\u2019s high-density data storage drives.Seagate, Cupertino, Calif., noted that the emergence of the S3 API as a de facto standard for cloud storage motivated its partnership with Cloudian.The storage vendors are betting more customers will shift to private clouds as AI, machine learning, edge and other demanding workloads drive demand for ready access to large data sets. They cited estimates that IT infrastructure spending will jump more than 50 percent between now and 2023 as traditional datacenter spending declines.The partners also make the case the current storage-as-a-service offerings lack the scaling capacity required for \u201csuper-capacity\u201d uses cases while traditional storage cannot keep pace with data access requirements.\u201cPrivate clouds are quickly becoming a viable data storage option in the quest to provide faster data collection and analysis for connected devices,\u201d Seagate noted in a blog post. \u201cPrivate clouds are critical to enabling the real-time information collected by trillions of devices.\u201dThe partners noted that private clouds are speeding data processing at the edge, a configuration requiring faster input and output speeds. Hence, Seagate developed application platforms that store large amounts of unstructured data using object-based storage. Its high-capacity drive bays handle up to 1.6 petabytes of data storage in four rack units \u201cwhile presenting all storage as a single pool,\u201d the partners said.Storage costs are estimated to be half a cent per gigabyte a month.For its part, Cloudian said its software-defined storage technology would expand access to Seagate\u2019s high-density capabilities previously available to only a few hyperscale storage users.Cloudian, San Mateo, Calif., said the private clouds storage platform will be released next month through the company and its resellers.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2019-06-25 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Datacenter",
+        "Edge/IOT",
+        "Slider: Cloud",
+        "Slider: Edge/IOT",
+        "Slider: Front Page",
+        "Slider: Software",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/edge-iot/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-edge-iot/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "AI",
+        "Cloudian",
+        "data access",
+        "edge computing",
+        "Machine Learning",
+        "object storage",
+        "private cloud",
+        "S3 storage",
+        "Seagate",
+        "Seagate Technology"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/ai/",
+        "https://www.enterpriseai.news/tag/cloudian/",
+        "https://www.enterpriseai.news/tag/data-access/",
+        "https://www.enterpriseai.news/tag/edge-computing/",
+        "https://www.enterpriseai.news/tag/machine-learning/",
+        "https://www.enterpriseai.news/tag/object-storage/",
+        "https://www.enterpriseai.news/tag/private-cloud/",
+        "https://www.enterpriseai.news/tag/s3-storage/",
+        "https://www.enterpriseai.news/tag/seagate/",
+        "https://www.enterpriseai.news/tag/seagate-technology/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/oil-gas-energy-shutterstock-469457198-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-28-at-9.34.16-AM-370x290.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

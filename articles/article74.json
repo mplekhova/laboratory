@@ -1,9 +1,51 @@
 {
-    "title": "2019 Data Center Drivers: Kubernetes, Cloud, ML, File System Storage",
-    "author": "no author",
-    "date": "2019-01-10 00:00:00",
-    "text": "If 2019 is anything like the previous year, there will be a renewed push for modernization in the data center to alleviate the management complexity, handle the scalability requirements and achieve an improved ROI. We will see storage systems improve to handle the rise in containerized environments, an uptick in software-defined storage solutions and a return to a tried-and-true approach that has been marginalized in recent years.Containers have become an integral part of today\u2019s IT environments for their ability to reduce costs and complexity while enabling the rapid testing and deployment of applications. While containerized infrastructures are not new in and of themselves, Kubernetes is still considered the new kid on the block. Nevertheless, its ability to make the handling of the complex IT infrastructure required to run various business-critical applications easier than ever makes it a rising star. 2019 will be the year that we will see broader adoption rates of Kubernetes in the enterprise.To ensure the functionality of the Kubernetes platform, expect to see a rise in technologies supporting containerized workloads \u2013 from application-level service to data-processing frameworks to storage systems.The cloud has been hailed as a panacea for what ails the data center with companies large and small \u201cmoving\u201d to the public cloud. While there are times that a cloud-based approach can be beneficial, like cold storage, it is simply too limited to be all things in all situations. Cloud economics may work to store seldom-used data offsite but does the pricing remain attractive when you have to get it back? And how long does it take to restore a substantial volume of information?For high-performance computing environments, such as in life sciences, media and entertainment, a cloud environment is simply too costly and too slow to be effective. Storing information in the cloud is one thing, but leveraging it as part of a mission-critical workload is not a set-and-forget operation. As enterprises continue to realize that their workloads are HPC in nature, they will recognize that they need a scalable, fault-tolerant, high-performance file system to support their commercial applications.Knowing that your data has value and knowing how to extract that value are two entirely separate entities. As enterprises look to better leverage their business-critical information for increased profit opportunities, the need for solutions that can handle modern workloads will dramatically increase. Analytics have been popular with organizations looking to understand their data; AI and ML are critical for helping organizations do more with their data. Look for a rise in solutions that can satisfy the processing and speed requirements of these workloads as the volume of data continues to rise.Likewise, other applications making their presences felt in the data center are changing the way IT approaches data storage. The aforementioned containerized environments, testing infrastructures and elastic storage require scalability, performance and efficient management at scale. Software-defined storage systems that deliver excellent performance on all workloads will see increased adoption rates in the upcoming year. SDS infrastructures that provide higher IOPs, linear scalability, zero downtime and the ability to change on the fly to suit shifting business needs will show a marked improvement over other software and hardware options deployed in traditional enterprise IT environments today.These increasingly complex, varied infrastructures place high demands on IT administrators, but the good news is enterprise IT products get smarter all the time. 2019 will see more capable products, including more AI and more automation, that \u201clearn\u201d and adjust their operations based on their environment, and require less human intervention and hands-on management.Nearly any element in an infrastructure can be controlled and managed with intelligence: move a file or workload based on traffic patterns, give a user access to a particular server, ensure legal or performance isolation of systems, shift data to a cloud, meet an SLA, failover to another business location, and more. We are only seeing the beginning of how enterprise products, particularly software, can optimize themselves for performance, workload, governance, or other requirements.Finally, what\u2019s old becomes new again. The trend in recent years has been to deploy different storage types in an attempt to \u201coptimize\u201d it to corresponding workloads. As such, enterprises were left with storage islands requiring dedicated resources and management. The file system is the way to manage and use data more flexibly and easily vs. block or object storage. Within a single, distributed file system, enterprises can gain high-performance storage for block workloads, service provider-grade object storage and small-file workloads with ultra-low latency. This isn\u2019t your father\u2019s NAS but a next-generation approach that enables IT to employ the speed and convenience of the rediscovered technology with the benefits of today\u2019s modern approaches.Bj\u00f6rn Kolbeck\u00a0is co-founder and CEO of Quobyte.",
+    "title": "Google Predicts Big Year for \u2018API-ification\u2019",
+    "text": "Google Cloud introduced an API platform last July designed in part to give developers better visibility into the interconnections between, and the inner workings among, enterprise applications and data hosted in hybrid and multi-cloud deployments.The Apigee platform\u00a0developed with partner Informatica, an integration services specialist, is billed as a \u201ccross-cloud API management platform.\u201d Among other goals, Apigee seeks to free developers from mundane coding tasks so they can \u201cinvoke business integration processes\u201d to accelerate deployment of enterprise applications.The API initiative also illustrates Google Cloud\u2019s (NASDAQ: GOOGL)\u00a0ongoing focus on nuts-and-bolts cloud tools targeting emerging frameworks like agile microservices.In a series of predictions about how APIs will shape the IT market in the coming year, Google\u2019s Apigee team predicted increased standardization of APIs while noting that APIs and microservices are becoming synonymous. In a blog post, they noted \u201ca much larger number of APIs are to be found internally within enterprises as interfaces between software systems and teams.\u201dAs APIs enter the mainstream, Google argues they will kickstart new enterprise architectures driven by microservices that structure applications as collections of loosely coupled, targeted services.\u201cKey to realizing the promise and benefits of microservices architecture will be successfully designing and building reusable, decoupled services that deliver scalability and agility for the business, with the right level of governance and lifecycle management capabilities,\u201d Google noted. \u201cThe availability of appropriate tooling for supporting and debugging microservices architecture will be key to its success in the enterprise.\u201dAs AI and machine learning transform the API landscape, Google predicts greater standardization around emerging technologies like GraphQL, an open-source data query language for APIs developed by Facebook (NASDAQ: FB). GraphQL is seen as a promising framework for delivering reusable services and APIs.Another magnet for API standardization is\u00a0GRPC, a Google-backed open-source framework\u00a0designed to enable clients and server applications to communicate \u201ctransparently\u201d with the goal of making it easier for developers to build \u201cconnected systems.\u201d A building block of the de facto standard Kubernetes cluster orchestrator, GRPC is seen as an emerging option for delivering core business applications.Meanwhile, Google and others note the rise of AI-driven API traffic, ranging from calls made by Internet of Things devices to voice applications. The resulting huge boost in API calls generated by algorithms or machine intelligence brings with them greater security threats.\u201cWhether it\u2019s for crypto-mining or for credential stealing, we expect APIs to continue to bear the burden of machine-driven traffic, which will burden backends unless the right security is built into APIs,\u201d Google noted.As AI enters the mainstream, APIs are increasingly seen as one way of building useful enterprise applications. Hence, Google predicts the rise of \u201cAPI-driven AI\u201d in which developers build a model while a separate team leverages that work using APIs. \u201cWe expect this trend to accelerate,\u201d Apigee said.\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2019-01-29 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Slider: Cloud",
+        "Slider: Front Page",
+        "Slider: Software",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "API-driven AI",
+        "APIs",
+        "Facebook",
+        "Google Apigee",
+        "GraphQL",
+        "GRPC",
+        "hybrid cloud. Google Cloud",
+        "microservivces",
+        "multi-cloud"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/api-driven-ai/",
+        "https://www.enterpriseai.news/tag/apis/",
+        "https://www.enterpriseai.news/tag/facebook/",
+        "https://www.enterpriseai.news/tag/google-apigee/",
+        "https://www.enterpriseai.news/tag/graphql/",
+        "https://www.enterpriseai.news/tag/grpc/",
+        "https://www.enterpriseai.news/tag/hybrid-cloud-google-cloud/",
+        "https://www.enterpriseai.news/tag/microservivces/",
+        "https://www.enterpriseai.news/tag/multi-cloud/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211-370x290.jpg"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/shutterstock_API-370x228.jpg",
+        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

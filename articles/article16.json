@@ -1,11 +1,49 @@
 {
-    "title": "Hyperion: AI-driven HPC Industry Continues to Push Growth Projections",
-    "author": "Doug Black",
-    "date": "2019-11-21 00:00:00",
-    "text": "Three major forces \u2013 AI, cloud and exascale \u2013 are combining to raise the HPC industry to heights exceeding expectations. According to market study results released this week by Hyperion Research at SC19 in Denver, HPC server sales in the first half of the year totaled $6.7 billion, while 2018 sales grew 15 percent overall, totaling $13.7 billion. Growth has been driven primarily by new buyers from the enterprise moving into HPC for AI-related workloads, such as fraud detection, business intelligence, affinity marketing, personalized medicine, smart cities and IoT, the firm said.Hyperion expects the good times to keep rolling for HPC server vendors, with that industry sector projected to reach just under $20 billion by 2023 for a 2018-2023 CAGR of 7.8 percent. For the broader HPC market, encompassing servers, storage, middleware, applications and services, revenue is expected to reach slightly less than $40 billion for a CAGR of 7.2 percent.Other key takeaways from Hyperion\u2019s industry update:Yet for all that, Hyperion Senior Research VP Steve Conway said AI is just starting.\u201cThere's pretty good consensus that we are at a period that we're still near the beginning with AI as far as capability goes,\" he said. \"Lots of emphasis has been on training and there\u2019s been lots of progress there. Just more recently, the emphasis is starting to shift to inferencing, the ability of the machines to guess better and to make better intelligence, intuition. But that's still not so far along.\u201dBased on recent surveys of HPC cloud users reporting that they run 33 percent of their HPC workloads in 3rd-party clouds, Hyperion said the HPC community runs 20 percent of workloads in cloud environments.\u201cThat is a very big jump from 18 to 24 months ago, that number started at just under 10 percent,\u201d Conway said. Having said that, however, he cautioned that HPC in clouds has limitations, including moving mission critical workloads off-prem and high costs associated with data locality where large volumes of data are involved.\u201cIt is unclear to what extent future (beyond 2025) large supercomputers will continue to be purchased in the $500 million-plus price range,\u201d the firm said, \u201cor will return to more \u2018modest\u2019 price levels in the $100 to $250 million price range per system.\u201dAs for the international exascale race, Hyperion sees the U.S. and China installing the first exascale systems in similar timeframes \u2013 by 2022 \u2013 followed by the EU and then Japan.Hyperion also announced winners of its annual Innovation Excellence Awards, including:",
+    "title": "IBM Unveils Power9-based AI Supercomputer",
+    "text": "Designed to push the frontiers of computing chip and systems performance optimized for AI workloads, an 8 petaflop IBM Power9-based supercomputer has been unveiled in upstate New York that will be used by IBM data and computer scientists, by academic researchers and by industrial and commercial end-users.Installed at the Rensselaer Polytechnic Institute Center for Computational Innovations (CCI), the system \u00a0-- called AiMOS (Artificial Intelligence Multiprocessing Optimized System) \u2013 was the most powerful to debut on last month\u2019s Top500 supercomputer ranking, it\u2019s listed as the world\u2019s 24th most powerful computer, the most powerful to be housed at a private university and \u2013 according to the Green500 listing \u2013 the third most energy efficient. It was built using the same IBM Power Systems technology as the Top500\u2019s nos. 1 and 2, systems, the US Dept. of Energy\u2019s IBM Summit and Sierra supercomputers, based on IBM Power9 CPUs and Nvidia GPUs.AiMOS is the result of a collaboration between IBM, RPI and two New York state programs, Empire State Development (ESD) and NY CREATES. Named for Rensselaer co-founder Amos Eaton, AiMOS will serve as a test bed for computation, modeling and simulation of hardware \u201cdesigned to push the boundaries of AI performance,\u201d IBM said.The machine will serve as a test bed for the IBM Research AI Hardware Center, which opened earlier this year on the SUNY Polytechnic Institute (SUNY Poly) campus in Albany. It is the third in a series of increasingly powerful IBM supercomputers at RPI's CCI, the first a 100 teraflop IBM Blue Gene installed in 2007, the second an IBM Blue Gene/Q petascale system installed six years ago, according to Christopher D. Carothers, director of the CCI and a professor in the institute\u2019s Department of Computer Science, who told us the new system is 12x faster than the Blue Gene/Q.He said AiMOS is comprised of 252 compute nodes with a total of 504 IBM Power nine processors, include 1,512 and Nvidia Volta GPUs. The system has 126 terabytes of system memory, more than 400 terabytes of high speed, local, solid state storage and a Mellanox network with 6 TB/second network bandwidth.On the software side, Carothers said the new system offers an important advantage resulting from recent IBM M&A activity.\u201cOne of the problems in the past with IBM systems is not all the software would run on them,\u201d he said. \u201cBut (AiMOS) is going to run the world's most ubiquitous open source Linux based operating system, Red Hat, which is now owned by IBM. And so when we bring the data-centric architecture together with Red Hat, it's going to enable essentially the widest possible range of AI, machine learning and data analytics applications that are currently available. So essentially, very little open source software will not be able to execute, which is sort of a problem, I'd say with past supercomputer systems.\u201dThe result, he said, is that AiMOS will complete neural network training jobs in minutes or hours that formerly required weeks or months. An anticipated impact of this capability, Carothers said, is to \u201cmove away from thinking about what we can do at a single focused \u2018hero run,\u2019 but instead think about \u2026 the whole ensemble of computations that work together in an integrated, cohesive manner. And this is going to enable even a much higher level of solving problems.\" This, he said, directly relates to exploration of new AI, machine learning and accelerator hardware design.\u201cSo we want to really think about what are the algorithms doing? And are there pieces to these AI algorithms that we can really think about putting into hardware? Where AiMOS comes into play is we don't just have to make the hardware, we can begin to simulate it and emulate it on the test bed directly in advance of it actually being fabricated. And oh, by the way, once it's fab, it could be actually installed at our facility and we can then begin to test it on real research as well as other partner workloads that will be executing within the center.\u201dIBM said corporate members of its AI Hardware Center include Samsung, Applied Materials and Synopsys, as well as public entities, such as RPI and SUNY POLY and other members of the SUNY family.\u201cComputer artificial intelligence, or more appropriately, human augmented intelligence (AI), will help solve pressing problems, from healthcare to security to climate change,\u201d said Dr. John E. Kelly III, IBM EVP. \u201cIn order to realize AI's full potential, special-purpose computing hardware is emerging as the next big opportunity. IBM is proud to have built the most powerful and smartest computers in the world today\u2026 Our collective goal is to make AI systems 1,000 times more efficient within the next decade.\u201d",
+    "author": [
+        "Doug Black",
+        "https://www.enterpriseai.news/author/doug/"
+    ],
+    "date": "2019-12-10 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Silicon",
+        "Slider: Front Page",
+        "Slider: Silicon",
+        "Slider: Software",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/silicon/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-silicon/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "AiMOS",
+        "CPU-GPU",
+        "IBM AI",
+        "NVIDIA"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/aimos/",
+        "https://www.enterpriseai.news/tag/cpu-gpu/",
+        "https://www.enterpriseai.news/tag/ibm-ai/",
+        "https://www.enterpriseai.news/tag/nvidia/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Hyperion-SC19-1st-half-2019-hpc-server-sales-370x290.png",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Hyperion-SC19-server-sales-by-vendor.png",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Hyperion-SC19-updated-cloud-forecast.pdf.png"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/IBM-AiMOS-AI-Supercomputer-photo-credit-to-RPI-12-19-370x290.jpg",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/RPI-Chris-Carothers-scaled.jpg"
     ]
 }

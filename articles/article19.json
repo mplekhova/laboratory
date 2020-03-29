@@ -1,10 +1,40 @@
 {
-    "title": "Datacenters Flush with All-Flash Storage",
-    "author": "George Leopold",
-    "date": "2019-11-11 00:00:00",
-    "text": "Storage based on all-flash NVM Express arrays is gaining a foothold in enterprise datacenters even as the overall server storage market stumbles.The datacenter storage market is in the midst of a hangover following a big 2018. IHS Markit reports that global server storage revenue declined 4 percent year-on-year during the second quarter, with unit shipments dropping 10 percent. Overall, the server storage market is expected to contract by 1.5 percent in 2019.At the same time, the all-flash storage array sector rose a healthy 21 percent over the same quarter last year\u2014despite a second-quarter revenue dip of 1.7 percent. The flash market is being driven in part by a what the analyst defines as \u201cperformance-optimized\u201d storage arrays based on flash NVMe drives.Revenue in that category continues to rise. \u201cAdoption of NVMe solid-state drives in all-flash arrays is starting to ramp up, and the use of NVMe inside arrays will continue at a surprisingly strong pace,\u201d predicted Dennis Hahn, principal analyst at IHS Markit.As enterprise datacenters continue to burst at the seams, the market tracker remains bullish about the overall data storage sector, forecasting global revenues will grow at an annual rate of 9 percent to $62 billion by 2023, up from an estimated $40 billion this year.That growth will be driven by data-intensive AI and other workloads, also including Internet of Things and related industrial automation deployments as well as streaming video.At least part of the recent dip in all-flash revenues was traced to the inability of some suppliers to meet growing datacenter demand, the analyst said. As a result, leading supplier NetApp (NASDAQ: NTAP) struggled to expand shipments during the second quarter.The market correction also reflects last year\u2019s booming datacenter storage segment as companies made the transition from storage disk technology to all-flash storage, a move necessitated by more demanding workloads.Storage technology economics in the form of average selling prices (ASPs) also are playing a role in the unfolding datacenter storage sector. IHS reported much higher ASPs for all-flash storage in 2018.Those higher prices also translate into larger capital expense investments, prompting some datacenter operators to \u201cpause\u201d purchases during the second quarter, especially high-end arrays. As flash prices continue to decline, the market watcher said it expects the transition to all-flash to resume for at least the next year.In terms of market share, Dell EMC (NYSE: DELL) remains the top supplier of array storage for datacenters, accounting for 29 percent of the global market. As noted, NetApp slipped in the second quarter behind Hewlett Packard Enterprise (NYSE: HPE). HPE\u2019s market share rose to 7 percent.IHS said \u201cwhite box,\u201d or small systems integrators, collectively accounted for 22 percent of the datacenter storage market, trailing only Dell EMC.\u00a0\u00a0George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Hyperion: AI-driven HPC Industry Continues to Push Growth Projections",
+    "text": "Three major forces \u2013 AI, cloud and exascale \u2013 are combining to raise the HPC industry to heights exceeding expectations. According to market study results released this week by Hyperion Research at SC19 in Denver, HPC server sales in the first half of the year totaled $6.7 billion, while 2018 sales grew 15 percent overall, totaling $13.7 billion. Growth has been driven primarily by new buyers from the enterprise moving into HPC for AI-related workloads, such as fraud detection, business intelligence, affinity marketing, personalized medicine, smart cities and IoT, the firm said.Hyperion expects the good times to keep rolling for HPC server vendors, with that industry sector projected to reach just under $20 billion by 2023 for a 2018-2023 CAGR of 7.8 percent. For the broader HPC market, encompassing servers, storage, middleware, applications and services, revenue is expected to reach slightly less than $40 billion for a CAGR of 7.2 percent.Other key takeaways from Hyperion\u2019s industry update:Yet for all that, Hyperion Senior Research VP Steve Conway said AI is just starting.\u201cThere's pretty good consensus that we are at a period that we're still near the beginning with AI as far as capability goes,\" he said. \"Lots of emphasis has been on training and there\u2019s been lots of progress there. Just more recently, the emphasis is starting to shift to inferencing, the ability of the machines to guess better and to make better intelligence, intuition. But that's still not so far along.\u201dBased on recent surveys of HPC cloud users reporting that they run 33 percent of their HPC workloads in 3rd-party clouds, Hyperion said the HPC community runs 20 percent of workloads in cloud environments.\u201cThat is a very big jump from 18 to 24 months ago, that number started at just under 10 percent,\u201d Conway said. Having said that, however, he cautioned that HPC in clouds has limitations, including moving mission critical workloads off-prem and high costs associated with data locality where large volumes of data are involved.\u201cIt is unclear to what extent future (beyond 2025) large supercomputers will continue to be purchased in the $500 million-plus price range,\u201d the firm said, \u201cor will return to more \u2018modest\u2019 price levels in the $100 to $250 million price range per system.\u201dAs for the international exascale race, Hyperion sees the U.S. and China installing the first exascale systems in similar timeframes \u2013 by 2022 \u2013 followed by the EU and then Japan.Hyperion also announced winners of its annual Innovation Excellence Awards, including:",
+    "author": [
+        "Doug Black",
+        "https://www.enterpriseai.news/author/doug/"
+    ],
+    "date": "2019-11-21 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Slider: Cloud",
+        "Slider: Front Page",
+        "Slider: Silicon",
+        "Slider: Software",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-silicon/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-09-at-2.05.19-PM-370x290.png",
-        "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Hyperion-SC19-1st-half-2019-hpc-server-sales-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Hyperion-SC19-server-sales-by-vendor.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Hyperion-SC19-updated-cloud-forecast.pdf.png"
     ]
 }

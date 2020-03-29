@@ -1,10 +1,70 @@
 {
-    "title": "In Stock Market Return, Dell Delivers Revenue Growth, Operating Loss",
-    "author": "Doug Black",
-    "date": "2019-02-28 00:00:00",
-    "text": "In its return to publicly traded markets, Dell Technologies announced a mixed bag of final quarter and fiscal year financial results: fourth quarter (period ending February 1) revenue totaled $23.8 billion, up 9 percent YoY, with earnings of $331 million versus an operating loss of $69 million for the prior fourth quarter.For the fiscal year ended the first day of this month, Dell reported revenue of $90.6 billion, up 15 percent, with an operating loss of $191 million. Cash flow from operations was $7.0 billion.\u00a0 For the year, the company said its net loss decreased 25 percent to $2.1 billion.The company ended the year with a cash and investments balance of $10.7 billion. In a press announcement, the company said that since the closing of its purchase of EMC in 2015, \u201cDell Technologies has paid down approximately $14.6 billion in gross debt, excluding Dell Financial Services related and subsidiary debt.\u201dSummarizing the results, Dell Technologies CFO Tom Sweet emphasized the company\u2019s revenue growth.\u201cI am pleased with our strong fourth quarter and fiscal 2019 velocity and financial performance, including double-digit revenue growth for the year across all three business units and profitable share gains across our portfolio,\u201d said Sweet. \u201cIn fiscal 2020 we\u2019ll continue to run the business in a disciplined way. We will remain focused on generating long-term relative growth, share gain and cash flow while driving long-term value for shareholders and serving our customers\u2019 full range of needs.\u201dDell said its Infrastructure Solutions Group delivered Q4 revenue of $9.9 billion, up 10 percent YoY driven in large part by $5.3 billion in servers and networking revenue, a 14 percent increase, and $4.6 billion in storage revenue, up 7 percent. Full year revenue for the group was $36.7 billion, up 19 percent, with servers and networking revenue of $20.0 billion, up 28 percent, and storage revenue of $16.7 billion, up 9 percent. Operating income was $1.3 billion for the fourth quarter, up 21 percent, and $4.2 billion for the full year, up 35 percent year over year.Client Solutions Group revenue for the fiscal fourth quarter was $10.9 billion, up 4 percent. Commercial revenue grew 9 percent to $7.8 billion, and Consumer revenue was down 6 percent to $3.1 billion. Client Solutions Group revenue for the full year was $43.2 billion, up 10 percent, with operating income of $555 million for the fourth quarter.VMware revenue was $2.6 billion for the quarter, up 17 percent, and $9.1 billion for the full year, up 14 percent. Operating income for the quarter was $872 million, or 33 percent of VMware revenue, and $3.0 billion for the full year, or 33 percent of VMware revenue.Fourth quarter revenue from other businesses, including Pivotal, Secureworks, RSA Security, Virtustream and Boomi, was $593 million, up 5 percent year over year. Revenue from other businesses for the full year was $2.3 billion, up 6 percent.\u201cFiscal 2019 was a year of great progress and momentum. We advanced our leading portfolio through a focus on innovation, added new customers through both direct and channel growth, and delivered solutions from the edge to the core to the cloud,\u201d said Jeff Clarke, vice chairman, Products & Operations, Dell Technologies. \u201cAs data growth continues to explode alongside technology trends like 5G, AI and machine learning, we\u2019ll continue to drive a wave of innovations to unlock the power of our customers\u2019 data capital.\u201d",
+    "title": "Tabor Communications Announces Rebranding of EnterpriseTech: EnterpriseAI",
+    "text": "Tabor Communications, publisher of high performance technology publications HPCwire, Datanami and EnterpriseTech, has announced that EnterpriseTech has been re-branded as EnterpriseAI. The new name reflects the publication\u2019s increased focus on AI in recent years and increased interest in AI, machine learning, deep learning, robotics and other AI-related technologies among enterprise IT strategists.\u201cEnterpriseTech, focused since its founding on enterprise adoption of advanced scale technologies developed by the HPC and open source communities, has closely covered AI technology and AI implementation strategies in recent years \u2013 the change to EnterpriseAI expresses our intent to further sharpen and build upon the publication\u2019s AI focus,\u201d said Tom Tabor, publisher. \u201cThere\u2019s enormous demand from IT strategists for news and insight about AI trends and technologies. Our intent is to make EnterpriseAI an indispensable meeting ground for information, analysis and discussion for those who develop and use AI.\u201dEnterpriseAI defines \u201cartificial intelligence\u201d broadly to include all the technologies \u2013 machine and deep learning, cognitive computing, bots, robotics, industrial automation and AI silicon \u2013 that support previously unattainable analytics, automation, autonomous and simulation workloads. The publication also will cover new computing strategies used in distributed AI implementations, including IoT, blockchain and edge-core-cloud infrastructures.EnterpriseAI takes its place alongside Tabor Communications\u2019 portfolio of publications which, since 1988, have formed an advanced computing nexus, including flagship publication HPCwire covering supercomputing and HPC technologies, and the widely read Datanami covering software, data management and application aspects of big data, high performance data analytics and AI. Along with EnterpriseAI, this three-pronged source of information delivers a broad, holistic perspective on advanced technologies\u2019 impact across the scientific and industrial landscapes.In recent years, as organizations have embraced more complex near/real-time analytics, this publication has put more emphasis on accelerated investment in AI technology and technical expertise. Among our readers and our conference attendees (at Tabor\u2019s Advanced Scale Forum, HPC & AI on Wall Street), there is greater interest in AI-related capabilities \u2013 from predictive analytics for customer behavior, weather forecasts, energy consumption, equipment maintenance and market sizing; to faster and more accurate seismic exploration; to breakthrough innovations, efficiencies and quality in product design and manufacturing. AI is at the apex of advanced-scale enterprise technology trends that have been in place for decades: it\u2019s is at the convergence of increasingly powerful compute, the data deluge, accelerated networks and advanced algorithms.EnterpriseAI covers enterprise AI in its most advanced form as well as in the broader market level. At the \u201chigh end,\u201d the publication will cover AI technologies and implementations adopted by the most resource-rich organizations in the web-scale, hyperscale, financial services, retail and other industries seeking critical competitive advantage attainable from leading-edge, customized AI implementations.At the AI \u201cmid-level\u201d market, EnterpriseAI will pay attention to AI democratization trends: technologies and techniques for simplifying and automating aspects of AI that currently require teams of computer/data scientists typically lacking in the broader enterprise market. \u00a0EnterpriseAI will aim to de-mystify AI, to open the \u201cblack box\u201d and examine practical, adoptable deployment strategies \u2013 how organizations are deriving insight from expanding, mixed-format volumes of data with algorithm-driven learning systems that use circular, enriching data loops to continually improve at a given task. A rapidly expanding ecosystem of established and start-up technology vendors are putting their full weight behind AI democratization. EnterpriseAI will provide insight into how those technologies are incorporated into organizations\u2019 AI strategies.Also within the publication\u2019s scope are off-prem (cloud and colo) offerings placing extensive data center infrastructure requirements for AI within the reach of more organizations.",
+    "author": [
+        "Doug Black",
+        "https://www.enterpriseai.news/author/doug/"
+    ],
+    "date": "2019-03-19 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Datacenter",
+        "Edge/IOT",
+        "Green",
+        "Networks",
+        "Sectors",
+        "Security",
+        "Silicon",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Edge/IOT",
+        "Slider: Front Page",
+        "Slider: Insight",
+        "Slider: Networks",
+        "Slider: Security",
+        "Slider: Silicon",
+        "Slider: Software",
+        "Slider: Storage",
+        "Slider: Systems",
+        "Software",
+        "Storage",
+        "Systems"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/edge-iot/",
+        "https://www.enterpriseai.news/category/datacenter/green/",
+        "https://www.enterpriseai.news/category/networks/",
+        "https://www.enterpriseai.news/category/sectors/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/silicon/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-edge-iot/",
+        "https://www.enterpriseai.news/category/slider/",
+        "https://www.enterpriseai.news/category/slider-insight/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-security/",
+        "https://www.enterpriseai.news/category/slider-silicon/",
+        "https://www.enterpriseai.news/category/slider-software/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/slider-systems/",
+        "https://www.enterpriseai.news/category/software/",
+        "https://www.enterpriseai.news/category/storage/",
+        "https://www.enterpriseai.news/category/systems/"
+    ],
+    "tags": [
+        "AI",
+        "Machine Learning"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/ai/",
+        "https://www.enterpriseai.news/tag/machine-learning/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Dell-Technologies-logo-416x416-370x290.jpg",
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Dell-Q4-19-earnings-022818-1024x476.png"
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/AI-generic-data-enterpriseai-shutterstock_1226078638--370x290.jpg"
     ]
 }

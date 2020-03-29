@@ -1,10 +1,61 @@
 {
-    "title": "Nvidia Buys Object Storage Vendor SwiftStack",
-    "author": "no author",
-    "date": "2020-03-06 00:00:00",
-    "text": "Nvidia is acquiring cloud data storage specialist SwiftStack, accelerating the consolidation of the object storage sector as AI applications developed by Nvidia move between private and public clouds.Terms of the acquisition were not disclosed.The GPU leader (NASDAQ: NVDA) currently uses SwiftStack\u2019s technology in its datacenters. The object storage framework is based OpenStack, which includes a Swift component used to provision object storage.A key component of the acquisition is a file connector called 1space, billed as a data accelerator \u201cat the edge, and in the cloud.\u201d Joe Arnold, SwiftStack\u2019s co-founder, also noted in a blog post announcing the deal that its object storage technology is used with Nvidia\u2019s AI infrastructure.The file connector is compatible with public cloud storage platforms like Amazon Web Services S3 and is designed to move data between private and public cloudsAlong with 1space, Arnold the new Nvidia storage unit would continue to support its products based on OpenStack Swift APIs as well as its ProxyFS file access platform.The San Francisco-based storage vendor unveiled the latest version of its flagship platform last October. SwiftStack 7 incorporates its 1space file connector. General availability was scheduled for early this year.The platform upgrade underscored SwiftStack\u2019s shift from commodity object storage to high-end applications ranging from machine learning to media analytics. The release also highlighted growing enterprise requirements for \u201ca storage architecture with the ability to feed thousands of GPUs working in parallel,\u201d the company said.Nvidia told the website Blocks&Files.com it would continue to use SwiftStack\u2019s technology internally while directing its customers to its storage platform, using 1space as the link between its AI stack and object storage.SwiftStack laid off an undisclosed number of employees late last year as it shifted its focus to HPC and other data-intensive applications.Meanwhile, the object storage market is seen consolidating as technical standards emerge and more AI-centered uses cases emerge.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "Security Threats Soar Along with Data Volumes",
+    "text": "Lost data are costing organizations on average $1 million per month as data volumes soar and protecting stored data grows harder with the emergence of edge infrastructure handling AI and machine learning platforms.Surging data loss and related costs are a function of what a survey compiled by Dell Technologies (NYSE: VMW) estimates is a \u201cstaggering\u201d 831 percent increase in stored data since 2016, amounting to an average of about 13.53 petabytes. Dell\u2019s Global Data Protection Index reveals that companies are on average are managing almost 40 percent more data than a year ago.Along with more sophisticated cyber-threats, the leading causes of data loss are a marked increase in \u201cdisruptive events\u201d such as infrastructure downtime. According to the Dell survey, 82 percent of respondents reported a disruption over the last 12 months, up from 76 percent a year ago. More than two-thirds anticipate an attack or other incident this year that will halt operations.Just as more companies are turning to multiple cloud vendors to avoid downtime, they are also using more than one data protection vendor to reduce data loss. According to the Dell survey, 80 percent of those polled are using multiple security tools, with paradoxical results: 39 percent of those using two or more security vendors said their data were more vulnerable than companies relying on a single vendor.Hence, \u201cthe cost of disruption is increasing at an alarming rate,\u201d the data protection index concludes, pushing the average annual price tag for IT disruptions above $1million.A major source of vulnerable data is the rapid deployment of emerging technologies such as 5G edge networks and cloud-native applications along with AI and machine learning workloads. All have made data protection more complex.For example, 5G edge networks that store data closer to computing resources were found to be the hardest to protect (67 percent) followed closely by AI and machine learning platforms (64 percent). Once lost, fully 81 percent of the surveyed believed their existing data protection steps would be unable to recover those data.Dell and other infrastructure vendors assert that organizations are taking a cloud-based approach to shielding data, including greater protections for critical application distributed via containers along with cloud-native and software-as-a-service applications.Dell highlighted data security features in the rollout last fall of it automated IT infrastructure strategy. Among the selling points was the growing need for \u201ca multi-cloud operational hub so we can orchestrate and automate the multi-cloud world,\u201d said John Roese, Dell Technologies\u2019 president and CTO for products and operations.The hub is designed to apply AI-driven automation and data security across enterprise infrastructure, Roese added.For example, Dell recently announced support for protecting Kubernetes containers on its data protection platform.The enterprise preference for cloud deployments will likely force data security vendors to follow suit. Dell found that 85 percent of respondents said data protection vendors must reduce data loss by shielding cloud-native applications.\u201cTo combat data protection complexity, minimize disruption and mitigate the risk of data loss and downtime, organizations need simple, reliable, efficient, scalable and more automated solutions for protecting applications and data regardless of the platform,\u201d Beth Phalen, president of Dell\u2019s data protection unit, noted in a blog post.Dell\u2019s data index includes responses from about 1,000 IT managers in 15 countries.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2020-03-23 00:00:00",
+    "cats": [
+        "AI/ML/DL",
+        "Cloud",
+        "Datacenter",
+        "Edge/IOT",
+        "Security",
+        "Slider: Cloud",
+        "Slider: Datacenter",
+        "Slider: Edge/IOT",
+        "Slider: Security",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/ai-ml-dl/",
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/edge-iot/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-datacenter/",
+        "https://www.enterpriseai.news/category/slider-edge-iot/",
+        "https://www.enterpriseai.news/category/slider-security/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "Big Data",
+        "cloud-native",
+        "data loss",
+        "data protection",
+        "data security",
+        "Dell",
+        "Dell Cloud Manager",
+        "edge networks",
+        "Kubernetes"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/big-data/",
+        "https://www.enterpriseai.news/tag/cloud-native/",
+        "https://www.enterpriseai.news/tag/data-loss/",
+        "https://www.enterpriseai.news/tag/data-protection/",
+        "https://www.enterpriseai.news/tag/data-security/",
+        "https://www.enterpriseai.news/tag/dell/",
+        "https://www.enterpriseai.news/tag/dell-cloud-manager/",
+        "https://www.enterpriseai.news/tag/edge-networks/",
+        "https://www.enterpriseai.news/tag/kubernetes/"
+    ],
     "pic_urls": [
-        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-28-at-9.34.16-AM-370x290.png",
+        "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-21-at-1.58.37-PM.png",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
     ]
 }

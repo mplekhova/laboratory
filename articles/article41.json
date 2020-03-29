@@ -1,8 +1,55 @@
 {
-    "title": "Mellanox Partners with Storage Startups",
-    "author": "George Leopold",
-    "date": "2019-07-10 00:00:00",
-    "text": "As GPU leader Nvidia closes its $6.9 billion acquisition\u00a0of Mellanox Technologies announced earlier this year, the HPC network interconnect specialist\u2019s venture arm remains active, investing in two storage startups.Mellanox Capital did not disclose the amounts of its investments in storage startups CNEX Labs\u00a0and Pliops, but did announced strategic partnerships with both companies.Pliops, which is developing a storage processor aimed at accelerating database performance. Earlier this year, Israel-based Pliops raised $30 million in a funding round led by SoftBank (OTCMKTS: SFTBY), Intel and Western Digital Corp. (NASDAQ: WDC) are also early investors.Founded in 2017 by flash storage veterans from M-Systems, Samsung (KRX: 005930) and XtremIO, Pliops is developing storage processing technology that would enable cloud and enterprise customers to access data as much as 100 times faster while reducing computational loads and power consumption. That capability would help upgrade datacenter infrastructure to better handle cloud as well as data-intensive machine learning workloads.Pliops describes its proprietary technology as combining several \u201cinefficient layers\u201d in the stack into a single storage processor.The partnership with Mellanox Technologies\u2019 (NASDAQ: MLNX) would combine its high-end networking technologies with Pliops\u2019 processors to boost networked storage efficiency, the partners said this week.Mellanox said the Pliops investment would allow it to accelerate deployment of \u201cscale-out storage and data-intensive analytics tools\u201d based on its distributed computing and disaggregated storage approach used to improve the performance of AI and analytics applications.Launched in 2013, CNEX Labs specializes storage ASICs and related software used in enterprise datacenters. Prior to the Mellanox investment, CNEX had raised more than $85 million from funders that include Dell Technologies Capital, according to the website Crunchbase.com.San Jose-based CNEX said its partnership with Mellanox would combine its next-generation flash storage controllers with low-latency networked storage from Mellanox.The motivation for the investments and technology partnership is to \u201cbring compute closer to storage to access and monetize the business value of data,\u201d Mellanox said.Nvidia (NASDAQ: NVDA) reportedly outbid Intel and Microsoft to acquire Mellanox Technologies in March. The networking specialist\u2019s Ethernet and InfiniBand interconnects are used in more than half of the world\u2019s most advanced HPC systems.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "title": "NVMe over Fabric Advances",
+    "text": "Efforts to move NVM Express technology over fabrics into enterprise datacenters advanced this week with progress toward a new industry specification entering its final review.NVM Express Inc. announced that its NVMe-oF architecture has entered a final 45-day review as a key step toward release of a formal specification. The NVMe-0F 1.1 architecture is designed to improve storage network fabric communications while incorporating a transmission control protocol.The organization also this week announced the release of a NVMe 1.4 base specification with new \u201centerprise features\u201d described as easier to scale. Those features include a \u201crebuild assist\u201d tool for data recovery and migration functions. The 1.4 spec also includes features to boost performance, improved isolation\u2014and therefore, security\u2014as well as overall quality of service.Industry watchers noted that the latest NVMe release reflects industry efforts to forge standards for improving flash storage across datacenters. Industry backers also cited the spec\u2019s improved transport and congestion management capabilities.The NVMe Revision 1.4 spec is here.Meanwhile, key features of the over-fabric spec include the TCP transport designed to support NVMe on current datacenter TCP/IP network infrastructure. Another fabric I/O resource manager enables finer control of network storage resources.The upgraded NVMe 1.4 base specification and the pending over-fabric spec will be demonstrated at the Flash Memory Summit in August.The NVMe group said Tuesday (July 24) its fabric specification in currently on-track to be published in September. An earlier version of the NVMe-oF spec is here.Progress on the NVMe fabric builds on collaboration\u00a0last year among a trio of chip makers partnering to develop a reference architecture for NVMe over storage network infrastructure. Cavium Technologies, which specializes in processors for cloud datacenters, announced last year the NVMe-over-fabrics collaboration with chip makers Marvell and Microsemi Corp. The partners demonstrated the framework running on x86 and ARM64 architectures.The companies said their hardware platform would also use software packages from Cavium and Microsemi designed to boost performance by offloading computing resources from the data pipeline, thereby leveraging NVMe controller memory buffer technology.The configuration will demonstrate concurrent 100 Gbps NVMe-over-fabric connectivity running on x86 servers to flash arrays, including Facebook\u2019s (NASDAQ: FB) Lightning, the company\u2019s NVMe JBOF, or \u201cjust a bunch of flash\u201d platform. The partners have demonstrated how hardware vendors could boost storage performance while reducing latency.George Leopold has written about science and technology for more than 30 years, focusing on electronics and aerospace technology. He previously served as executive editor of Electronic Engineering Times. Leopold is the author of \"Calculated Risk: The Supersonic Life and Times of Gus Grissom\" (Purdue University Press, 2016).",
+    "author": [
+        "George Leopold",
+        "https://www.enterpriseai.news/author/george/"
+    ],
+    "date": "2019-07-25 00:00:00",
+    "cats": [
+        "Cloud",
+        "Datacenter",
+        "Networks",
+        "Security",
+        "Silicon",
+        "Slider: Cloud",
+        "Slider: Networks",
+        "Slider: Security",
+        "Slider: Silicon",
+        "Slider: Storage",
+        "Storage"
+    ],
+    "cat_urls": [
+        "https://www.enterpriseai.news/category/cloud/",
+        "https://www.enterpriseai.news/category/datacenter/",
+        "https://www.enterpriseai.news/category/networks/",
+        "https://www.enterpriseai.news/category/security/",
+        "https://www.enterpriseai.news/category/silicon/",
+        "https://www.enterpriseai.news/category/slider-cloud/",
+        "https://www.enterpriseai.news/category/slider-networks/",
+        "https://www.enterpriseai.news/category/slider-security/",
+        "https://www.enterpriseai.news/category/slider-silicon/",
+        "https://www.enterpriseai.news/category/slider-storage/",
+        "https://www.enterpriseai.news/category/storage/"
+    ],
+    "tags": [
+        "networks",
+        "NVM Express",
+        "NVMe",
+        "NVMe-oF",
+        "storage network fabric",
+        "TCP",
+        "TCP/IP"
+    ],
+    "tag_urls": [
+        "https://www.enterpriseai.news/tag/networks-2/",
+        "https://www.enterpriseai.news/tag/nvm-express/",
+        "https://www.enterpriseai.news/tag/nvme/",
+        "https://www.enterpriseai.news/tag/nvme-of/",
+        "https://www.enterpriseai.news/tag/storage-network-fabric/",
+        "https://www.enterpriseai.news/tag/tcp/",
+        "https://www.enterpriseai.news/tag/tcp-ip/"
+    ],
     "pic_urls": [
         "https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/data-storage-generic-big-data-systems-shutterstock_409479163--370x290.jpg",
         "https://secure.gravatar.com/avatar/4b7d4d569774f21b5db4f21ac8c19c8d?s=80&r=g"
