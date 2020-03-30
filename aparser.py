@@ -2,7 +2,6 @@ from selenium import webdriver
 from lxml.html import fromstring
 import json
 from datetime import datetime
-import requests
 
 def get_source_code(agent, url):
   agent.get(url)
@@ -69,11 +68,11 @@ def article_parser(agent, source_code):
   
   return article_data
 
+
 # reads article url from articles.json file (see qparser.py)
 with open ('articles.json', 'r') as f:
   article_link_data = f.read()
 article_link_data = json.loads(article_link_data)
-
 
 if __name__ == '__main__':
     driver = webdriver.Firefox(executable_path='geckodriver',  
